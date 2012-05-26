@@ -35,7 +35,6 @@ def drugs_like_me(term):
             results.append(k)
     return results
 
-
 @app.route("/")
 def index():
     return render_template('index.html')
