@@ -36,9 +36,9 @@ def search():
             results.append(k)
     return render_template('search.html', results = results)
 
-@app.route("/result")
-def result():
-    return render_template('result.html')
+@app.route("/result/<drug>")
+def result(drug):
+    return render_template('result.html', drug=bnf[drug])
 
 @app.route('/jstesting')
 def jstesting():
