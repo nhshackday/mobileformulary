@@ -2,12 +2,11 @@
 {% block title %}Index{% endblock %}
 {% block content %}
 <ul class="list">
+  {% for drug in results %}
     <li>
-        <h3><a href="/result">Crystapen</a></h3>
+        <h3><a href="/result">{{ drug }}</a></h3>
     </li>
-    <li>
-        <h3><a href="/result">Asprin</a></h3>
-    </li>
+    {% endfor %}
 </ul>
 {% endblock %}
 
