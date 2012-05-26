@@ -57,7 +57,8 @@ def jstesting():
 
 @app.route('/ajaxsearch', methods = ['GET'])
 def ajaxsearch():
-    pass
+    term = request.args.get('term') 
+    return json.dumps(drugs_like_me(term)) 
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.

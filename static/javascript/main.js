@@ -41,7 +41,7 @@
 
 
 $(function() {
-    $("#search").autocomplete({
-        source: "/search"
+    $("#q").autocomplete({
+        source: "/ajaxsearch"
     });
 });
