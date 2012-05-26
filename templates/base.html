@@ -2,8 +2,14 @@
 <html>
 <head>
     {% block head %}
+        <meta name="viewport" content="width=device-width,minimum-scale=1.0, maximum-scale=1.0" />
+        <meta name="apple-mobile-web-app-capable" content="yes">	
+        <link rel="apple-touch-icon-precomposed" href="{{ url_for('static', filename='images/iphone_icon.png') }}" />
+        <link rel="apple-touch-icon" href="{{ url_for('static', filename='images/iphone_icon.png') }}" />   
+        <link href="{{ url_for('static', filename='images/startup.png') }}" rel="apple-touch-startup-image" /> 
+        <script src="{{ url_for('static', filename='javascript/bookmark_bubble.js') }}" type="text/javascript" charset="utf-8"></script>
         <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
-        <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+        <!-- <script type='text/javascript' src='https://www.google.com/jsapi'></script> -->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
         <script type="text/javascript" src="{{ url_for('static', filename='javascript/main.js') }}"></script>
         <title>{% block title %}{% endblock %} | STUFF</title>
