@@ -19,3 +19,7 @@ body {font-family:verdana;font-size:13px; }
 
 
 .drug h2 {border-top:solid 1px #000; padding-top:8px;}
+
+.ui-menu-item {
+  list-style-type: none;
+}
