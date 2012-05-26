@@ -23,6 +23,19 @@ loader = jinja2.PackageLoader(__name__, 'templates')
 env = jinja2.Environment(loader=loader)
 env.globals['include_file'] = include_file
 
+
+def drugs_like_me(term):
+    """
+    Return a list of Drugs that are like our search term.
+    (For some value of like)
+    """
+    results = []
+    for k in bnf:
+        if k.lower().startswith(term.lower()):
+            results.append(k)
+    return results
+
+
 @app.route("/")
 def index():
     return render_template('index.html')
@@ -30,15 +43,13 @@ def index():
 @app.route("/search", methods = ['GET', 'POST'])
 def search():
     drug = request.form['q']
-    results = []
-    for k in bnf:
-        if k.lower().startswith(drug.lower()):
-            results.append(k)
+    results = drugs_like_me(drug)
     return render_template('search.html', results = results)
 
-@app.route("/result")
-def result():
-    return render_template('result.html')
+@app.route("/result/<drug>")
+def result(drug):
+    whitelist = ['doses', 'contra-indications', 'interactions']
+    return render_template('result.html', drug=bnf[drug], whitelist = whitelist)
 
 @app.route('/jstesting')
 def jstesting():

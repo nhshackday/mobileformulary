@@ -1,10 +1,29 @@
 {% extends "base.html" %}
 {% block title %}Index{% endblock %}
 {% block content %}
+
 <div class="drug">
-    <h1>Crystapen</h1>
+    <h1>{{drug['name']}}</h1>
     <h2>Dose</h2>
-    <h2>Side-effects</h2>
+    {% for dose in drug['doses'] %}
+      <p>{{dose}}</p>
+      {% endfor%}
+    {% if 'contra-indications' in drug %}
+      <h2>Contra-Indications</h2>
+      <p>{{drug['contra-indications']</p>
+    {% endif %}
+    {% if 'interactions' in drug %}
+      <h2>Interactions</h2>
+      <p>{{drug['interactions']['interaction']</p>
+    {% endif %}
+
+    {% for key in drug.keys() %}
+      {% if key not in whitelist %}
+      <h2>{{key.capitalize()}}</h2>
+      <p>{{drug[key]}}</p>
+      {% endif %}
+    {% endfor %}
 </div>
+
 {% endblock %}
 
