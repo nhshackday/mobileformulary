@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% block title %}Index{% endblock %}
 {% block content %}
-<h1>HELLO</h1>
+<form id="search">
+    <input type="text" name="q" id="q" placeholder="Drug name or condition"/>
+    <input type="submit" for="q"value="Search"/>
+</form>
 {% endblock %}
