@@ -58,13 +58,16 @@ def result(drug):
 def jstesting():
     return env.get_template('jstest.html').render()
 
+@app.route('/ajaxsearch', methods = ['GET'])
+def ajaxsearch():
+    term = request.args.get('term')
+    return json.dumps(drugs_like_me(term))
+
 @app.route('/api/', methods = ['POST'])
 def api_side_effects():
     names = drugs_like_me(request.form['drug'])
     results = [bnf[n] for n in names]
     return json.dumps(results)
-
-
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.

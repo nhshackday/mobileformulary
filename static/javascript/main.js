@@ -4,6 +4,16 @@ $(document).ready(function (){
       event.preventDefault();
       window.location = $(this).attr("href");
   });
+
+  //open close details
+  $('.drug h2').click(function (event){
+      if($(this).next().is(":hidden")){
+        $(this).next().slideDown();
+      }else{
+         $(this).next().slideUp();
+      }
+   });
+
 });
 
 //setup iphone bookmark prompt
@@ -47,4 +57,10 @@ $(document).ready(function (){
    }, 1000);
  }, false);
 
+
+$(function() {
+    $("#q").autocomplete({
+        source: "/ajaxsearch"
+    });
+});
 

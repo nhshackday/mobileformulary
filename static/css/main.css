@@ -9,7 +9,7 @@ body {font-family:verdana;font-size:13px; }
 #content {padding:70px 1% 1% 1%;}
 
 #search {position:relative;}
-#search input[type="text"]{display:block;margin-bottom:0.3em;}
+#search input[type="text"]{margin-bottom:0.3em;}
 #search input[type="submit"]{border:solid 1px #808080; background-color:#808080;color:#fff;}
 
 
@@ -17,8 +17,13 @@ body {font-family:verdana;font-size:13px; }
 .list a {display:block;}
 .list li {list-style-type:none;padding:0.5em 0; margin:0; border-bottom:solid 1px #000;}
 
+/* JQuery Autocomplete */
+.ui-menu-item {
+  list-style-type: none;
+}
+/* JQuery Autocomplete End */ 
 
-.drug h2 {border-top:solid 1px #000; padding-top:8px;}
+.drug h2 {border-top:solid 1px #000; padding-top:8px; cursor:pointer;}
 
 /* UX stylinx */
 .hidden p {display:none}
