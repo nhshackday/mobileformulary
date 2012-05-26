@@ -63,11 +63,12 @@ def ajaxsearch():
     term = request.args.get('term')
     return json.dumps(drugs_like_me(term))
 
-@app.route('/api/', methods = ['POST'])
+@app.route('/api/')
 def api_side_effects():
-    names = drugs_like_me(request.form['drug'])
+    term = request.args.get('drug')
+    names = drugs_like_me(term)
     results = [bnf[n] for n in names]
-    return json.dumps(results)
+    return '{0}({1})'.format(request.args.get('callback'), json.dumps(results))
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.
