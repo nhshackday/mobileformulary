@@ -1,7 +1,13 @@
-
-<script type="text/javascript" src="static/javascript/lib/underscore.js"></script>
-<script type="text/javascript">
-var bnf = {{include_file('bnf.json')}}
-</script>
-<script type="text/javascript" src="static/javascript/bnf.js"></script>
+{% extends "base.html" %}
+{% block title %}Index{% endblock %}
+{% block content %}
+<ul class="list">
+    <li>
+        <h3><a href="/result">Crystapen</a></h3>
+    </li>
+    <li>
+        <h3><a href="/result">Asprin</a></h3>
+    </li>
+</ul>
+{% endblock %}
 

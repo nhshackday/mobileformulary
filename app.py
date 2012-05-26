@@ -18,9 +18,17 @@ env.globals['include_file'] = include_file
 def index():
     return render_template('index.html')
 
-@app.route('/searching')
-def searching():
-    return env.get_template('search.html').render()
+@app.route("/search")
+def search():
+    return render_template('search.html')
+
+@app.route("/result")
+def result():
+    return render_template('result.html')
+
+@app.route('/jstesting')
+def jstesting():
+    return env.get_template('jstest.html').render()
 
 
 if __name__ == '__main__':
