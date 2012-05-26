@@ -1,12 +1,17 @@
 
 import json
 import os
-from flask import Flask
+from flask import Flask, request
 from flask import render_template
 app = Flask(__name__)
 app.debug = True
 
-bnf =  json
+bnf =  json.loads(
+    open(os.path.join(
+            os.path.dirname(__file__),
+            'templates/bnf.json'
+        ), 'r').read()
+    )
 
 # Static includes
 import jinja2
@@ -22,9 +27,14 @@ env.globals['include_file'] = include_file
 def index():
     return render_template('index.html')
 
-@app.route("/search")
+@app.route("/search", methods = ['GET', 'POST'])
 def search():
-    return render_template('search.html')
+    drug = request.form['q']
+    results = []
+    for k in bnf:
+        if k.lower().startswith(drug.lower()):
+            results.append(k)
+    return render_template('search.html', results = results)
 
 @app.route("/result")
 def result():
@@ -39,3 +49,5 @@ if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
+
+
