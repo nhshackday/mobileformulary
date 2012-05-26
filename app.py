@@ -9,11 +9,11 @@ def index():
     return render_template('index.html')
     
 @app.route("/search")
-def index():
+def search():
     return render_template('search.html')
 
 @app.route("/result")
-def index():
+def result():
     return render_template('result.html')
     
 if __name__ == '__main__':
