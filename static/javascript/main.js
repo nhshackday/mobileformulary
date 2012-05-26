@@ -38,3 +38,10 @@
      bubble.showIfAllowed();
    }, 1000);
  }, false);
+
+
+$(function() {
+    $("#search").autocomplete({
+        source: "/search"
+    });
+});

@@ -44,6 +44,9 @@ def result():
 def jstesting():
     return env.get_template('jstest.html').render()
 
+@app.route('/ajaxsearch', methods = ['GET'])
+def ajaxsearch():
+    pass
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.
