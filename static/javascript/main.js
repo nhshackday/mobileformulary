@@ -1,3 +1,11 @@
+$(document).ready(function (){ 
+  //open links with js to stop iphone app stupidness: http://stackoverflow.com/questions/2898740/iphone-safari-web-app-opens-links-in-new-window
+  $("a").click(function (event) {
+      event.preventDefault();
+      window.location = $(this).attr("href");
+  });
+});
+
 //setup iphone bookmark prompt
  window.addEventListener('load', function() {
    window.setTimeout(function() {
