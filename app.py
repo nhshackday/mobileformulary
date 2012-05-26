@@ -47,8 +47,12 @@ def search():
 
 @app.route("/result/<drug>")
 def result(drug):
-    whitelist = ['doses', 'contra-indications', 'interactions']
-    return render_template('result.html', drug=bnf[drug], whitelist = whitelist)
+    drug = bnf[drug]
+    whitelist = ['doses', 'contra-indications', 'interactions', 'name']
+    impairments = [k for k in drug if k.find('impairments')!= -1]
+    whitelist += impairments
+
+    return render_template('result.html', drug=drug, whitelist=whitelist, impairments=impairments)
 
 @app.route('/jstesting')
 def jstesting():

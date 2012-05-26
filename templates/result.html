@@ -16,6 +16,13 @@
       <p>{{drug['contra-indications']}}</p>
     </div>
 
+    {% for imp in impairments %}
+    <div class="hidden">
+      <h2>{{imp}}</h2>
+      <p>{{drug[imp]}}</p>
+    </div>
+    {% endfor %}
+
     {% endif %}
     {% if 'interactions' in drug %}
     <div class="hidden">
