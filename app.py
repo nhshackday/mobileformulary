@@ -49,14 +49,21 @@ def search():
 def result(drug):
     drug = bnf[drug]
     whitelist = ['doses', 'contra-indications', 'interactions', 'name']
-    impairments = [k for k in drug if k.find('impairments')!= -1]
+    impairments = [k for k in drug if k.find('impairment')!= -1]
     whitelist += impairments
-
+    print impairments
     return render_template('result.html', drug=drug, whitelist=whitelist, impairments=impairments)
 
 @app.route('/jstesting')
 def jstesting():
     return env.get_template('jstest.html').render()
+
+@app.route('/api/', methods = ['POST'])
+def api_side_effects():
+    names = drugs_like_me(request.form['drug'])
+    results = [bnf[n] for n in names]
+    return json.dumps(results)
+
 
 
 if __name__ == '__main__':
