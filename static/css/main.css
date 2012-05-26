@@ -18,7 +18,7 @@ body {font-family:verdana;font-size:13px; }
 .list li {list-style-type:none;padding:0.5em 0; margin:0; border-bottom:solid 1px #000;}
 
 
-.drug h2 {border-top:solid 1px #000; padding-top:8px;}
+.drug h2 {border-top:solid 1px #000; padding-top:8px; cursor:pointer;}
 
 /* UX stylinx */
 .hidden p {display:none}
