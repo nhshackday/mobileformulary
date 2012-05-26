@@ -17,6 +17,7 @@
       <p>{{drug['interactions']['interaction']}}</p>
     {% endif %}
 
+
     {% for key in drug.keys() %}
       {% if key not in whitelist %}
       <h2>{{key.capitalize()}}</h2>
