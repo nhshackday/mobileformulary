@@ -7,7 +7,7 @@ body {font-family:verdana;font-size:13px; padding-bottom:40px;margin-bottom:0;}
 #header h2 {font-weight:lighter; font-size:8px; position:absolute; right:1%; top:15px; margin: 0px;}
 #header a {color:#fff;text-decoration:none;}
 
-#content {padding:70px 1% 1% 1%; text-shadow: 1px 1px 0px #fff;}
+#content {padding:60px 1% 100px 1%; text-shadow: 1px 1px 0px #fff;}
 
 #search {position:relative;}
 #search input[type="text"]{margin-bottom:0.3em;}
@@ -28,15 +28,17 @@ body {font-family:verdana;font-size:13px; padding-bottom:40px;margin-bottom:0;}
 /* JQuery Autocomplete End */
 
 .drug h2 {border-top:solid 1px #000; padding-top:8px; cursor:pointer;}
+.drug {background:#fff;box-shadow: 3px 3px 3px #ddd; border:solid 1px #ddd;
+  padding:1em 2em; margin:0 20px;}
 
 .hidden p {display:none}
 @media screen and (min-width: 42em){
     /* UX styling for desktop */
     .hidden p {display:block}
-    .drug p {width: 800px; padding: 2em 0em;}
+    .drug p {width: 700px; padding: 0em;}
     #content {width: 820px;}
     #content .interaction{padding: 0em;}
 }
-#warning {background:#c55050; color:#fff; text-align:center; padding:5px; position:fixed; bottom:0; left:0; right:0;
+#warning {background:#c55050; color:#fff; text-align:center; padding:5px; position:fixed; bottom:-11px; left:0; right:0;
   text-shadow:none;}
 #warning a {color:#fff;}
