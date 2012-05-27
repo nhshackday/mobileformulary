@@ -57,9 +57,12 @@ $(document).ready(function (){
    }, 1000);
  }, false);
 
-
+/*
 $(function() {
     $("#q").autocomplete({
-        source: "/ajaxsearch"
+        source: "/ajaxsearch",
+        select: function(event, ui) {
+            console.log(event);
+        }
     });
-});
+}) */
