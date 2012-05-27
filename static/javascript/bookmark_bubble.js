@@ -535,7 +535,7 @@ google.bookmarkbubble.Bubble.prototype.build_ = function() {
   var isIpad = this.isIpad_();
 
   bubble.style.position = 'absolute';
-  bubble.style.zIndex = 1000;
+  bubble.style.zIndex = 2000000003;
   bubble.style.width = '100%';
   bubble.style.left = '0';
   bubble.style.top = '0';
