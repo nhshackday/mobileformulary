@@ -36,6 +36,12 @@ def drugs_like_me(term):
     (For some value of like)
     """
     results = []
+    if term.find('|') != -1:
+        frist, rest= term.split('|')
+        results = drugs_like_me(frist)
+        results += drugs_like_me(rest)
+        return results
+
     for k in bnf:
         if k.lower().startswith(term.lower()):
             results.append(k)
@@ -52,6 +58,7 @@ def index():
 def search():
     drug = request.form['q']
     results = drugs_like_me(drug)
+
     if len(results) == 1 and results[0].lower() == drug.lower():
         return redirect('/result/{0}'.format(results[0]))
     suggestions = []
