@@ -36,8 +36,14 @@ def drugs_like_me(term):
     (For some value of like)
     """
     results = []
-    if term.find('|') != -1:
-        frist, rest= term.split('|')
+    splitter = None
+    for splittee in ['|', ' OR ']:
+        if term.find(splittee) != -1:
+            splitter = splittee
+            break
+
+    if splitter:
+        frist, rest= term.split(splitter, 1)
         results = drugs_like_me(frist)
         results += drugs_like_me(rest)
         return results
@@ -83,7 +89,9 @@ def jstesting():
 @app.route('/ajaxsearch', methods = ['GET'])
 def ajaxsearch():
     term = request.args.get('term')
-    return json.dumps(drugs_like_me(term)[:10])
+    term = term.replace('+',  ' ')
+    responses = drugs_like_me(term)[:10]
+    return json.dumps(responses)
 
 @app.route('/api/')
 def api_side_effects():
