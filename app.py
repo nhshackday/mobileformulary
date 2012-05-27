@@ -5,7 +5,7 @@ import difflib
 import json
 import os
 
-from flask import Flask, request
+from flask import Flask, request, redirect
 from flask import render_template
 import jinja2
 
@@ -52,6 +52,8 @@ def index():
 def search():
     drug = request.form['q']
     results = drugs_like_me(drug)
+    if len(results) == 1 and results[0].lower() == drug.lower():
+        return redirect('/result/{0}'.format(results[0]))
     suggestions = []
     if not results:
         suggestions = difflib.get_close_matches(drug.upper(), bnf.keys())
@@ -63,7 +65,6 @@ def result(drug):
     whitelist = ['doses', 'contra-indications', 'interactions', 'name']
     impairments = [k for k in drug if k.find('impairment')!= -1]
     whitelist += impairments
-    print impairments
     return render_template('result.html', drug=drug, whitelist=whitelist, impairments=impairments)
 
 @app.route('/jstesting')
