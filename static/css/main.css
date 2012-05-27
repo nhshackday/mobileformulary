@@ -2,11 +2,11 @@ body {font-family:verdana;font-size:13px; padding-bottom:60px;margin-bottom:0;}
 
 #header {position:fixed; top:0;left:0; right:0;padding:0;border-top:solid 20px #3168be;z-index:100;
    background:#fff; color:#000;border-bottom:none;}
-#header h1 {padding:10px 0 6px 0;margin:0; font-size:30px;border-bottom:solid 3px #323232; text-align:left; margin:10px; text-transform:uppercase; font-weight:normal;}
+#header h1 {padding:10px 0 6px 0;margin:0; font-size:30px;border-bottom:solid 3px #323232; text-align:left; margin:10px; text-transform:uppercase; font-weight:normal!important;}
 
 #header a {color:#000;text-decoration:none;}
 
-#content {padding:60px 1% 100px 1%; text-shadow: 1px 1px 0px #fff; background:#fff;}
+#content {padding:70px 1% 100px 1%; text-shadow: 1px 1px 0px #fff; background:#fff;}
 
 #search {position:relative;}
 #search input[type="text"]{margin-bottom:0.3em;}
