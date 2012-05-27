@@ -1,4 +1,4 @@
-$(document).ready(function (){ 
+$(document).ready(function (){
   //open links with js to stop iphone app stupidness: http://stackoverflow.com/questions/2898740/iphone-safari-web-app-opens-links-in-new-window
   $("a").click(function (event) {
       event.preventDefault();
@@ -56,13 +56,3 @@ $(document).ready(function (){
      bubble.showIfAllowed();
    }, 1000);
  }, false);
-
-/*
-$(function() {
-    $("#q").autocomplete({
-        source: "/ajaxsearch",
-        select: function(event, ui) {
-            console.log(event);
-        }
-    });
-}) */

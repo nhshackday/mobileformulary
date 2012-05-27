@@ -1,0 +1,5 @@
+<form id="search" action='/search' method='POST'>
+    <input type="text" name="q" id="q" placeholder="Drug name or condition"
+           value="{%if query%}{{query}}{%endif%}"/>
+    <input type="submit" for="q"value="Search"/>
+</form>

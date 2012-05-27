@@ -1,8 +1,14 @@
-
+"""
+OpenBNF
+"""
+import difflib
 import json
 import os
-from flask import Flask, request
+
+from flask import Flask, request, redirect
 from flask import render_template
+import jinja2
+
 app = Flask(__name__)
 app.debug = True
 
@@ -13,9 +19,6 @@ bnf =  json.loads(
         ), 'r').read()
     )
 
-# Static includes
-import jinja2
-
 def include_file(name):
     return jinja2.Markup(loader.get_source(env, name)[0])
 
@@ -23,6 +26,9 @@ loader = jinja2.PackageLoader(__name__, 'templates')
 env = jinja2.Environment(loader=loader)
 env.globals['include_file'] = include_file
 
+"""
+Search
+"""
 
 def drugs_like_me(term):
     """
@@ -35,6 +41,9 @@ def drugs_like_me(term):
             results.append(k)
     return results
 
+"""
+Views
+"""
 @app.route("/")
 def index():
     drug_names = bnf.keys()
@@ -45,12 +54,20 @@ def index():
 def search():
     drug = request.form['q']
     results = drugs_like_me(drug)
-    return render_template('search.html', results = results)
+    if len(results) == 1 and results[0].lower() == drug.lower():
+        return redirect('/result/{0}'.format(results[0]))
+    suggestions = []
+    if not results:
+        suggestions = difflib.get_close_matches(drug.upper(), bnf.keys())
+    return render_template('search.html', results=results, query=drug, suggestions=suggestions)
 
 @app.route("/result/<drug>")
 def result(drug):
-    whitelist = ['doses', 'contra-indications', 'interactions']
-    return render_template('result.html', drug=bnf[drug], whitelist = whitelist)
+    drug = bnf[drug]
+    whitelist = ['doses', 'contra-indications', 'interactions', 'name']
+    impairments = [k for k in drug if k.find('impairment')!= -1]
+    whitelist += impairments
+    return render_template('result.html', drug=drug, whitelist=whitelist, impairments=impairments)
 
 @app.route('/jstesting')
 def jstesting():
@@ -58,8 +75,18 @@ def jstesting():
 
 @app.route('/ajaxsearch', methods = ['GET'])
 def ajaxsearch():
-    term = request.args.get('term') 
-    return json.dumps(drugs_like_me(term)) 
+    term = request.args.get('term')
+    return json.dumps(drugs_like_me(term)[:10])
+
+@app.route('/api/')
+def api_side_effects():
+    term = request.args.get('drug')
+    names = drugs_like_me(term)
+    results = [bnf[n] for n in names]
+    if 'callback' in request.args.get:
+        return '{0}({1})'.format(request.args.get('callback'), json.dumps(results))
+    else:
+        return json.dumps(results)
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.
