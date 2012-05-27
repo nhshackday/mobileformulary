@@ -52,7 +52,9 @@ Views
 """
 @app.route("/")
 def index():
-    return render_template('index.html')
+    drug_names = bnf.keys()
+    drug_names.sort()
+    return render_template('index.html', drugs=drug_names)
 
 @app.route("/search", methods = ['GET', 'POST'])
 def search():

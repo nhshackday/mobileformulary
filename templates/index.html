@@ -1,5 +1,50 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+	<title>OpenBNF</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+        <script src="http://www.andymatthews.net/code/autocomplete/jqm.autoComplete-1.3.js"></script>
+        <script type="text/javascript">
+          $(function() {
+                $("#q").autocomplete({
+				target: $('#suggestions'),
+				source: '/ajaxsearch',
+				link: '/result/',
+				minLength: 1
+			});
+
+
+
+            });
+	</script>
+
+</head> 
+<body> 
+
+<div data-role="page" id="main-page">
+
+	<div data-role="header">
+		<h1>OpenBNF</h1>
+	</div><!-- /header -->
+
+	<div data-role="content">	
+                <input type="text" id="q" placeholder="Drug Name or Indication" autocomplete="off"/>
+		<ul id="suggestions" data-role="listview" data-inset="true">		
+                </ul>
+	</div><!-- /content -->
+
+</div><!-- /page -->
+
+</body>
+</html>
+<!--
+=======
 {% extends "base.html" %}
 {% block title %}Index{% endblock %}
 {% block content %}
 {% include 'searchbox.html' %}
 {% endblock %}
+>>>>>>> e6ca2374ff1ed287c0bc2b5364cde183d6fed2c9 -->

@@ -56,11 +56,3 @@ $(document).ready(function (){
      bubble.showIfAllowed();
    }, 1000);
  }, false);
-
-
-$(function() {
-    $("#q").autocomplete({
-        source: "/ajaxsearch"
-    });
-});
-
