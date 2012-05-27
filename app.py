@@ -73,7 +73,7 @@ def jstesting():
 @app.route('/ajaxsearch', methods = ['GET'])
 def ajaxsearch():
     term = request.args.get('term')
-    return json.dumps(drugs_like_me(term))
+    return json.dumps(drugs_like_me(term)[:10])
 
 @app.route('/api/')
 def api_side_effects():
