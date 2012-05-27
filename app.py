@@ -102,7 +102,7 @@ def api_side_effects():
     term = request.args.get('drug')
     names = drugs_like_me(term)
     results = [bnf[n] for n in names]
-    if 'callback' in request.args.get:
+    if  request.args.get('callback', None):
         return '{0}({1})'.format(request.args.get('callback'), json.dumps(results))
     else:
         return json.dumps(results)
