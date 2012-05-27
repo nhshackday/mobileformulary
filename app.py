@@ -50,6 +50,10 @@ def index():
     drug_names.sort()
     return render_template('index.html', drugs=drug_names)
 
+@app.route("/about")
+def about():
+    return render_template('about.html')
+    
 @app.route("/search", methods = ['GET', 'POST'])
 def search():
     drug = request.form['q']
