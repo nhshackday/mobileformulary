@@ -12,7 +12,7 @@ body {font-family:verdana;font-size:13px; padding-bottom:60px;margin-bottom:0;}
 #search input[type="text"]{margin-bottom:0.3em;}
 #search input[type="submit"]{border:solid 1px #808080; background-color:#808080;color:#fff;}
 
-.welcome {font-size:2em; padding-left:8px;}
+.welcome {font-size:1.4em; padding-left:8px;}
 
 .list {padding:0; margin:0;}
 .list a {display:block;}
