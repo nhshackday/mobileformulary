@@ -4,6 +4,7 @@
 
 <div class="drug">
     <h1>{{drug['name']}}</h1>
+    {% if not drug['homeopathic'] %}
     <div>
       <h2>Dose</h2>
       {% for dose in drug['doses'] %}
@@ -47,6 +48,19 @@
 
       {% endif %}
     {% endfor %}
+    {% else %}
+    <p>
+    {{drug['name']}} is a Homeopathic remedy, used to treat {{drug['indications']}}.
+    </p>
+    <p>
+      Thanks to Mobile Formulary's ground breaking Digital Homeopathic Delivery System, you can
+      take this medicine digitally!
+    </p>
+    <p>
+      Please click the button below once per day for 2-3 years
+    </p>
+    <input type="button" name="Remedy" value="Feel Better" />
+    {% endif %}
 </div>
 
 {% endblock %}
