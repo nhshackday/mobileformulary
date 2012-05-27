@@ -38,5 +38,6 @@ body {font-family:verdana;font-size:13px; padding-bottom:60px;margin-bottom:0;}
     #content {width: 820px;}
     #content .interaction{padding: 0em;}
 }
-#warning {background:#c55050; color:#fff; text-align:center; padding:5px; position:fixed; bottom:-11px; left:0; right:0;text-shadow:none;z-index:2000000001; white-space:nowrap;}
+#warning {background:#c55050; color:#fff; text-align:center; padding:5px; position:fixed; bottom:-11px; left:0; right:0;text-shadow:none;z-index:2000000001; }
+#warning a {white-space:nowrap;}
 #warning a {color:#fff;}
