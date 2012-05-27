@@ -3,28 +3,60 @@
 <head>
     {% block head %}
         <meta name="viewport" content="width=device-width,minimum-scale=1.0, maximum-scale=1.0" />
-        <meta name="apple-mobile-web-app-capable" content="yes">	
+        <meta name="apple-mobile-web-app-capable" content="yes">
         <link rel="apple-touch-icon-precomposed" href="{{ url_for('static', filename='images/iphone_icon.png') }}" />
-        <link rel="apple-touch-icon" href="{{ url_for('static', filename='images/iphone_icon.png') }}" />   
-        <link href="{{ url_for('static', filename='images/startup.png') }}" rel="apple-touch-startup-image" /> 
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+        <link rel="apple-touch-icon" href="{{ url_for('static', filename='images/iphone_icon.png') }}" />
+        <link href="{{ url_for('static', filename='images/startup.png') }}" rel="apple-touch-startup-image" />
         <!-- <script type='text/javascript' src='https://www.google.com/jsapi'></script> -->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.js"></script>
-        <script src="{{ url_for('static', filename='javascript/bookmark_bubble.js') }}" type="text/javascript" charset="utf-8"></script>        
+        <script src="{{ url_for('static', filename='javascript/bookmark_bubble.js') }}" type="text/javascript" charset="utf-8"></script>
         <script type="text/javascript" src="{{ url_for('static', filename='javascript/main.js') }}"></script>
+
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+        <script src="http://www.andymatthews.net/code/autocomplete/jqm.autoComplete-1.3.js"></script>
+        <script type="text/javascript">
+          $(function() {
+                $("#q").autocomplete({
+				target: $('#suggestions'),
+				source: '/ajaxsearch',
+				link: '/result/',
+				minLength: 1
+			});
+
+
+
+            });
+	</script>
+
+
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
         <title>{% block title %}{% endblock %} | OpenBNF</title>
     {% endblock %}
 </head>
 <body>
-<div id="header">
-    <h1><a href="/">OpenBNF</a></h1>
-    <h2><a href="http://nhshackday.com/">Built at the NHS Hackday</a></h2>
-</div>
-<div id="content">
-    {% block content %}{% endblock %}
-</div>
-<div id="footer">
-    {% block footer %}{% endblock %}
-</div>
+
+
+<div data-role="page" id="main-page">
+
+	<div data-role="header" id="header">
+                <h1><a href="/">OpenBNF</a></h1>
+                <h2><a href="http://nhshackday.com/">Built at the NHS Hackday</a></h2>
+	</div><!-- /header -->
+
+	<div data-role="content" id="content">
+          {% block content %}{% endblock %}
+	</div><!-- /content -->
+        <div id="footer">
+          {% block footer %}{% endblock %}
+        </div>
+
+
+</div><!-- /page -->
+
+
+
 </body>
