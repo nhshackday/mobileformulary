@@ -3,7 +3,7 @@
 {% block content %}
 
 <div class="drug">
-    <h1>{{drug['name']}}</h1>
+    <h1>{{drug['name'].lower().capitalize()}}</h1>
     {% if not drug['homeopathic'] %}
     <div>
       <h2>Dose</h2>

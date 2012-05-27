@@ -1,13 +1,12 @@
-body {font-family:verdana;font-size:13px; padding-bottom:40px;margin-bottom:0;}
+body {font-family:verdana;font-size:13px; padding-bottom:60px;margin-bottom:0;}
 
-#header {position:fixed; top:0;left:0; right:0;padding:0;background:#c1db83; z-index:100; text-align:center;
-  border-bottom:solid 1px #9bbc4d; }
-#header h1 {padding:10px 0 6px 0;margin:0; font-size:20px;   text-shadow: 1px 1px 0px #9bbc4d;
-}
+#header {position:fixed; top:0;left:0; right:0;padding:0;border-top:solid 20px #3168be;z-index:100;
+   background:#fff; color:#000;border-bottom:none;}
+#header h1 {padding:10px 0 6px 0;margin:0; font-size:20px;border-bottom:solid 3px #323232; text-align:left; margin:10px;}
 #header h2 {font-weight:lighter; font-size:8px; position:absolute; right:1%; top:15px; margin: 0px;}
-#header a {color:#fff;text-decoration:none;}
+#header a {color:#000;text-decoration:none;}
 
-#content {padding:60px 1% 100px 1%; text-shadow: 1px 1px 0px #fff;}
+#content {padding:60px 1% 100px 1%; text-shadow: 1px 1px 0px #fff; background:#fff;}
 
 #search {position:relative;}
 #search input[type="text"]{margin-bottom:0.3em;}
@@ -27,9 +26,9 @@ body {font-family:verdana;font-size:13px; padding-bottom:40px;margin-bottom:0;}
 }
 /* JQuery Autocomplete End */
 
-.drug h2 {border-top:solid 1px #808080; padding-top:8px; cursor:pointer;}
-.drug {background:#fff;box-shadow: 3px 3px 3px #ddd; border:solid 1px #ddd;
-  padding:1em 2em; margin:0 20px;}
+.drug h1 {font-size:40px;}
+.drug h2 {border-top:solid 2px #323232;  padding-top:8px; cursor:pointer; text-transform:uppercase; font-size:13px;}
+.drug {background:#fff;margin:0 8px;}
 
 .hidden p {display:none}
 @media screen and (min-width: 42em){
