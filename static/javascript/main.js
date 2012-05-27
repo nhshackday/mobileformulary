@@ -1,12 +1,12 @@
 $(document).ready(function (){
   //open links with js to stop iphone app stupidness: http://stackoverflow.com/questions/2898740/iphone-safari-web-app-opens-links-in-new-window
-  $("a").click(function (event) {
-      event.preventDefault();
-      window.location = $(this).attr("href");
-  });
+  // $("a").click(function (event) {
+  //     event.preventDefault();
+  //     window.location = $(this).attr("href");
+  // });
 
   //open close details
-  $('.drug div h2').click(function (event){
+  $('.drug div h2').live("click", function (event){
       if($(this).next().is(":hidden")){
         $(this).next().slideDown('fast');
       }else{
