@@ -1,17 +1,19 @@
-body {font-family:verdana;font-size:13px; }
+body {font-family:verdana;font-size:13px; padding-bottom:40px;margin-bottom:0;}
 
-#header {border-bottom:solid 1px #000; position:fixed; top:0;left:1%; right:1%;
-  border-top:solid 20px #c1db83;padding:0;background:#fff; z-index:100;}
-#header h1 {padding:20px 0 6px 0;margin:0; font-size:13px; text-align: left;}
+#header {position:fixed; top:0;left:0; right:0;padding:0;background:#c1db83; z-index:100; text-align:center;
+  border-bottom:solid 1px #9bbc4d; }
+#header h1 {padding:10px 0 6px 0;margin:0; font-size:20px;   text-shadow: 1px 1px 0px #9bbc4d;
+}
 #header h2 {font-weight:lighter; font-size:8px; position:absolute; right:1%; top:15px; margin: 0px;}
-#header a {color:#000;text-decoration:none;}
+#header a {color:#fff;text-decoration:none;}
 
-#content {padding:70px 1% 1% 1%;}
+#content {padding:70px 1% 1% 1%; text-shadow: 1px 1px 0px #fff;}
 
 #search {position:relative;}
 #search input[type="text"]{margin-bottom:0.3em;}
 #search input[type="submit"]{border:solid 1px #808080; background-color:#808080;color:#fff;}
 
+.welcome {text-align:center; font-size:2em;}
 
 .list {padding:0; margin:0;}
 .list a {display:block;}
@@ -35,5 +37,6 @@ body {font-family:verdana;font-size:13px; }
     #content {width: 820px;}
     #content .interaction{padding: 0em;}
 }
-#warning {background:#c55050; color:#fff; text-align:center; padding:5px; position:fixed; bottom:0; left:0; right:0;}
+#warning {background:#c55050; color:#fff; text-align:center; padding:5px; position:fixed; bottom:0; left:0; right:0;
+  text-shadow:none;}
 #warning a {color:#fff;}
