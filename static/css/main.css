@@ -21,9 +21,15 @@ body {font-family:verdana;font-size:13px; }
 .ui-menu-item {
   list-style-type: none;
 }
-/* JQuery Autocomplete End */ 
+/* JQuery Autocomplete End */
 
 .drug h2 {border-top:solid 1px #000; padding-top:8px; cursor:pointer;}
 
-/* UX stylinx */
 .hidden p {display:none}
+@media screen and (min-width: 42em){
+    /* UX styling for desktop */
+    .hidden p {display:block}
+    .drug p {width: 800px; padding: 2em 0em;}
+    #content {width: 820px;}
+    #content .interaction{padding: 0em;}
+}

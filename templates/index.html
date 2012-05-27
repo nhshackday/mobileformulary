@@ -1,8 +1,5 @@
 {% extends "base.html" %}
 {% block title %}Index{% endblock %}
 {% block content %}
-<form id="search" action='/search' method='POST'>
-    <input type="text" name="q" id="q" placeholder="Drug name or condition"/>
-    <input type="submit" for="q"value="Search"/>
-</form>
+{% include 'searchbox.html' %}
 {% endblock %}
