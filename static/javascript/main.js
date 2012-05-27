@@ -8,9 +8,9 @@ $(document).ready(function (){
   //open close details
   $('.drug div h2').click(function (event){
       if($(this).next().is(":hidden")){
-        $(this).next().slideDown();
+        $(this).next().slideDown('fast');
       }else{
-         $(this).next().slideUp();
+         $(this).next().slideUp('fast');
       }
    });
 
