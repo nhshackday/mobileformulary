@@ -49,7 +49,10 @@ def drugs_like_me(term):
         return results
 
     for k in bnf:
-        if k.lower().startswith(term.lower()):
+        # We only want dicts that have a name key, otherwise likely to
+        # just be a list of indications (which we may later render another
+        # way)
+        if k.lower().startswith(term.lower()) and 'name' in bnf[k]:
             results.append(k)
     return results
 
@@ -65,7 +68,7 @@ def index():
 @app.route("/about")
 def about():
     return render_template('about.html')
-    
+
 @app.route("/search", methods = ['GET', 'POST'])
 def search():
     drug = request.form['q']
