@@ -15,7 +15,7 @@ app.debug = True
 bnf =  json.loads(
     open(os.path.join(
             os.path.dirname(__file__),
-            'bnf.json'
+            'templates/bnf.json'
         ), 'r').read()
     )
 
@@ -52,7 +52,8 @@ def drugs_like_me(term):
         # We only want dicts that have a name key, otherwise likely to
         # just be a list of indications (which we may later render another
         # way)
-        if k.lower().startswith(term.lower()) and 'name' in bnf[k]:
+        if k.lower().startswith(term.lower()):
+            #and 'name' in bnf[k]:
             results.append(k)
     return results
 
