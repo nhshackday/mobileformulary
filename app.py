@@ -84,7 +84,7 @@ def search():
 @app.route("/result/<drug>")
 def result(drug):
     drug = bnf[drug]
-    whitelist = ['doses', 'contra-indications', 'interactions', 'name']
+    whitelist = ['doses', 'contra-indications', 'interactions', 'name', 'breadcrumbs', 'fname']
     impairments = [k for k in drug if k.find('impairment')!= -1]
     whitelist += impairments
     return render_template('result.html', drug=drug, whitelist=whitelist, impairments=impairments)
