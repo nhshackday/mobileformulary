@@ -54,6 +54,8 @@ DRUGSECTS = [
     'pregnancy'
     ]
 
+_paragraph_re = re.compile(r'(?:\r\n|\r|\n){2,}')
+
 # These were used in previous iterations, useful for storing lists of interesting files.
 # INTERACTIONS = 'interactions.txt'
 # DRUGFILES = 'drugfiles.txt'
@@ -448,6 +450,30 @@ def is_drugfile(root):
         return False
     return True
 
+def interpolate_links(dom, basename):
+    """
+    Given a section of the DOM from an HTML Document containing
+    'See Notes Above' links, interpolate the contents of that
+    section into this Drug section.
+    """
+    links = dom.cssselect('a')
+    for link in links:
+        href, anchor= link.attrib['href'], None
+        if href.find('#') != -1:
+            href, anchor = href.split('#')
+        linkfile = os.path.join(basename, href)
+        root = html.parse(open(linkfile, 'r')).getroot()
+        title = root.cssselect('title')[0].text_content()
+        if anchor:
+            related = root.get_element_by_id(anchor).text_content()
+            related = re.sub(_paragraph_re, ' ', related)
+            link.text = u"%s\n(From {0})\n{1}".format(title, related)
+        else:
+            import ipdb
+            ipdb.set_trace()
+            above = True
+
+    return
 
 def parse_drugfile(fname):
     """
@@ -505,7 +531,17 @@ def parse_drugfile(fname):
             doses = [d.text_content() for d in sect.cssselect('p')]
             drug['doses'] += doses
         elif title.lower() in DRUGSECTS:
-            drug[title.lower()] = sect.text_content()
+            # At this point we check for 'See notes above'
+            # As a frsit pass we're going to pull the target, and just interpolate it
+            # into the current drug with a note.
+            if sect.text_content().lower().find('see notes above') != -1:
+                # We don't deal with alternative spellings of see notes here...
+                # /home/david/src/nhshackday/bnf-html/www.medicinescomplete.com/mc/bnf/current/3070.htm
+                interpolate_links(sect, os.path.dirname(fname))
+                content = re.sub(r'see %s', '', sect.text_content())#Marker to kill the annoying 'see'
+                drug[title.lower()] = content
+            else:
+                drug[title.lower()] = sect.text_content()
 
         else:
             # !!! This is where we eventually add the other sections
