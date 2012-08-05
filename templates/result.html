@@ -43,7 +43,13 @@
       {% if key not in whitelist %}
     <div class="hidden">
       <h2>{{key.capitalize()}}</h2>
-      <p>{{drug[key].capitalize()}}</p>
+      <p>
+        {% for line in drug[key].splitlines() %}
+        <p>
+          {{line}}
+        </p>
+        {% endfor %}
+      </p>
     </div>
 
       {% endif %}
