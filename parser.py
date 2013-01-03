@@ -142,7 +142,7 @@ class DrugDocument(object):
         """
         self.fname = fname
         self.markup = markup = html.parse(open(fname, 'r')).getroot()
-        self.name = getname(root)
+        self.name = getname(self.markup)
 
 def filter_dups(fnames):
     """
@@ -163,8 +163,8 @@ def filter_dups(fnames):
     drughash = collections.defaultdict(list)
     for f in fnames:
         drugdoc = DrugDocument(f)
-        if len(drughash[f.name]) == 0:
-            drughash[f.name].  append(f)
+        if len(drughash[drugdoc.name]) == 0:
+            drughash[drugdoc.name].  append(f)
         else:
             # !!! This is where we do genuine duplicate detection.
             pass
@@ -610,6 +610,7 @@ def drugdict(args): # UI Helper fn
     else:
         filez = None
 
+    log.debug('%s filez', len(filez))
     drugd, subsections = extract_drugs(args, filelist=filez)
     print json.dumps(drugd,indent=2)
     log.debug(subsections)
@@ -666,6 +667,8 @@ def main():
         help='Print a dict representation of the drugs as extracted'
         )
     parser_drugdict.add_argument('-f', '--file', type=str)
+    parser_drugdict.add_argument('-d', '--debug', help='Print debugging information',
+                                 action = 'store_true')
     parser_drugdict.add_argument('-o', '--offset', type=int,
                                  help='Begin at this offset in --file')
     parser_drugdict.set_defaults(func=drugdict)
