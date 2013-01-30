@@ -1,24 +1,26 @@
 <!doctype html>
-<html>
+<html class="{% block pageclass %}{%endblock %}">
 <head>
     {% block head %}
     <!-- HAI ! -->
         <meta name="viewport" content="width=device-width,minimum-scale=1.0, maximum-scale=1.0" />
         <meta name="apple-mobile-web-app-capable" content="yes">
-        <link rel="apple-touch-icon-precomposed" href="{{ url_for('static', filename='images/iphone_icon.png') }}" />
-        <link rel="apple-touch-icon" href="{{ url_for('static', filename='images/iphone_icon.png') }}" />
-        <link href="{{ url_for('static', filename='images/startup.png') }}" rel="apple-touch-startup-image" />
+        <link rel="apple-touch-icon-precomposed" href="/static/images/iphone_icon.png" />
+        <link rel="apple-touch-icon" href="/static/images/iphone_icon.png" />
+        <link href="/static/images/startup.png" rel="apple-touch-startup-image" />
         <!-- <script type='text/javascript' src='https://www.google.com/jsapi'></script> -->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.js"></script>
-        <script src="{{ url_for('static', filename='javascript/bookmark_bubble.js') }}" type="text/javascript" charset="utf-8"></script>
-        <script type="text/javascript" src="{{ url_for('static', filename='javascript/main.js') }}"></script>
+        <script src="/static/javascript/bookmark_bubble.js" type="text/javascript" charset="utf-8"></script>
+        <script type="text/javascript" src="/static/javascript/main.js"></script>
 
         <script type="text/javascript" src="http://use.typekit.com/yep3evw.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
 	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+        {% block jquerymobile %}
+
 	<script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
         <script src="/static/javascript/jqm.autocomplete.min.js"></script>
         <script type="text/javascript">
@@ -32,9 +34,14 @@
 
             });
 	</script>
+        {% endblock %}
 
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
-        <title>{% block title %}{% endblock %} | Mobile Formulary</title>
+        {% block extrascripts %}
+
+        {% endblock %}
+
+        <link rel="stylesheet" href="/static/css/main.css">
+        <title>{% block title %}{% endblock %} | Open BNF</title>
         <script type="text/javascript">
 
           var _gaq = _gaq || [];
@@ -71,8 +78,8 @@
 
 	<div data-role="header" id="header">
                 <h1>
-                    <a href="/">Mobile Formulary</a>
-                    <img src="{{ url_for('static', filename='images/logo.png') }}"/>
+                    <a href="/">Open BNF</a>
+                    <img src="/static/images/logo.png"/>
                 </h1>
 	</div><!-- /header -->
 
