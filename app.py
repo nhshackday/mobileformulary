@@ -6,7 +6,7 @@ import json
 import os
 import re
 
-from flask import Flask, request, redirect, Response
+from flask import Flask, request, redirect, Response, make_response
 from flask import render_template
 import jinja2
 from jinja2 import evalcontextfilter, Markup, escape
@@ -42,6 +42,12 @@ def nl2br(eval_ctx, value):
     if eval_ctx.autoescape:
         result = Markup(result)
     return result
+
+def json_template(tplname, **context):
+    return Response(
+        render_template(tplname,**context),
+        mimetype='application/json'
+        )
 
 """
 Search
@@ -120,6 +126,28 @@ def ajaxsearch():
 @app.route('/api/')
 def api_side_effects():
     term = request.args.get('drug')
+    names = drugs_like_me(term)
+    results = [bnf[n] for n in names]
+    if  request.args.get('callback', None):
+        return '{0}({1})'.format(request.args.get('callback'), json.dumps(results))
+    else:
+        return Response(json.dumps(results), mimetype='text/json')
+
+@app.route('/api/v2/openbnf')
+def apidoc_endpoint():
+    return json_template('api/base.json.js', host=request.host)
+
+@app.route('/api/v2/openbnf/drug')
+def apidoc_drug_endpoint():
+    return json_template('api/drug.json.js', host=request.host)
+
+@app.route('/api/v2/doc')
+def apidoc():
+    return env.get_template('apidoc.html').render()
+
+@app.route('/api/v2/drug')
+def api_v2_drug():
+    term = request.args.get('name')
     names = drugs_like_me(term)
     results = [bnf[n] for n in names]
     if  request.args.get('callback', None):
