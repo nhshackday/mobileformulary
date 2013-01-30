@@ -6,7 +6,7 @@ import json
 import os
 import re
 
-from flask import Flask, request, redirect
+from flask import Flask, request, redirect, Response
 from flask import render_template
 import jinja2
 from jinja2 import evalcontextfilter, Markup, escape
@@ -125,10 +125,9 @@ def api_side_effects():
     if  request.args.get('callback', None):
         return '{0}({1})'.format(request.args.get('callback'), json.dumps(results))
     else:
-        return json.dumps(results)
+        return Response(json.dumps(results), mimetype='text/json')
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
-
