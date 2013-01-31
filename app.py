@@ -11,15 +11,12 @@ from flask import render_template
 import jinja2
 from jinja2 import evalcontextfilter, Markup, escape
 
+from db import db
+
 app = Flask(__name__)
 app.debug = True
 
-bnf =  json.loads(
-    open(os.path.join(
-            os.path.dirname(__file__),
-            'templates/bnf.json'
-        ), 'r').read()
-    )
+NAMES = [d['name'] for d in db.drugs.find()]
 
 def include_file(name):
     return jinja2.Markup(loader.get_source(env, name)[0])
@@ -49,16 +46,23 @@ def json_template(tplname, **context):
         mimetype='application/json'
         )
 
+def without_oid(fn):
+    def wrapper(*args, **kwargs):
+        results = fn(*args, **kwargs)
+        for i in range(len(results)):
+            del results[i]['_id']
+        return results
+    return wrapper
+
 """
 Search
 """
-
+@without_oid
 def drugs_like_me(term):
     """
     Return a list of Drugs that are like our search term.
     (For some value of like)
     """
-    results = []
     splitter = None
     for splittee in ['|', ' OR ']:
         if term.find(splittee) != -1:
@@ -66,27 +70,29 @@ def drugs_like_me(term):
             break
 
     if splitter:
+        results = []
         frist, rest = term.split(splitter, 1)
         results = drugs_like_me(frist)
-        results += drugs_like_me(rest)
+        results += drugs_like_me(rest);
         return results
 
-    for k in bnf:
-        # We only want dicts that have a name key, otherwise likely to
-        # just be a list of indications (which we may later render another
-        # way)
-        if k.lower().startswith(term.lower()) and 'name' in bnf[k]:
-            results.append(k)
-    return results
+    return [d for d in db.drugs.find({'name': {'$regex': term, '$options':'i'}})]
+
+def drugs_quite_close(drug):
+    """
+    There are no exact matches for DRUG, but we can
+    do better than just bailing.
+
+    Perform a fuzzy match and return that.
+    """
+    return difflib.get_close_matches(drug.upper(), NAMES)
 
 """
 Views
 """
 @app.route("/")
 def index():
-    drug_names = bnf.keys()
-    drug_names.sort()
-    return render_template('index.html', drugs=drug_names)
+    return render_template('index.html')
 
 @app.route("/about")
 def about():
@@ -101,16 +107,20 @@ def search():
         return redirect('/result/{0}'.format(results[0]))
     suggestions = []
     if not results:
-        suggestions = difflib.get_close_matches(drug.upper(), bnf.keys())
+        suggestions = drugs_quite_close(drug)
     return render_template('search.html', results=results, query=drug, suggestions=suggestions)
 
 @app.route("/result/<drug>")
 def result(drug):
-    drug = bnf[drug]
+
+    drug = db.drugs.find_one({'name': drug})
+
+    del drug['_id']
     whitelist = ['doses', 'contra-indications', 'interactions', 'name', 'breadcrumbs', 'fname']
     impairments = [k for k in drug if k.find('impairment')!= -1]
     whitelist += impairments
-    return render_template('result.html', drug=drug, whitelist=whitelist, impairments=impairments)
+    return render_template('result.html', drug=drug,
+                           whitelist=whitelist, impairments=impairments)
 
 @app.route('/jstesting')
 def jstesting():
@@ -121,10 +131,12 @@ def ajaxsearch():
     term = request.args.get('term')
     term = term.replace('+',  ' ')
     responses = drugs_like_me(term)[:10]
+    responses = [n['name'] for n in responses]
+    print responses
     return json.dumps(responses)
 
 @app.route('/api/')
-def api_side_effects():
+def api_v1_drugs():
     term = request.args.get('drug')
     names = drugs_like_me(term)
     results = [bnf[n] for n in names]
@@ -148,8 +160,7 @@ def apidoc():
 @app.route('/api/v2/drug')
 def api_v2_drug():
     term = request.args.get('name')
-    names = drugs_like_me(term)
-    results = [bnf[n] for n in names]
+    results = drugs_like_me(term)
     if  request.args.get('callback', None):
         return '{0}({1})'.format(request.args.get('callback'), json.dumps(results))
     else:

@@ -15,9 +15,11 @@ bnf =  json.loads(
     )
 
 def main():
+    db.drugs.drop()
     for drug in bnf.values():
-        db.drus.save(drug)
+        db.drugs.save(drug)
     return 0
 
 if __name__ == '__main__':
+    db.drus.drop()
     sys.exit(main())
