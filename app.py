@@ -2,11 +2,12 @@
 OpenBNF
 """
 import difflib
+import functools
 import json
 import os
 import re
 
-from flask import Flask, request, redirect, Response, make_response
+from flask import Flask, abort, request, redirect, Response, make_response
 from flask import render_template
 import jinja2
 from jinja2 import evalcontextfilter, Markup, escape
@@ -53,6 +54,17 @@ def without_oid(fn):
             del results[i]['_id']
         return results
     return wrapper
+
+def jsonp(fn):
+    @functools.wraps(fn)
+    def with_callback_maybe(*args,**kwargs):
+        results = fn(*args,**kwargs)
+        results = json.dumps(results)
+        if  request.args.get('callback', None):
+            return '{0}({1})'.format(request.args.get('callback'), results)
+        else:
+            return Response(results, mimetype='application/json')
+    return with_callback_maybe
 
 """
 Search
@@ -143,7 +155,7 @@ def api_v1_drugs():
     if  request.args.get('callback', None):
         return '{0}({1})'.format(request.args.get('callback'), json.dumps(results))
     else:
-        return Response(json.dumps(results), mimetype='text/json')
+        return Response(json.dumps(results), mimetype='application/json')
 
 @app.route('/api/v2/openbnf')
 def apidoc_endpoint():
@@ -153,18 +165,60 @@ def apidoc_endpoint():
 def apidoc_drug_endpoint():
     return json_template('api/drug.json.js', host=request.host)
 
+@app.route('/api/v2/openbnf/indication')
+def apidoc_indication_endpoint():
+    return json_template('api/indication.json.js', host=request.host)
+
+@app.route('/api/v2/openbnf/sideeffects')
+def apidoc_sideeffects_endpoint():
+    return json_template('api/sideeffects.json.js', host=request.host)
+
 @app.route('/api/v2/doc')
 def apidoc():
     return env.get_template('apidoc.html').render()
 
+@app.route('/api/v2/drug/<code>')
+@jsonp
+def api_v2_drug_bnf_code(code):
+    print code
+    codemap = db.codes.find_one({'code': code})
+    if not codemap:
+        abort(404)
+    print codemap
+    drug = db.drugs.find_one({'name': codemap['name']})
+    if not drug:
+        abort(404)
+    del drug['_id']
+    print drug
+    return drug
+
 @app.route('/api/v2/drug')
+@jsonp
 def api_v2_drug():
     term = request.args.get('name')
-    results = drugs_like_me(term)
-    if  request.args.get('callback', None):
-        return '{0}({1})'.format(request.args.get('callback'), json.dumps(results))
-    else:
-        return Response(json.dumps(results), mimetype='text/json')
+    return drugs_like_me(term)
+
+@app.route('/api/v2/indication')
+@jsonp
+def api_v2_indication():
+    term = request.args.get('indication')
+    resultz = [d for d in db.drugs.find({'indications': {'$regex': term, '$options':'i'}})]
+    if not resultz:
+        abort(404)
+    for i in range(len(resultz)):
+        del resultz[i]['_id']
+    return resultz
+
+@app.route('/api/v2/sideeffects')
+@jsonp
+def api_v2_sideeffects():
+    term = request.args.get('sideeffects')
+    resultz = [d for d in db.drugs.find({'side-effects': {'$regex': term, '$options':'i'}})]
+    if not resultz:
+        abort(404)
+    for i in range(len(resultz)):
+        del resultz[i]['_id']
+    return resultz
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.

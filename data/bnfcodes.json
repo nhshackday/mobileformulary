@@ -1,0 +1,6102 @@
+[
+  {
+    "code": "0212000AC", 
+    "name": "SIMVASTATIN & EZETIMIBE"
+  }, 
+  {
+    "code": "0202040T0", 
+    "name": "SPIRONOLACTONE WITH LOOP DIURETICS"
+  }, 
+  {
+    "code": "0603010I0", 
+    "name": "FLUDROCORTISONE ACETATE"
+  }, 
+  {
+    "code": "1203010K0", 
+    "name": "CHOLINE SALICYLATE"
+  }, 
+  {
+    "code": "060402000", 
+    "name": "OTHER MALE SEX HORMONE&ANTAGONIST PREPS"
+  }, 
+  {
+    "code": "0409020C0", 
+    "name": "TRIHEXYPHENIDYL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "100101050", 
+    "name": "ACEMETACIN"
+  }, 
+  {
+    "code": "0702020F0", 
+    "name": "CLOTRIMAZOLE"
+  }, 
+  {
+    "code": "0406000S0", 
+    "name": "ONDANSETRON HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0402030Q0", 
+    "name": "VALPROIC ACID"
+  }, 
+  {
+    "code": "0408010AD", 
+    "name": "ZONISAMIDE"
+  }, 
+  {
+    "code": "0703023L0", 
+    "name": "LEVONORGESTREL"
+  }, 
+  {
+    "code": "0704010V0", 
+    "name": "TAMSULOSIN & DUTASTERIDE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0906026M0", 
+    "name": "THIAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0901012I0", 
+    "name": "IRON SUCROSE"
+  }, 
+  {
+    "code": "1106000AF", 
+    "name": "BIMATOPROST"
+  }, 
+  {
+    "code": "0401010B0", 
+    "name": "CHLORAL HYDRATE"
+  }, 
+  {
+    "code": "1108010C0", 
+    "name": "ACETYLCYSTEINE"
+  }, 
+  {
+    "code": "0501021M0", 
+    "name": "CEFRADINE"
+  }, 
+  {
+    "code": "2114", 
+    "name": "LUBRICANT GELS"
+  }, 
+  {
+    "code": "0106020I0", 
+    "name": "DOCUSATE SODIUM"
+  }, 
+  {
+    "code": "1304000N0", 
+    "name": "FLUOCINOLONE ACETONIDE"
+  }, 
+  {
+    "code": "1310011W0", 
+    "name": "POLYMYXINS"
+  }, 
+  {
+    "code": "0104020H0", 
+    "name": "CO-PHENOTROPE (DIPHENOX HCL/ATROP SULPH)"
+  }, 
+  {
+    "code": "0109010G0", 
+    "name": "CHENODEOXYCHOLIC ACID"
+  }, 
+  {
+    "code": "1304000L0", 
+    "name": "DIFLUCORTOLONE VALERATE"
+  }, 
+  {
+    "code": "2340", 
+    "name": "COLOSTOMY SETS"
+  }, 
+  {
+    "code": "0404000E0", 
+    "name": "CAFFEINE CITRATE"
+  }, 
+  {
+    "code": "0703011A0", 
+    "name": "ETONOGESTREL/ETHINYLESTRADIOL"
+  }, 
+  {
+    "code": "0802010M0", 
+    "name": "MYCOPHENOLATE MOFETIL"
+  }, 
+  {
+    "code": "0301011U0", 
+    "name": "SALMETEROL"
+  }, 
+  {
+    "code": "0904010AM", 
+    "name": "LOW PROTEIN DESSERTS"
+  }, 
+  {
+    "code": "2012", 
+    "name": "SWABS"
+  }, 
+  {
+    "code": "1201030N0", 
+    "name": "UREA HYDROGEN PEROXIDE"
+  }, 
+  {
+    "code": "0902021X0", 
+    "name": "WATER FOR INJECTION"
+  }, 
+  {
+    "code": "0905011K0", 
+    "name": "CALCIUM GLUCONATE"
+  }, 
+  {
+    "code": "1502010J0", 
+    "name": "LIDOCAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1305020W0", 
+    "name": "CALCITRIOL"
+  }, 
+  {
+    "code": "0803041B0", 
+    "name": "ANASTROZOLE"
+  }, 
+  {
+    "code": "0208020V0", 
+    "name": "WARFARIN SODIUM"
+  }, 
+  {
+    "code": "0501021B0", 
+    "name": "CEFADROXIL"
+  }, 
+  {
+    "code": "0309020AH", 
+    "name": "AMMONIUM CHLORIDE/DIPHENHYDRAMINE HCL"
+  }, 
+  {
+    "code": "0906025P0", 
+    "name": "RIBOFLAVIN"
+  }, 
+  {
+    "code": "0601023AC", 
+    "name": "SAXAGLIPTIN"
+  }, 
+  {
+    "code": "0409020S0", 
+    "name": "PROCYCLIDINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "2380", 
+    "name": "SKIN FILLERS AND PROTECTIVES"
+  }, 
+  {
+    "code": "2375", 
+    "name": "PRESSURE PLATES/SHIELDS"
+  }, 
+  {
+    "code": "0603020L0", 
+    "name": "HYDROCORTISONE SODIUM PHOSPHATE"
+  }, 
+  {
+    "code": "0604011K0", 
+    "name": "ESTRADIOL VALERATE"
+  }, 
+  {
+    "code": "0905041R0", 
+    "name": "ZINC SULPHATE MONOHYDRATE"
+  }, 
+  {
+    "code": "0101010I0", 
+    "name": "MAGNESIUM OXIDE"
+  }, 
+  {
+    "code": "0205051M0", 
+    "name": "PERINDOPRIL ERBUMINE"
+  }, 
+  {
+    "code": "2101", 
+    "name": "OTHER APPLIANCES"
+  }, 
+  {
+    "code": "1104020M0", 
+    "name": "LODOXAMIDE TROMETAMOL"
+  }, 
+  {
+    "code": "1305020T0", 
+    "name": "TAZAROTENE"
+  }, 
+  {
+    "code": "0407041T0", 
+    "name": "SUMATRIPTAN SUCCINATE"
+  }, 
+  {
+    "code": "0205010U0", 
+    "name": "BOSENTAN"
+  }, 
+  {
+    "code": "1310012Q0", 
+    "name": "SODIUM FUSIDATE"
+  }, 
+  {
+    "code": "0905022C0", 
+    "name": "CALCIUM ACETATE"
+  }, 
+  {
+    "code": "0304010D0", 
+    "name": "LORATADINE"
+  }, 
+  {
+    "code": "190202000", 
+    "name": "OTHER INDIVID FORM PREPARED EXTEMP PREPS"
+  }, 
+  {
+    "code": "0501022B0", 
+    "name": "ERTAPENEM SODIUM"
+  }, 
+  {
+    "code": "0604020T0", 
+    "name": "TESTOSTERONE UNDECANOATE"
+  }, 
+  {
+    "code": "190100000", 
+    "name": "OTHER ALCOHOL  WINE & SPIRIT PREPS"
+  }, 
+  {
+    "code": "0904010AL", 
+    "name": "LOW PROTEIN MEALS"
+  }, 
+  {
+    "code": "0106020B0", 
+    "name": "CO-DANTHRAMER (DANTRON/POLOXAMER 188)"
+  }, 
+  {
+    "code": "0501090K0", 
+    "name": "ISONIAZID"
+  }, 
+  {
+    "code": "0503022B0", 
+    "name": "VALGANCICLOVIR HYDROCHLORIDE"
+  }, 
+  {
+    "code": "091104000", 
+    "name": "OTHER DIGESTIVE AID PREPS"
+  }, 
+  {
+    "code": "1105000E0", 
+    "name": "CYCLOPENTOLATE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0301011R0", 
+    "name": "SALBUTAMOL"
+  }, 
+  {
+    "code": "0501070X0", 
+    "name": "RIFAXIMIN"
+  }, 
+  {
+    "code": "090602500", 
+    "name": "OTHER RIBOFLAVINE (B2) PREPS"
+  }, 
+  {
+    "code": "0209000C0", 
+    "name": "CLOPIDOGREL"
+  }, 
+  {
+    "code": "1202020F0", 
+    "name": "GLUCOSE/GLYCEROL"
+  }, 
+  {
+    "code": "0206020L0", 
+    "name": "LERCANIDIPINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0406000T0", 
+    "name": "PROCHLORPERAZINE MALEATE"
+  }, 
+  {
+    "code": "2001", 
+    "name": "ABSORBENT COTTONS"
+  }, 
+  {
+    "code": "030902000", 
+    "name": "OTHER EXPECTORANT& DEMULCENT COUGH PREPS"
+  }, 
+  {
+    "code": "090401010", 
+    "name": "LOW PROTEIN MIXES"
+  }, 
+  {
+    "code": "0210020V0", 
+    "name": "ALTEPLASE"
+  }, 
+  {
+    "code": "0704020AC", 
+    "name": "DARIFENACIN HYDROBROMIDE"
+  }, 
+  {
+    "code": "1001040V0", 
+    "name": "FEBUXOSTAT"
+  }, 
+  {
+    "code": "190600000", 
+    "name": "OTHER ACID PREPS"
+  }, 
+  {
+    "code": "120304000", 
+    "name": "OTHER MOUTH WASH GARGLE&DENTIFRICE PREPS"
+  }, 
+  {
+    "code": "0407020T0", 
+    "name": "PENTAZOCINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0408020V0", 
+    "name": "MIDAZOLAM MALEATE"
+  }, 
+  {
+    "code": "1310030L0", 
+    "name": "PENCICLOVIR"
+  }, 
+  {
+    "code": "0602020N0", 
+    "name": "PROPYLTHIOURACIL"
+  }, 
+  {
+    "code": "0601023B0", 
+    "name": "PIOGLITAZONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0105020G0", 
+    "name": "BECLOMETASONE DIPROPIONATE (SYSTEMIC)"
+  }, 
+  {
+    "code": "090501100", 
+    "name": "OTHER CALCIUM SUPPLEMENT PREPS"
+  }, 
+  {
+    "code": "0402010B0", 
+    "name": "BENPERIDOL"
+  }, 
+  {
+    "code": "0501013L0", 
+    "name": "CO-FLUAMPICIL(FLUCLOXACILLIN/AMPICILLIN)"
+  }, 
+  {
+    "code": "0203020D0", 
+    "name": "AMIODARONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "100101070", 
+    "name": "NAPROXEN SODIUM"
+  }, 
+  {
+    "code": "0503010AA", 
+    "name": "EMTRICITABINE & TENOFOVIR DISOPROXIL"
+  }, 
+  {
+    "code": "0212000K0", 
+    "name": "COLESTIPOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0107010B0", 
+    "name": "ACETARSOL"
+  }, 
+  {
+    "code": "0406000B0", 
+    "name": "BETAHISTINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0606020Z0", 
+    "name": "DENOSUMAB"
+  }, 
+  {
+    "code": "0101010F0", 
+    "name": "MAGNESIUM CARBONATE"
+  }, 
+  {
+    "code": "0309010N0", 
+    "name": "DIAMORPHINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1404000W0", 
+    "name": "MEASLES. MUMPS & RUBELLA VACCINE"
+  }, 
+  {
+    "code": "0309010X0", 
+    "name": "PHOLCODINE"
+  }, 
+  {
+    "code": "1306010B0", 
+    "name": "AZELAIC ACID"
+  }, 
+  {
+    "code": "0204000K0", 
+    "name": "METOPROLOL TARTRATE"
+  }, 
+  {
+    "code": "0206020F0", 
+    "name": "FELODIPINE"
+  }, 
+  {
+    "code": "0601023V0", 
+    "name": "METFORMIN HYDROCHLORIDE/ROSIGLITAZONE"
+  }, 
+  {
+    "code": "0501050N0", 
+    "name": "ERYTHROMYCIN STEARATE"
+  }, 
+  {
+    "code": "131101000", 
+    "name": "OTHER ALCOHOL & SALINE PREPS"
+  }, 
+  {
+    "code": "2394", 
+    "name": "TWO PIECE OSTOMY SYSTEMS"
+  }, 
+  {
+    "code": "0604012P0", 
+    "name": "NORETHISTERONE"
+  }, 
+  {
+    "code": "0604020C0", 
+    "name": "FINASTERIDE"
+  }, 
+  {
+    "code": "0205052B0", 
+    "name": "OLMESARTAN MEDOXOMIL"
+  }, 
+  {
+    "code": "0407010W0", 
+    "name": "ASPIRIN COMBINED PREPARATIONS"
+  }, 
+  {
+    "code": "2124", 
+    "name": "NASAL PRODUCTS"
+  }, 
+  {
+    "code": "0904010AJ", 
+    "name": "GLUTEN FREE/WHEAT FREE/LOW PROTEIN MIXES"
+  }, 
+  {
+    "code": "2132", 
+    "name": "INHALATION SOLUTIONS"
+  }, 
+  {
+    "code": "2325", 
+    "name": "BAG COVERS"
+  }, 
+  {
+    "code": "1001010AJ", 
+    "name": "ETORICOXIB"
+  }, 
+  {
+    "code": "0601012S0", 
+    "name": "ISOPHANE INSULIN"
+  }, 
+  {
+    "code": "1306020C0", 
+    "name": "CO-CYPRINDIOL (CYPROTE ACET/ETHINLESTR)"
+  }, 
+  {
+    "code": "0403040U0", 
+    "name": "REBOXETINE"
+  }, 
+  {
+    "code": "1001010P0", 
+    "name": "NAPROXEN"
+  }, 
+  {
+    "code": "0106010N0", 
+    "name": "STERCULIA"
+  }, 
+  {
+    "code": "0403040W0", 
+    "name": "VENLAFAXINE"
+  }, 
+  {
+    "code": "0704020J0", 
+    "name": "OXYBUTYNIN"
+  }, 
+  {
+    "code": "2330", 
+    "name": "BELTS"
+  }, 
+  {
+    "code": "1001050A0", 
+    "name": "GLUCOSAMINE HYDROCHLORIDE (RHEUMATIC)"
+  }, 
+  {
+    "code": "0803020L0", 
+    "name": "MEGESTROL ACETATE"
+  }, 
+  {
+    "code": "0107020J0", 
+    "name": "HYDROCORTISONE"
+  }, 
+  {
+    "code": "0907000H0", 
+    "name": "GENTIAN"
+  }, 
+  {
+    "code": "0407010AA", 
+    "name": "ASPIRIN & CAFFEINE"
+  }, 
+  {
+    "code": "0607030M0", 
+    "name": "METYRAPONE"
+  }, 
+  {
+    "code": "0301030C0", 
+    "name": "AMINOPHYLLINE HYDRATE"
+  }, 
+  {
+    "code": "1001030L0", 
+    "name": "LEFLUNOMIDE"
+  }, 
+  {
+    "code": "0402020V0", 
+    "name": "PIPOTIAZINE PALMITATE"
+  }, 
+  {
+    "code": "1103010Q0", 
+    "name": "POLYMYXIN B SULPHATE"
+  }, 
+  {
+    "code": "0601023Y0", 
+    "name": "EXENATIDE"
+  }, 
+  {
+    "code": "0204000U0", 
+    "name": "ATENOLOL WITH CALCIUM CHANNEL BLOCKER"
+  }, 
+  {
+    "code": "0704020Z0", 
+    "name": "TROSPIUM CHLORIDE"
+  }, 
+  {
+    "code": "1001030D0", 
+    "name": "ETANERCEPT"
+  }, 
+  {
+    "code": "0501040U0", 
+    "name": "TOBRAMYCIN"
+  }, 
+  {
+    "code": "0503010Z0", 
+    "name": "ABACAVIR & LAMIVUDINE"
+  }, 
+  {
+    "code": "1203040U0", 
+    "name": "THYMOL"
+  }, 
+  {
+    "code": "0904010AQ", 
+    "name": "LOW PROTEIN PASTA"
+  }, 
+  {
+    "code": "0102000K0", 
+    "name": "DICYCLOVERINE HCL COMPOUND PREPARATIONS"
+  }, 
+  {
+    "code": "0504010K0", 
+    "name": "PRIMAQUINE"
+  }, 
+  {
+    "code": "1304000S0", 
+    "name": "FLUTICASONE PROPIONATE (TOP)"
+  }, 
+  {
+    "code": "0407020K0", 
+    "name": "DIAMORPHINE HYDROCHLORIDE (SYSTEMIC)"
+  }, 
+  {
+    "code": "0403030P0", 
+    "name": "PAROXETINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0205040I0", 
+    "name": "INDORAMIN"
+  }, 
+  {
+    "code": "0901012P0", 
+    "name": "IRON CARBOXYMALTOSE"
+  }, 
+  {
+    "code": "1311040K0", 
+    "name": "IODINE COMPOUNDS"
+  }, 
+  {
+    "code": "0605010T0", 
+    "name": "TETRACOSACTIDE"
+  }, 
+  {
+    "code": "1106000AE", 
+    "name": "TRAVOPROST"
+  }, 
+  {
+    "code": "1203020C0", 
+    "name": "AMPHOTERICIN"
+  }, 
+  {
+    "code": "2138", 
+    "name": "LOW FRICTION PRODUCTS"
+  }, 
+  {
+    "code": "0304010G0", 
+    "name": "CHLORPHENAMINE MALEATE"
+  }, 
+  {
+    "code": "0403040X0", 
+    "name": "MIRTAZAPINE"
+  }, 
+  {
+    "code": "2116", 
+    "name": "IRRIGATION SOLUTIONS"
+  }, 
+  {
+    "code": "0905013M0", 
+    "name": "MAGNESIUM OROTATE"
+  }, 
+  {
+    "code": "090607000", 
+    "name": "OTHER MULTIVITAMIN PREPS"
+  }, 
+  {
+    "code": "0205052W0", 
+    "name": "EPROSARTAN"
+  }, 
+  {
+    "code": "1304000G0", 
+    "name": "CLOBETASOL PROPIONATE"
+  }, 
+  {
+    "code": "0107040A0", 
+    "name": "GLYCERYL TRINITRATE"
+  }, 
+  {
+    "code": "0604012M0", 
+    "name": "MEDROXYPROGESTERONE ACETATE"
+  }, 
+  {
+    "code": "0208010C0", 
+    "name": "DANAPAROID SODIUM"
+  }, 
+  {
+    "code": "0901011H0", 
+    "name": "FERROUS GLUCONATE"
+  }, 
+  {
+    "code": "2017", 
+    "name": "CERVICAL COLLAR"
+  }, 
+  {
+    "code": "0101010N0", 
+    "name": "ALUMINIUM & MAGNESIUM & OXETACAINE"
+  }, 
+  {
+    "code": "0408010I0", 
+    "name": "ETHOSUXIMIDE"
+  }, 
+  {
+    "code": "0406000AD", 
+    "name": "APREPITANT"
+  }, 
+  {
+    "code": "0905022T0", 
+    "name": "LANTHANUM CARBONATE"
+  }, 
+  {
+    "code": "0106050M0", 
+    "name": "MAGNESIUM CITRATE"
+  }, 
+  {
+    "code": "0504010AA", 
+    "name": "ARTEMETHER WITH LUMEFANTRINE"
+  }, 
+  {
+    "code": "090401070", 
+    "name": "GLUTEN FREE/WHEAT FREE GRAINS/FLOURS"
+  }, 
+  {
+    "code": "0211000P0", 
+    "name": "TRANEXAMIC ACID"
+  }, 
+  {
+    "code": "1309000R0", 
+    "name": "SULPHUR"
+  }, 
+  {
+    "code": "1404000U0", 
+    "name": "YELLOW FEVER"
+  }, 
+  {
+    "code": "0401010R0", 
+    "name": "NITRAZEPAM"
+  }, 
+  {
+    "code": "0203020R0", 
+    "name": "PROPAFENONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0501040C0", 
+    "name": "AMIKACIN"
+  }, 
+  {
+    "code": "190201000", 
+    "name": "OTHER INDIVIDUALLY FORM BOUGHT IN PREPS"
+  }, 
+  {
+    "code": "1001040K0", 
+    "name": "PROBENECID"
+  }, 
+  {
+    "code": "1310030I0", 
+    "name": "IDOXURIDINE IN DIMETHYL SULFOXIDE"
+  }, 
+  {
+    "code": "1106000AA", 
+    "name": "BRIMONIDINE TARTRATE"
+  }, 
+  {
+    "code": "0309020B0", 
+    "name": "AMMONIUM BICARBONATE"
+  }, 
+  {
+    "code": "0904010AG", 
+    "name": "GLUTEN FREE/WHEAT FREE MEALS"
+  }, 
+  {
+    "code": "0501060D0", 
+    "name": "CLINDAMYCIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0407020Z0", 
+    "name": "OXYCODONE"
+  }, 
+  {
+    "code": "0402010S0", 
+    "name": "PROMAZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "2290", 
+    "name": "URINAL SYSTEMS"
+  }, 
+  {
+    "code": "1305020C0", 
+    "name": "TARS"
+  }, 
+  {
+    "code": "1302010M0", 
+    "name": "PARAFFIN SOFT YELLOW"
+  }, 
+  {
+    "code": "0501120P0", 
+    "name": "OFLOXACIN"
+  }, 
+  {
+    "code": "0905013G0", 
+    "name": "MAGNESIUM GLYCEROPHOSPHATE"
+  }, 
+  {
+    "code": "0206020A0", 
+    "name": "AMLODIPINE"
+  }, 
+  {
+    "code": "0803043P0", 
+    "name": "LANREOTIDE"
+  }, 
+  {
+    "code": "0406000AC", 
+    "name": "DIMENHYDRINATE/CINNARIZINE"
+  }, 
+  {
+    "code": "1104020X0", 
+    "name": "EMEDASTINE"
+  }, 
+  {
+    "code": "090602800", 
+    "name": "OTHER VITAMIN B PREPS"
+  }, 
+  {
+    "code": "0502010A0", 
+    "name": "POSACONAZOLE"
+  }, 
+  {
+    "code": "0206020W0", 
+    "name": "NISOLDIPINE"
+  }, 
+  {
+    "code": "0411000G0", 
+    "name": "MEMANTINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1203030A0", 
+    "name": "AMYLMETACRESOL"
+  }, 
+  {
+    "code": "090401030", 
+    "name": "GLUTEN FREE MIXES"
+  }, 
+  {
+    "code": "1106000B0", 
+    "name": "ACETAZOLAMIDE"
+  }, 
+  {
+    "code": "0905013D0", 
+    "name": "MAGNESIUM CHLORIDE"
+  }, 
+  {
+    "code": "0503010C0", 
+    "name": "NELFINAVIR MESILATE"
+  }, 
+  {
+    "code": "0905022U0", 
+    "name": "CALCIUM ACETATE/MAGNESIUM CARBONATE"
+  }, 
+  {
+    "code": "1104020B0", 
+    "name": "ANTAZOLINE"
+  }, 
+  {
+    "code": "2014", 
+    "name": "SKIN CLOSURE STRIPS  STERILE"
+  }, 
+  {
+    "code": "0205051Y0", 
+    "name": "PERINDOPRIL ARGININE"
+  }, 
+  {
+    "code": "0402020T0", 
+    "name": "HALOPERIDOL DECANOATE"
+  }, 
+  {
+    "code": "0106020L0", 
+    "name": "GLYCEROL"
+  }, 
+  {
+    "code": "0901011P0", 
+    "name": "FERROUS SULPHATE"
+  }, 
+  {
+    "code": "0406000P0", 
+    "name": "METOCLOPRAMIDE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0106040J0", 
+    "name": "MAGNESIUM HYDROXIDE"
+  }, 
+  {
+    "code": "1002010M0", 
+    "name": "NEOSTIGMINE BROMIDE"
+  }, 
+  {
+    "code": "1003020R0", 
+    "name": "PIROXICAM"
+  }, 
+  {
+    "code": "0901040A0", 
+    "name": "ANAGRELIDE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0406000R0", 
+    "name": "NABILONE"
+  }, 
+  {
+    "code": "0501120X0", 
+    "name": "LEVOFLOXACIN"
+  }, 
+  {
+    "code": "0502010D0", 
+    "name": "VORICONAZOLE"
+  }, 
+  {
+    "code": "0206020C0", 
+    "name": "DILTIAZEM HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0204000E0", 
+    "name": "ATENOLOL"
+  }, 
+  {
+    "code": "0304020P0", 
+    "name": "POLLEN ALLERGY PREPARATIONS"
+  }, 
+  {
+    "code": "1106000AC", 
+    "name": "BRINZOLAMIDE"
+  }, 
+  {
+    "code": "0407010M0", 
+    "name": "CO-CODAPRIN (CODEINE PHOS/ASPIRIN)"
+  }, 
+  {
+    "code": "0301030S0", 
+    "name": "THEOPHYLLINE"
+  }, 
+  {
+    "code": "0908010T0", 
+    "name": "BETAINE ANHYDROUS"
+  }, 
+  {
+    "code": "0202080B0", 
+    "name": "BENDROFLUMETHIAZIDE/POTASSIUM"
+  }, 
+  {
+    "code": "0904010AP", 
+    "name": "LOW PROTEIN CEREALS"
+  }, 
+  {
+    "code": "0703021C0", 
+    "name": "ETYNODIOL DIACETATE"
+  }, 
+  {
+    "code": "0501030F0", 
+    "name": "DEMECLOCYCLINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0606020W0", 
+    "name": "IBANDRONIC ACID"
+  }, 
+  {
+    "code": "090101100", 
+    "name": "OTHER ORAL IRON PREPS"
+  }, 
+  {
+    "code": "0205040V0", 
+    "name": "TERAZOSIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0908010Z0", 
+    "name": "LEVOCARNITINE"
+  }, 
+  {
+    "code": "0109010R0", 
+    "name": "OTHER PREPARATIONS FOR BILIARY DISORDERS"
+  }, 
+  {
+    "code": "0601011P0", 
+    "name": "INSULIN GLULISINE"
+  }, 
+  {
+    "code": "0205051V0", 
+    "name": "TRANDOLAPRIL + CALCIUM CHANNEL BLOCKER"
+  }, 
+  {
+    "code": "0407020G0", 
+    "name": "DIHYDROCODEINE TARTRATE"
+  }, 
+  {
+    "code": "0801030L0", 
+    "name": "MERCAPTOPURINE"
+  }, 
+  {
+    "code": "0406000J0", 
+    "name": "DOMPERIDONE"
+  }, 
+  {
+    "code": "0604011L0", 
+    "name": "ESTRADIOL WITH PROGESTOGEN"
+  }, 
+  {
+    "code": "0501012H0", 
+    "name": "FLUCLOXACILLIN MAGNESIUM"
+  }, 
+  {
+    "code": "0503050A0", 
+    "name": "PALIVIZUMAB"
+  }, 
+  {
+    "code": "0502010B0", 
+    "name": "FLUCONAZOLE"
+  }, 
+  {
+    "code": "0301011V0", 
+    "name": "TERBUTALINE SULPHATE"
+  }, 
+  {
+    "code": "0411000E0", 
+    "name": "RIVASTIGMINE"
+  }, 
+  {
+    "code": "1405020C0", 
+    "name": "VARICELLA-ZOSTER IMMUNOGLOBULIN"
+  }, 
+  {
+    "code": "0402030P0", 
+    "name": "LITHIUM CITRATE"
+  }, 
+  {
+    "code": "1108010T0", 
+    "name": "POVIDONE K 25"
+  }, 
+  {
+    "code": "1502010V0", 
+    "name": "LEVOBUPIVACAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0603020I0", 
+    "name": "DEFLAZACORT"
+  }, 
+  {
+    "code": "1311070S0", 
+    "name": "STER LARVAE"
+  }, 
+  {
+    "code": "070403000", 
+    "name": "OTHER UROLOGICAL PAIN PREPS"
+  }, 
+  {
+    "code": "0501050C0", 
+    "name": "ERYTHROMYCIN"
+  }, 
+  {
+    "code": "0401010N0", 
+    "name": "LOPRAZOLAM MESILATE"
+  }, 
+  {
+    "code": "0403030X0", 
+    "name": "ESCITALOPRAM"
+  }, 
+  {
+    "code": "0205080A0", 
+    "name": "KETANSERIN"
+  }, 
+  {
+    "code": "1310020AA", 
+    "name": "FLUTRIMAZOLE"
+  }, 
+  {
+    "code": "1001010K0", 
+    "name": "INDOMETACIN"
+  }, 
+  {
+    "code": "0106020M0", 
+    "name": "SENNA"
+  }, 
+  {
+    "code": "0205010Y0", 
+    "name": "SILDENAFIL(VASODILATOR ANTIHYPERTENSIVE)"
+  }, 
+  {
+    "code": "0101010R0", 
+    "name": "SIMETICONE"
+  }, 
+  {
+    "code": "1309000C0", 
+    "name": "COAL TAR"
+  }, 
+  {
+    "code": "1310040C0", 
+    "name": "BENZYL BENZOATE"
+  }, 
+  {
+    "code": "0905021F0", 
+    "name": "MONOBASIC POTASSIUM PHOSPHATE"
+  }, 
+  {
+    "code": "1302010Z0", 
+    "name": "CHLOHEXIDINE GLUCONATE (EMOLLIENT)"
+  }, 
+  {
+    "code": "0407020Q0", 
+    "name": "MORPHINE SULPHATE"
+  }, 
+  {
+    "code": "1501041T0", 
+    "name": "MIDAZOLAM HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0407010AD", 
+    "name": "PARACETAMOL & IBUPROFEN"
+  }, 
+  {
+    "code": "0406000U0", 
+    "name": "PROCHLORPERAZINE MESILATE"
+  }, 
+  {
+    "code": "0903000P0", 
+    "name": "INTRAVENOUS NUTRITION SUPPLEMENTS"
+  }, 
+  {
+    "code": "2005", 
+    "name": "TRACHEOSTOMY & LARYNGECTOMY APPLIANCES"
+  }, 
+  {
+    "code": "0503021B0", 
+    "name": "ACICLOVIR SODIUM"
+  }, 
+  {
+    "code": "0501012U0", 
+    "name": "TEMOCILLIN SODIUM"
+  }, 
+  {
+    "code": "0301020I0", 
+    "name": "IPRATROPIUM BROMIDE"
+  }, 
+  {
+    "code": "0501030Y0", 
+    "name": "TIGECYCLINE"
+  }, 
+  {
+    "code": "0904010Z0", 
+    "name": "GLUTEN FREE/LOW PROTEIN BISCUITS"
+  }, 
+  {
+    "code": "0409020E0", 
+    "name": "BENZATROPINE MESILATE"
+  }, 
+  {
+    "code": "0504010U0", 
+    "name": "PROGUANIL HYDROCHLORIDE WITH ATOVAQUONE"
+  }, 
+  {
+    "code": "0603020G0", 
+    "name": "DEXAMETHASONE"
+  }, 
+  {
+    "code": "0602010M0", 
+    "name": "LIOTHYRONINE SODIUM"
+  }, 
+  {
+    "code": "1001010S0", 
+    "name": "SULINDAC"
+  }, 
+  {
+    "code": "190400000", 
+    "name": "OTHER SINGLE SUBSTANCE PREPS"
+  }, 
+  {
+    "code": "1003010V0", 
+    "name": "SERRAPEPTASE"
+  }, 
+  {
+    "code": "0401030T0", 
+    "name": "SECOBARBITAL SODIUM"
+  }, 
+  {
+    "code": "0103030S0", 
+    "name": "SUCRALFATE"
+  }, 
+  {
+    "code": "0801010S0", 
+    "name": "MELPHALAN"
+  }, 
+  {
+    "code": "0307000J0", 
+    "name": "CARBOCISTEINE"
+  }, 
+  {
+    "code": "0703030G0", 
+    "name": "NONOXINOL 9"
+  }, 
+  {
+    "code": "0904010T0", 
+    "name": "GLUTEN FREE/LOW PROTEIN PASTA"
+  }, 
+  {
+    "code": "2018", 
+    "name": "CELLULOSE WADDING BP 1988"
+  }, 
+  {
+    "code": "0803042P0", 
+    "name": "TRIPTORELIN ACETATE"
+  }, 
+  {
+    "code": "1104010V0", 
+    "name": "RIMEXOLONE"
+  }, 
+  {
+    "code": "0202080K0", 
+    "name": "FUROSEMIDE/POTASSIUM"
+  }, 
+  {
+    "code": "0401010W0", 
+    "name": "ZALEPLON"
+  }, 
+  {
+    "code": "0505020L0", 
+    "name": "LEVAMISOLE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0501070I0", 
+    "name": "COLISTIMETHATE SODIUM"
+  }, 
+  {
+    "code": "0501050H0", 
+    "name": "ERYTHROMYCIN ETHYLSUCCINATE"
+  }, 
+  {
+    "code": "0904010H0", 
+    "name": "GLUTEN FREE BREAD"
+  }, 
+  {
+    "code": "1311060Q0", 
+    "name": "POTASSIUM PERMANGANATE"
+  }, 
+  {
+    "code": "090401000", 
+    "name": "OTHER FOOD FOR SPECIAL DIET PREPS"
+  }, 
+  {
+    "code": "1502010G0", 
+    "name": "COCAINE"
+  }, 
+  {
+    "code": "0503021A0", 
+    "name": "VALACICLOVIR"
+  }, 
+  {
+    "code": "0802010G0", 
+    "name": "AZATHIOPRINE"
+  }, 
+  {
+    "code": "0601023X0", 
+    "name": "SITAGLIPTIN"
+  }, 
+  {
+    "code": "0604011P0", 
+    "name": "OESTROGENS CONJUGATED"
+  }, 
+  {
+    "code": "010300000", 
+    "name": "OTHER TEST FOR HELICOBACTER PYLORI PREPS"
+  }, 
+  {
+    "code": "0105020B0", 
+    "name": "HYDROCORTISONE ACETATE"
+  }, 
+  {
+    "code": "0802020U0", 
+    "name": "SIROLIMUS"
+  }, 
+  {
+    "code": "0107020F0", 
+    "name": "FLUOCORTOLONE"
+  }, 
+  {
+    "code": "090504800", 
+    "name": "OTHER MINERAL FORMULATION PREPS"
+  }, 
+  {
+    "code": "0409010K0", 
+    "name": "CO-BENELDOPA (BENSERAZIDE/LEVODOPA)"
+  }, 
+  {
+    "code": "0101010P0", 
+    "name": "CO-SIMALCITE (SIMETICONE/HYDROTALCITE)"
+  }, 
+  {
+    "code": "1305020V0", 
+    "name": "COCOIS"
+  }, 
+  {
+    "code": "0205051U0", 
+    "name": "TRANDOLAPRIL"
+  }, 
+  {
+    "code": "0310000K0", 
+    "name": "PHENYLPROPANOLAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1103030W0", 
+    "name": "GANCICLOVIR"
+  }, 
+  {
+    "code": "1203010M0", 
+    "name": "HYDROCORTISONE (SODIUM SUCCINATE)"
+  }, 
+  {
+    "code": "0501015P0", 
+    "name": "PIVMECILLINAM HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0605010N0", 
+    "name": "MENOTROPHIN"
+  }, 
+  {
+    "code": "0906040P0", 
+    "name": "PARICALCITOL"
+  }, 
+  {
+    "code": "0501021G0", 
+    "name": "CEFTRIAXONE SODIUM"
+  }, 
+  {
+    "code": "1104020Z0", 
+    "name": "OLOPATADINE"
+  }, 
+  {
+    "code": "0103050L0", 
+    "name": "LANSOPRAZOLE"
+  }, 
+  {
+    "code": "0704020G0", 
+    "name": "FLAVOXATE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0803042K0", 
+    "name": "GOSERELIN ACETATE"
+  }, 
+  {
+    "code": "1203040E0", 
+    "name": "CHLORHEXIDINE GLUCONATE"
+  }, 
+  {
+    "code": "0304030C0", 
+    "name": "ADRENALINE"
+  }, 
+  {
+    "code": "0601040I0", 
+    "name": "GLUCOSE"
+  }, 
+  {
+    "code": "0304010J0", 
+    "name": "HYDROXYZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0203020G0", 
+    "name": "DISOPYRAMIDE PHOSPHATE"
+  }, 
+  {
+    "code": "0307000L0", 
+    "name": "MECYSTEINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0906070T0", 
+    "name": "VITAMINS CAPS"
+  }, 
+  {
+    "code": "2103", 
+    "name": "CHIROPODY APPLIANCES"
+  }, 
+  {
+    "code": "110402000", 
+    "name": "OTHER ANTI-INFLAMMATORY PREPS"
+  }, 
+  {
+    "code": "0901030E0", 
+    "name": "EPOETIN BETA"
+  }, 
+  {
+    "code": "0905011R0", 
+    "name": "CALCIUM LACTATE"
+  }, 
+  {
+    "code": "0501021H0", 
+    "name": "CEFTAZIDIME PENTAHYDRATE"
+  }, 
+  {
+    "code": "2305", 
+    "name": "ADHESIVE DISCS/RINGS/PADS/PLASTERS"
+  }, 
+  {
+    "code": "0402010C0", 
+    "name": "CLOZAPINE"
+  }, 
+  {
+    "code": "0106020F0", 
+    "name": "CASTOR OIL"
+  }, 
+  {
+    "code": "2139", 
+    "name": "PROSTHETIC ADHESIVES"
+  }, 
+  {
+    "code": "0208010AB", 
+    "name": "FONDAPARINUX SODIUM"
+  }, 
+  {
+    "code": "1001030J0", 
+    "name": "SODIUM AUROTHIOMALATE"
+  }, 
+  {
+    "code": "0406000E0", 
+    "name": "FLUNARIZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0501120Y0", 
+    "name": "MOXIFLOXACIN"
+  }, 
+  {
+    "code": "1303000AA", 
+    "name": "MENTHOL"
+  }, 
+  {
+    "code": "1001010B0", 
+    "name": "AZAPROPAZONE"
+  }, 
+  {
+    "code": "0501014N0", 
+    "name": "TICARCILLIN WITH CLAVULANIC ACID"
+  }, 
+  {
+    "code": "0601012U0", 
+    "name": "PROTAMINE ZINC INSULIN"
+  }, 
+  {
+    "code": "0406000M0", 
+    "name": "GRANISETRON HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0906027G0", 
+    "name": "VITAMIN B COMPOUND"
+  }, 
+  {
+    "code": "0906050P0", 
+    "name": "VITAMIN E"
+  }, 
+  {
+    "code": "1404000AI", 
+    "name": "HUMAN PAPILLOMAVIRUS (TYPE 16 18)"
+  }, 
+  {
+    "code": "0604020F0", 
+    "name": "MESTEROLONE"
+  }, 
+  {
+    "code": "0202020L0", 
+    "name": "FUROSEMIDE"
+  }, 
+  {
+    "code": "0212000P0", 
+    "name": "FENOFIBRATE"
+  }, 
+  {
+    "code": "130201100", 
+    "name": "OTHER EMOLLIENT BATH ADD'S/SHOWER PREPS"
+  }, 
+  {
+    "code": "2396", 
+    "name": "UROSTOMY BAGS"
+  }, 
+  {
+    "code": "0501110C0", 
+    "name": "METRONIDAZOLE"
+  }, 
+  {
+    "code": "0209000Y0", 
+    "name": "PRASUGREL"
+  }, 
+  {
+    "code": "0604030Q0", 
+    "name": "PRASTERONE"
+  }, 
+  {
+    "code": "0202010V0", 
+    "name": "METOLAZONE"
+  }, 
+  {
+    "code": "0406000F0", 
+    "name": "CYCLIZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0402010P0", 
+    "name": "PERICYAZINE"
+  }, 
+  {
+    "code": "0304010K0", 
+    "name": "CYPROHEPTADINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0402020L0", 
+    "name": "FLUPHENAZINE DECANOATE"
+  }, 
+  {
+    "code": "090605000", 
+    "name": "OTHER VITAMIN E PREPS 0906050"
+  }, 
+  {
+    "code": "1310040Q0", 
+    "name": "PERMETHRIN"
+  }, 
+  {
+    "code": "0501070W0", 
+    "name": "LINEZOLID"
+  }, 
+  {
+    "code": "0601021M0", 
+    "name": "GLICLAZIDE"
+  }, 
+  {
+    "code": "0501012G0", 
+    "name": "FLUCLOXACILLIN SODIUM"
+  }, 
+  {
+    "code": "0402010K0", 
+    "name": "LEVOMEPROMAZINE MALEATE"
+  }, 
+  {
+    "code": "0501013B0", 
+    "name": "AMOXICILLIN"
+  }, 
+  {
+    "code": "0202010F0", 
+    "name": "CHLORTALIDONE"
+  }, 
+  {
+    "code": "0503010B0", 
+    "name": "NEVIRAPINE"
+  }, 
+  {
+    "code": "0205052I0", 
+    "name": "IRBESARTAN"
+  }, 
+  {
+    "code": "090603100", 
+    "name": "OTHER VITAMIN C (ASCORBIC ACID) PREPS"
+  }, 
+  {
+    "code": "1108020K0", 
+    "name": "FLUORESCEIN SODIUM"
+  }, 
+  {
+    "code": "0904010AC", 
+    "name": "GLUTEN FREE/WHEAT FREE CEREALS"
+  }, 
+  {
+    "code": "0309020Q0", 
+    "name": "PSEUDOEPHEDRINE HCL COMBINATIONS"
+  }, 
+  {
+    "code": "1311050E0", 
+    "name": "CHLOROXYLENOL"
+  }, 
+  {
+    "code": "0408010AI", 
+    "name": "ESLICARBAZEPINE ACETATE"
+  }, 
+  {
+    "code": "0404000R0", 
+    "name": "MODAFINIL"
+  }, 
+  {
+    "code": "0308000B0", 
+    "name": "BENZOIN"
+  }, 
+  {
+    "code": "1310020A0", 
+    "name": "AMOROLFINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1001050B0", 
+    "name": "GLUCOSAMINE SULPH (RHEUMATIC)"
+  }, 
+  {
+    "code": "0309020D0", 
+    "name": "SIMPLE"
+  }, 
+  {
+    "code": "0604030T0", 
+    "name": "STANOZOLOL"
+  }, 
+  {
+    "code": "0601023A0", 
+    "name": "ACARBOSE"
+  }, 
+  {
+    "code": "1404000AD", 
+    "name": "HEPATITIS A/TYPHOID VACCINE"
+  }, 
+  {
+    "code": "0702010F0", 
+    "name": "ESTRIOL"
+  }, 
+  {
+    "code": "0106050B0", 
+    "name": "BOWEL CLEANSING SOLUTIONS"
+  }, 
+  {
+    "code": "0703010P0", 
+    "name": "PHASED FORMULATIONS OF ETHINYLESTRADIOL"
+  }, 
+  {
+    "code": "0605010I0", 
+    "name": "FOLLITROPIN ALFA"
+  }, 
+  {
+    "code": "0901060I0", 
+    "name": "FILGRASTIM"
+  }, 
+  {
+    "code": "0406000N0", 
+    "name": "MECLOZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0401020B0", 
+    "name": "BUSPIRONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0702020H0", 
+    "name": "ECONAZOLE NITRATE"
+  }, 
+  {
+    "code": "0408010AE", 
+    "name": "PREGABALIN"
+  }, 
+  {
+    "code": "0410010A0", 
+    "name": "ACAMPROSATE CALCIUM"
+  }, 
+  {
+    "code": "1106000Q0", 
+    "name": "DIPIVEFRINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0601021P0", 
+    "name": "GLIPIZIDE"
+  }, 
+  {
+    "code": "2006", 
+    "name": "FOAM"
+  }, 
+  {
+    "code": "0205051R0", 
+    "name": "RAMIPRIL"
+  }, 
+  {
+    "code": "1307000C0", 
+    "name": "FORMALDEHYDE"
+  }, 
+  {
+    "code": "0501050B0", 
+    "name": "CLARITHROMYCIN"
+  }, 
+  {
+    "code": "090604800", 
+    "name": "OTHER VITAMIN D PREPS"
+  }, 
+  {
+    "code": "0102000A0", 
+    "name": "ALVERINE CITRATE"
+  }, 
+  {
+    "code": "0503021C0", 
+    "name": "ACICLOVIR"
+  }, 
+  {
+    "code": "0601021X0", 
+    "name": "TOLBUTAMIDE"
+  }, 
+  {
+    "code": "1308010U0", 
+    "name": "TITANIUM DIOXIDE"
+  }, 
+  {
+    "code": "1202010T0", 
+    "name": "TRIAMCINOLONE ACETONIDE"
+  }, 
+  {
+    "code": "1305010AE", 
+    "name": "ZINC PASTE & ICHTHAMMOL"
+  }, 
+  {
+    "code": "0906011H0", 
+    "name": "COD LIVER OIL"
+  }, 
+  {
+    "code": "0704050Z0", 
+    "name": "SILDENAFIL (ERECTILE DYSFUNCTION)"
+  }, 
+  {
+    "code": "0905030M0", 
+    "name": "STANNOUS FLUORIDE"
+  }, 
+  {
+    "code": "0408010Q0", 
+    "name": "PHENYTOIN SODIUM"
+  }, 
+  {
+    "code": "0304010AF", 
+    "name": "BILASTINE"
+  }, 
+  {
+    "code": "0803042E0", 
+    "name": "CYPROTERONE ACETATE"
+  }, 
+  {
+    "code": "1304000T0", 
+    "name": "FLUDROXYCORTIDE"
+  }, 
+  {
+    "code": "0407020V0", 
+    "name": "PETHIDINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0106020J0", 
+    "name": "CO-DANTHRUSATE (DANTRON/DOCUSATE SOD)"
+  }, 
+  {
+    "code": "190203000", 
+    "name": "OTHER HOMOEOPATHIC PREPS"
+  }, 
+  {
+    "code": "0405010P0", 
+    "name": "ORLISTAT"
+  }, 
+  {
+    "code": "0908010N0", 
+    "name": "SODIUM BENZOATE"
+  }, 
+  {
+    "code": "0906050T0", 
+    "name": "TOCOPHERYL ACETATE"
+  }, 
+  {
+    "code": "0205020M0", 
+    "name": "MOXONIDINE"
+  }, 
+  {
+    "code": "0801050AB", 
+    "name": "BEXAROTENE"
+  }, 
+  {
+    "code": "1106000T0", 
+    "name": "LEVOBUNOLOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1310020T0", 
+    "name": "TIOCONAZOLE"
+  }, 
+  {
+    "code": "0402010T0", 
+    "name": "ZUCLOPENTHIXOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "2390", 
+    "name": "STOMA CAPS/DRESSINGS"
+  }, 
+  {
+    "code": "0502050C0", 
+    "name": "TERBINAFINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "2240", 
+    "name": "INCONTINENCE SHEATH FIXING STRIPS & ADH"
+  }, 
+  {
+    "code": "0302000U0", 
+    "name": "CICLESONIDE"
+  }, 
+  {
+    "code": "0605010Z0", 
+    "name": "PEGVISOMANT"
+  }, 
+  {
+    "code": "1502010P0", 
+    "name": "MEPIVACAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0202040G0", 
+    "name": "CO-FLUMACTONE (HYDROFLUMETH/SPIRONOL)"
+  }, 
+  {
+    "code": "1305020R0", 
+    "name": "TACALCITOL"
+  }, 
+  {
+    "code": "0408010C0", 
+    "name": "CARBAMAZEPINE"
+  }, 
+  {
+    "code": "1106000AD", 
+    "name": "LATANOPROST & TIMOLOL"
+  }, 
+  {
+    "code": "0801050AM", 
+    "name": "SUNITINIB"
+  }, 
+  {
+    "code": "1001022K0", 
+    "name": "METHYLPREDNISOLONE ACETATE"
+  }, 
+  {
+    "code": "0205040P0", 
+    "name": "PHENTOLAMINE MESILATE"
+  }, 
+  {
+    "code": "0409010A0", 
+    "name": "APOMORPHINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0409010B0", 
+    "name": "AMANTADINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0803041AA", 
+    "name": "FULVESTRANT"
+  }, 
+  {
+    "code": "1404000AG", 
+    "name": "ROTAVIRUS"
+  }, 
+  {
+    "code": "0604011J0", 
+    "name": "ESTRADIOL AND ESTRIOL WITH PROGESTOGEN"
+  }, 
+  {
+    "code": "020400060", 
+    "name": "CELIPROLOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0904010W0", 
+    "name": "LOW PROTEIN BISCUITS"
+  }, 
+  {
+    "code": "0801010B0", 
+    "name": "BUSULFAN"
+  }, 
+  {
+    "code": "1302010Y0", 
+    "name": "WOOL ALCOHOLS"
+  }, 
+  {
+    "code": "0606010T0", 
+    "name": "CALCITONIN (SALMON)"
+  }, 
+  {
+    "code": "0405020N0", 
+    "name": "MAZINDOL"
+  }, 
+  {
+    "code": "1306010F0", 
+    "name": "CLINDAMYCIN PHOSPHATE"
+  }, 
+  {
+    "code": "0901030K0", 
+    "name": "DEFERASIROX"
+  }, 
+  {
+    "code": "0407020AG", 
+    "name": "TAPENTADOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "2280", 
+    "name": "TUBING AND ACCESSORIES"
+  }, 
+  {
+    "code": "0501011P0", 
+    "name": "PHENOXYMETHYLPENICILLIN (PENICILLIN V)"
+  }, 
+  {
+    "code": "0801050AE", 
+    "name": "ERLOTINIB"
+  }, 
+  {
+    "code": "0403010B0", 
+    "name": "AMITRIPTYLINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0704040G0", 
+    "name": "OXYBUTYNIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "2125", 
+    "name": "VAGINAL DILATORS"
+  }, 
+  {
+    "code": "0905012I0", 
+    "name": "CINACALCET HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0603020AA", 
+    "name": "DEXAMETHASONE PHOSPHATE"
+  }, 
+  {
+    "code": "0103050T0", 
+    "name": "RABEPRAZOLE SODIUM"
+  }, 
+  {
+    "code": "090602700", 
+    "name": "OTHER VITAMIN B COMPOUND PREPS"
+  }, 
+  {
+    "code": "1404000S0", 
+    "name": "TYPHOID"
+  }, 
+  {
+    "code": "2015", 
+    "name": "SKIN ADHESIVE STERILE"
+  }, 
+  {
+    "code": "0803041U0", 
+    "name": "TOREMIFENE CITRATE"
+  }, 
+  {
+    "code": "1404000F0", 
+    "name": "DIPHTHERIA"
+  }, 
+  {
+    "code": "0101010L0", 
+    "name": "ALUMINIUM & MAGNESIUM & ACT SIMETICONE"
+  }, 
+  {
+    "code": "1304000W0", 
+    "name": "HYDROCORTISONE BUTYRATE"
+  }, 
+  {
+    "code": "1103010S0", 
+    "name": "PROPAMIDINE ISETIONATE"
+  }, 
+  {
+    "code": "0801010H0", 
+    "name": "CYCLOPHOSPHAMIDE"
+  }, 
+  {
+    "code": "0501090N0", 
+    "name": "PYRAZINAMIDE"
+  }, 
+  {
+    "code": "0202010B0", 
+    "name": "BENDROFLUMETHIAZIDE"
+  }, 
+  {
+    "code": "1002020J0", 
+    "name": "DANTROLENE SODIUM"
+  }, 
+  {
+    "code": "1001010X0", 
+    "name": "NABUMETONE"
+  }, 
+  {
+    "code": "0801010F0", 
+    "name": "CHLORAMBUCIL"
+  }, 
+  {
+    "code": "0408010N0", 
+    "name": "PHENOBARBITAL"
+  }, 
+  {
+    "code": "0410030A0", 
+    "name": "BUPRENORPHINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0409010S0", 
+    "name": "TOLCAPONE"
+  }, 
+  {
+    "code": "0603020C0", 
+    "name": "BETAMETHASONE SODIUM PHOSPHATE"
+  }, 
+  {
+    "code": "0101010G0", 
+    "name": "CO-MAGALDROX(MAGNESIUM/ALUMINIUM HYDROX)"
+  }, 
+  {
+    "code": "0901040C0", 
+    "name": "ELTROMBOPAG"
+  }, 
+  {
+    "code": "140400070", 
+    "name": "HEPATITIS A/HEPATITIS B"
+  }, 
+  {
+    "code": "0205051E0", 
+    "name": "CILAZAPRIL"
+  }, 
+  {
+    "code": "0601023AD", 
+    "name": "METFORMIN HYDROCHLORIDE/SITAGLIPTIN"
+  }, 
+  {
+    "code": "1307000K0", 
+    "name": "PODOPHYLLOTOXIN"
+  }, 
+  {
+    "code": "0901030N0", 
+    "name": "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA"
+  }, 
+  {
+    "code": "0407041B0", 
+    "name": "ALMOTRIPTAN"
+  }, 
+  {
+    "code": "0504010F0", 
+    "name": "CHLOROQUINE PHOSPHATE"
+  }, 
+  {
+    "code": "0504010M0", 
+    "name": "PROGUANIL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0407010P0", 
+    "name": "NEFOPAM HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0408010U0", 
+    "name": "PRIMIDONE"
+  }, 
+  {
+    "code": "2020", 
+    "name": "SILK GARMENTS"
+  }, 
+  {
+    "code": "0409010P0", 
+    "name": "PERGOLIDE MESILATE"
+  }, 
+  {
+    "code": "0301011X0", 
+    "name": "INDACATEROL MALEATE"
+  }, 
+  {
+    "code": "120301000", 
+    "name": "OTHER ORAL ULCERATION&INFLAMMATION PREPS"
+  }, 
+  {
+    "code": "2370", 
+    "name": "IRRIGATION WASHOUT APPLIANCES"
+  }, 
+  {
+    "code": "0205051W0", 
+    "name": "IMIDAPRIL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0601060D0", 
+    "name": "GLUCOSE BLOOD TESTING REAGENTS"
+  }, 
+  {
+    "code": "1308010X0", 
+    "name": "METHYL-5-AMINOLEVULINATE"
+  }, 
+  {
+    "code": "0904010E0", 
+    "name": "GLUTEN FREE/LOW PROTEIN MIXES"
+  }, 
+  {
+    "code": "0212000AD", 
+    "name": "COLESEVELAM HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0212000B0", 
+    "name": "ATORVASTATIN"
+  }, 
+  {
+    "code": "0901020G0", 
+    "name": "FOLIC ACID"
+  }, 
+  {
+    "code": "0501130H0", 
+    "name": "METHENAMINE HIPPURATE"
+  }, 
+  {
+    "code": "1302010E0", 
+    "name": "DEXPANTHENOL"
+  }, 
+  {
+    "code": "1310040M0", 
+    "name": "MALATHION"
+  }, 
+  {
+    "code": "0601011L0", 
+    "name": "INSULIN LISPRO"
+  }, 
+  {
+    "code": "0206020M0", 
+    "name": "NIMODIPINE"
+  }, 
+  {
+    "code": "1311010A0", 
+    "name": "ALCOHOL"
+  }, 
+  {
+    "code": "0202040H0", 
+    "name": "CO-TRIAMTERZIDE(TRIAMTERENE/HYDCHLOROTH)"
+  }, 
+  {
+    "code": "2004", 
+    "name": "GAUZES & GAUZE TISSUE"
+  }, 
+  {
+    "code": "1311030A0", 
+    "name": "ALKYL SULPHATE"
+  }, 
+  {
+    "code": "0501013E0", 
+    "name": "AMPICILLIN"
+  }, 
+  {
+    "code": "1310050T0", 
+    "name": "PROFLAVINE HEMISULPHATE"
+  }, 
+  {
+    "code": "0303020Z0", 
+    "name": "ZAFIRLUKAST"
+  }, 
+  {
+    "code": "090401050", 
+    "name": "GLUTEN FREE/LOW PROTEIN COOKING AIDS"
+  }, 
+  {
+    "code": "1203040I0", 
+    "name": "HYDROGEN PEROXIDE"
+  }, 
+  {
+    "code": "0407010H0", 
+    "name": "PARACETAMOL"
+  }, 
+  {
+    "code": "0407010AC", 
+    "name": "ISOMETHEPTENE MUCATE"
+  }, 
+  {
+    "code": "2320", 
+    "name": "BAG CLOSURES"
+  }, 
+  {
+    "code": "1302010U0", 
+    "name": "UREA"
+  }, 
+  {
+    "code": "1311040I0", 
+    "name": "IODINE"
+  }, 
+  {
+    "code": "0503040B0", 
+    "name": "OSELTAMIVIR PHOSPHATE"
+  }, 
+  {
+    "code": "0409010V0", 
+    "name": "ENTACAPONE"
+  }, 
+  {
+    "code": "0704020AD", 
+    "name": "FESOTERODINE FUMARATE"
+  }, 
+  {
+    "code": "0802040AE", 
+    "name": "FAMPRIDINE (IMMUNOMODULATING)"
+  }, 
+  {
+    "code": "1003010U0", 
+    "name": "HYALURONIC ACID SODIUM"
+  }, 
+  {
+    "code": "1203010F0", 
+    "name": "FLUBIPROFEN"
+  }, 
+  {
+    "code": "0908010AJ", 
+    "name": "ZINC ACETATE"
+  }, 
+  {
+    "code": "0208020H0", 
+    "name": "ACENOCOUMAROL"
+  }, 
+  {
+    "code": "1106000P0", 
+    "name": "DORZOLAMIDE"
+  }, 
+  {
+    "code": "0202030W0", 
+    "name": "TRIAMTERENE"
+  }, 
+  {
+    "code": "0209000V0", 
+    "name": "DIPYRIDAMOLE & ASPIRIN"
+  }, 
+  {
+    "code": "0605010G0", 
+    "name": "CLOMIFENE CITRATE"
+  }, 
+  {
+    "code": "2143", 
+    "name": "MICRO-ENEMA - SODIUM CITRATE"
+  }, 
+  {
+    "code": "0205052P0", 
+    "name": "LOSARTAN POTASSIUM WITH DIURETIC"
+  }, 
+  {
+    "code": "0408010W0", 
+    "name": "SODIUM VALPROATE"
+  }, 
+  {
+    "code": "1303000I0", 
+    "name": "CROTAMITON"
+  }, 
+  {
+    "code": "0402010I0", 
+    "name": "FLUPHENAZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0901030H0", 
+    "name": "OXYMETHOLONE"
+  }, 
+  {
+    "code": "110801000", 
+    "name": "OTHER EYE TEAR/LUBRICANT/ASTRINGENTPREPS"
+  }, 
+  {
+    "code": "190601000", 
+    "name": "OTHER CONCENTRATED WATER PREPS"
+  }, 
+  {
+    "code": "0704050J0", 
+    "name": "PAPAVERINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0309020AF", 
+    "name": "PSEUDOEPHEDRINE HCL/DEXTROMETH HYDROB"
+  }, 
+  {
+    "code": "0206020T0", 
+    "name": "VERAPAMIL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0103050P0", 
+    "name": "OMEPRAZOLE"
+  }, 
+  {
+    "code": "0212000AB", 
+    "name": "OMEGA-3-ACID ETHYL ESTERS"
+  }, 
+  {
+    "code": "0304010AA", 
+    "name": "MIZOLASTINE"
+  }, 
+  {
+    "code": "0402020G0", 
+    "name": "FLUPENTIXOL DECANOATE"
+  }, 
+  {
+    "code": "0407020AB", 
+    "name": "PAPAVERETUM"
+  }, 
+  {
+    "code": "1104010S0", 
+    "name": "PREDNISOLONE SODIUM PHOSPHATE"
+  }, 
+  {
+    "code": "BNF CODE", 
+    "name": "BNF NAME"
+  }, 
+  {
+    "code": "0901030P0", 
+    "name": "DESFERRIOXAMINE MESILATE"
+  }, 
+  {
+    "code": "0103010N0", 
+    "name": "NIZATIDINE"
+  }, 
+  {
+    "code": "2011", 
+    "name": "SURGICAL SUTURES"
+  }, 
+  {
+    "code": "040702020", 
+    "name": "MORPHINE TARTRATE & CYCLIZINE TARTRATE"
+  }, 
+  {
+    "code": "150201000", 
+    "name": "OTHER LOCAL ANAESTHETIC PREPS"
+  }, 
+  {
+    "code": "1201010F0", 
+    "name": "FLUMETASONE PIVALATE"
+  }, 
+  {
+    "code": "0407042Q0", 
+    "name": "PIZOTIFEN MALATE"
+  }, 
+  {
+    "code": "0501090H0", 
+    "name": "ETHAMBUTOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0206040X0", 
+    "name": "CILOSTAZOL"
+  }, 
+  {
+    "code": "0501050T0", 
+    "name": "TELITHROMYCIN"
+  }, 
+  {
+    "code": "0212000U0", 
+    "name": "NICOTINIC ACID"
+  }, 
+  {
+    "code": "0604020P0", 
+    "name": "TESTOSTERONE PROPIONATE"
+  }, 
+  {
+    "code": "1302020B0", 
+    "name": "BENZALKONIUM CHLORIDE"
+  }, 
+  {
+    "code": "2127", 
+    "name": "LYMPHOEDEMA GARMENTS"
+  }, 
+  {
+    "code": "0106020C0", 
+    "name": "BISACODYL"
+  }, 
+  {
+    "code": "1307000J0", 
+    "name": "PODOPHYLLUM RESIN"
+  }, 
+  {
+    "code": "0407020H0", 
+    "name": "DIPIPANONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0604012S0", 
+    "name": "PROGESTERONE"
+  }, 
+  {
+    "code": "0202030S0", 
+    "name": "SPIRONOLACTONE"
+  }, 
+  {
+    "code": "0206020Z0", 
+    "name": "VALSARTAN/AMLODIPINE"
+  }, 
+  {
+    "code": "1203030F0", 
+    "name": "DEQUALINIUM CHLORIDE"
+  }, 
+  {
+    "code": "0106040N0", 
+    "name": "PHOSPHATES (RECTAL)"
+  }, 
+  {
+    "code": "0102000L0", 
+    "name": "GLYCOPYRRONIUM BROMIDE"
+  }, 
+  {
+    "code": "0407041U0", 
+    "name": "TOLFENAMIC ACID"
+  }, 
+  {
+    "code": "0704010I0", 
+    "name": "DISTIGMINE BROMIDE"
+  }, 
+  {
+    "code": "0803042A0", 
+    "name": "BICALUTAMIDE"
+  }, 
+  {
+    "code": "1108010N0", 
+    "name": "PARAFFIN YELLOW SOFT"
+  }, 
+  {
+    "code": "0202040C0", 
+    "name": "CO-AMILOZIDE (AMILORIDE HCL/HYDCHLOROTH)"
+  }, 
+  {
+    "code": "0704050B0", 
+    "name": "ALPROSTADIL"
+  }, 
+  {
+    "code": "0601023Z0", 
+    "name": "METFORMIN HYDROCHLORIDE/VILDAGLIPTIN"
+  }, 
+  {
+    "code": "1001040C0", 
+    "name": "ALLOPURINOL"
+  }, 
+  {
+    "code": "2392", 
+    "name": "TUBING & ACCESSORIES"
+  }, 
+  {
+    "code": "0502040C0", 
+    "name": "CASPOFUNGIN"
+  }, 
+  {
+    "code": "010701000", 
+    "name": "OTHER SOOTHING HAEMORRHOIDAL PREPS"
+  }, 
+  {
+    "code": "0803041S0", 
+    "name": "TAMOXIFEN CITRATE"
+  }, 
+  {
+    "code": "0402010AE", 
+    "name": "PALIPERIDONE"
+  }, 
+  {
+    "code": "2202", 
+    "name": "ANAL PLUGS"
+  }, 
+  {
+    "code": "0205020E0", 
+    "name": "CLONIDINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0408010AH", 
+    "name": "LACOSAMIDE"
+  }, 
+  {
+    "code": "010602000", 
+    "name": "OTHER STIMULANT LAXATIVE PREPS"
+  }, 
+  {
+    "code": "190605000", 
+    "name": "OTHER OIL PREPS"
+  }, 
+  {
+    "code": "0409010Z0", 
+    "name": "ROTIGOTINE"
+  }, 
+  {
+    "code": "0202020D0", 
+    "name": "BUMETANIDE"
+  }, 
+  {
+    "code": "0603020F0", 
+    "name": "CORTISONE ACETATE"
+  }, 
+  {
+    "code": "0904010AT", 
+    "name": "LOW PROTEIN SNACKS"
+  }, 
+  {
+    "code": "1404000N0", 
+    "name": "RABIES"
+  }, 
+  {
+    "code": "010401000", 
+    "name": "OTHER ADSORBENT & BULK-FORMING PREPS"
+  }, 
+  {
+    "code": "2350", 
+    "name": "FILTERS/BRIDGES"
+  }, 
+  {
+    "code": "0606020T0", 
+    "name": "SODIUM CLODRONATE"
+  }, 
+  {
+    "code": "1501010F0", 
+    "name": "KETAMINE"
+  }, 
+  {
+    "code": "0206030Y0", 
+    "name": "IVABRADINE"
+  }, 
+  {
+    "code": "0106060A0", 
+    "name": "METHYLNALTREXONE BROMIDE"
+  }, 
+  {
+    "code": "0205020H0", 
+    "name": "METHYLDOPA"
+  }, 
+  {
+    "code": "180300000", 
+    "name": "OTHER X-RAY CONTRAST MEDIA PREPS"
+  }, 
+  {
+    "code": "0607020Y0", 
+    "name": "TRIPTORELIN EMBONATE"
+  }, 
+  {
+    "code": "0407020M0", 
+    "name": "METHADONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1104010K0", 
+    "name": "FLUOROMETHOLONE"
+  }, 
+  {
+    "code": "0604011H0", 
+    "name": "ESTRADIOL  ESTRIOL AND ESTRONE"
+  }, 
+  {
+    "code": "1306010Z0", 
+    "name": "ADAPALENE & BENZOYL PEROXIDE"
+  }, 
+  {
+    "code": "0303030B0", 
+    "name": "ROFLUMILAST"
+  }, 
+  {
+    "code": "2003", 
+    "name": "WOUND MANAGEMENT & OTHER DRESSINGS"
+  }, 
+  {
+    "code": "0607040A0", 
+    "name": "MECASERMIN"
+  }, 
+  {
+    "code": "1310040S0", 
+    "name": "PHENOTHRIN"
+  }, 
+  {
+    "code": "1310040V0", 
+    "name": "DIMETICONE (PARASITICIDAL)"
+  }, 
+  {
+    "code": "0408010AG", 
+    "name": "STIRIPENTOL"
+  }, 
+  {
+    "code": "1404000AB", 
+    "name": "JAPANESE ENCEPHALITIS VACCINE"
+  }, 
+  {
+    "code": "0906050U0", 
+    "name": "TOCOFERSOLAN"
+  }, 
+  {
+    "code": "050301000", 
+    "name": "OTHER HIV INFECTION PREPS"
+  }, 
+  {
+    "code": "0206040AG", 
+    "name": "PENTOXIFYLLINE"
+  }, 
+  {
+    "code": "2230", 
+    "name": "INCONTINENCE SHEATHS"
+  }, 
+  {
+    "code": "1001010AD", 
+    "name": "IBUPROFEN LYSINE"
+  }, 
+  {
+    "code": "1001030F0", 
+    "name": "PENICILLAMINE"
+  }, 
+  {
+    "code": "0501080D0", 
+    "name": "CO-TRIMOXAZOLE(TRIMETHOPRIM/SULFAMETHOX"
+  }, 
+  {
+    "code": "0208020I0", 
+    "name": "PENTOSAN POLYSULPHATE SODIUM"
+  }, 
+  {
+    "code": "1106000AG", 
+    "name": "TIMOLOL & BRIMONIDINE"
+  }, 
+  {
+    "code": "1001010C0", 
+    "name": "DICLOFENAC SODIUM"
+  }, 
+  {
+    "code": "0410020C0", 
+    "name": "VARENICLINE TARTRATE"
+  }, 
+  {
+    "code": "0201010F0", 
+    "name": "DIGOXIN"
+  }, 
+  {
+    "code": "100201000", 
+    "name": "OTHER NEUROMUS'AR TRANSMI'ON PREPS"
+  }, 
+  {
+    "code": "1108010H0", 
+    "name": "HYETELLOSE"
+  }, 
+  {
+    "code": "0403040Z0", 
+    "name": "AGOMELATINE"
+  }, 
+  {
+    "code": "1105000B0", 
+    "name": "ATROPINE SULPHATE"
+  }, 
+  {
+    "code": "1902070M0", 
+    "name": "METHIONINE"
+  }, 
+  {
+    "code": "0203020P0", 
+    "name": "MEXILETINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1003020I0", 
+    "name": "DIETHYLAMINE SALICYLATE"
+  }, 
+  {
+    "code": "0205051Z0", 
+    "name": "PERINDOPRIL ARGININE WITH DIURETIC"
+  }, 
+  {
+    "code": "140400050", 
+    "name": "VARICELLA VACCINE LIVE"
+  }, 
+  {
+    "code": "1003020T0", 
+    "name": "NICOTINATES"
+  }, 
+  {
+    "code": "0902011P0", 
+    "name": "SODIUM POLYSTYRENE SULPHONATE"
+  }, 
+  {
+    "code": "0301040M0", 
+    "name": "FENOTEROL HYDROBROMIDE"
+  }, 
+  {
+    "code": "0905021L0", 
+    "name": "SODIUM DIHYDROGEN PHOSPHATE DIHYDRATE"
+  }, 
+  {
+    "code": "0204000P0", 
+    "name": "PINDOLOL"
+  }, 
+  {
+    "code": "0503021E0", 
+    "name": "FAMCICLOVIR"
+  }, 
+  {
+    "code": "0109010U0", 
+    "name": "URSODEOXYCHOLIC ACID"
+  }, 
+  {
+    "code": "0101012A0", 
+    "name": "GRIPE MIXTURES"
+  }, 
+  {
+    "code": "0204000I0", 
+    "name": "LABETALOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0407010N0", 
+    "name": "CO-DYDRAMOL (DIHYDROCODEINE/PARACET)"
+  }, 
+  {
+    "code": "0501040H0", 
+    "name": "GENTAMICIN SULPHATE"
+  }, 
+  {
+    "code": "0501070Z0", 
+    "name": "PRISTINAMYCIN"
+  }, 
+  {
+    "code": "1106000K0", 
+    "name": "CARTEOLOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0310000E0", 
+    "name": "EPHEDRINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0601012G0", 
+    "name": "INSULIN ZINC SUSPENSION"
+  }, 
+  {
+    "code": "1302020D0", 
+    "name": "DIMETICONE (BARRIER)"
+  }, 
+  {
+    "code": "0101010S0", 
+    "name": "CALCIUM CARBONATE & SIMETICONE"
+  }, 
+  {
+    "code": "190607000", 
+    "name": "OTHER SYRUP PREPS"
+  }, 
+  {
+    "code": "0403010Y0", 
+    "name": "TRIMIPRAMINE MALEATE"
+  }, 
+  {
+    "code": "1310050K0", 
+    "name": "DIBROMPROPAMIDINE ISETIONATE"
+  }, 
+  {
+    "code": "0904010F0", 
+    "name": "GLUTEN FREE/LOW PROTEIN BREAD"
+  }, 
+  {
+    "code": "0206010I0", 
+    "name": "ISOSORBIDE DINITRATE"
+  }, 
+  {
+    "code": "0304020X0", 
+    "name": "OMALIZUMAB"
+  }, 
+  {
+    "code": "0309020AB", 
+    "name": "DIPHENHYDRAMINE HCL/PHOLCODINE"
+  }, 
+  {
+    "code": "0202010J0", 
+    "name": "CYCLOPENTHIAZIDE"
+  }, 
+  {
+    "code": "0409010T0", 
+    "name": "SELEGILINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0403040F0", 
+    "name": "FLUPENTIXOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0607020D0", 
+    "name": "CETRORELIX"
+  }, 
+  {
+    "code": "1310020Z0", 
+    "name": "UNDECENOATES"
+  }, 
+  {
+    "code": "1304000P0", 
+    "name": "FLUOCINONIDE"
+  }, 
+  {
+    "code": "0410020B0", 
+    "name": "NICOTINE"
+  }, 
+  {
+    "code": "0501014S0", 
+    "name": "PIPERACILLIN SODIUM/TAZOBACTAM SODIUM"
+  }, 
+  {
+    "code": "091101000", 
+    "name": "OTHER AMINO ACID&NUTRITIONAL AGENT PREPS"
+  }, 
+  {
+    "code": "0206020B0", 
+    "name": "TRIMETAZIDINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "100101080", 
+    "name": "ACECLOFENAC"
+  }, 
+  {
+    "code": "0209000L0", 
+    "name": "DIPYRIDAMOLE"
+  }, 
+  {
+    "code": "0406000L0", 
+    "name": "HYOSCINE HYDROBROMIDE"
+  }, 
+  {
+    "code": "0501100C0", 
+    "name": "CLOFAZIMINE"
+  }, 
+  {
+    "code": "131003000", 
+    "name": "OTHER ANTIVIRAL PREPS"
+  }, 
+  {
+    "code": "0407020AD", 
+    "name": "OXYCODONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0801050P0", 
+    "name": "HYDROXYCARBAMIDE"
+  }, 
+  {
+    "code": "131005000", 
+    "name": "OTHER MINOR CUT & ABRASION PREPS"
+  }, 
+  {
+    "code": "0406000A0", 
+    "name": "HYOSCINE"
+  }, 
+  {
+    "code": "0604011X0", 
+    "name": "RALOXIFENE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "040201060", 
+    "name": "OLANZAPINE"
+  }, 
+  {
+    "code": "0908010P0", 
+    "name": "SODIUM PHENYLBUTYRATE"
+  }, 
+  {
+    "code": "0407010AB", 
+    "name": "PARACETAMOL & PHENYLEPHRINE HCL"
+  }, 
+  {
+    "code": "0603020S0", 
+    "name": "METHYLPREDNISOLONE"
+  }, 
+  {
+    "code": "1303000M0", 
+    "name": "MEPYRAMINE MALEATE"
+  }, 
+  {
+    "code": "131004000", 
+    "name": "OTHER PARASITICIDAL PREPS"
+  }, 
+  {
+    "code": "1310020D0", 
+    "name": "BENZOIC ACID"
+  }, 
+  {
+    "code": "0103050R0", 
+    "name": "PANTOPRAZOLE"
+  }, 
+  {
+    "code": "0604030L0", 
+    "name": "NANDROLONE DECANOATE"
+  }, 
+  {
+    "code": "0906024N0", 
+    "name": "PYRIDOXINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0704010U0", 
+    "name": "TAMSULOSIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "120101040", 
+    "name": "DEXAMETHASONE SODIUM METASULPHOBENZOATE"
+  }, 
+  {
+    "code": "2107", 
+    "name": "ELASTIC HOSIERY"
+  }, 
+  {
+    "code": "0205052AC", 
+    "name": "OLMESARTAN MEDOX/AMLODIPINE/HYDCHLOROTH"
+  }, 
+  {
+    "code": "0405020T0", 
+    "name": "RIMONABANT"
+  }, 
+  {
+    "code": "0407030AD", 
+    "name": "GABAPENTIN (NEUROPATHIC PAIN)"
+  }, 
+  {
+    "code": "0208020W0", 
+    "name": "INR BLOOD TESTING REAGENTS"
+  }, 
+  {
+    "code": "0604011Q0", 
+    "name": "OESTROGENS CONJUGATED WITH PROGESTOGEN"
+  }, 
+  {
+    "code": "0607020P0", 
+    "name": "NAFARELIN ACETATE"
+  }, 
+  {
+    "code": "2102", 
+    "name": "CATHETERS"
+  }, 
+  {
+    "code": "130900000", 
+    "name": "OTHER SHAMPOO & SCALP PREPS"
+  }, 
+  {
+    "code": "091200000", 
+    "name": "OTHER HEALTH SUPPLEMENT PREPS"
+  }, 
+  {
+    "code": "1106000Y0", 
+    "name": "PILOCARPINE NITRATE"
+  }, 
+  {
+    "code": "1001010E0", 
+    "name": "ETODOLAC"
+  }, 
+  {
+    "code": "0605010X0", 
+    "name": "CHORIONIC GONADOTROPHIN ALFA"
+  }, 
+  {
+    "code": "0403030Q0", 
+    "name": "SERTRALINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1001010AQ", 
+    "name": "BROMFENAC"
+  }, 
+  {
+    "code": "0501022A0", 
+    "name": "MEROPENEM"
+  }, 
+  {
+    "code": "0406000G0", 
+    "name": "CYCLIZINE LACTATE"
+  }, 
+  {
+    "code": "0602010V0", 
+    "name": "LEVOTHYROXINE SODIUM"
+  }, 
+  {
+    "code": "0501090E0", 
+    "name": "CYCLOSERINE"
+  }, 
+  {
+    "code": "100302000", 
+    "name": "OTHER RUBEFACIENT&TOP ANTIRHEUMATICPREPS"
+  }, 
+  {
+    "code": "0402010X0", 
+    "name": "TRIFLUOPERAZINE"
+  }, 
+  {
+    "code": "1304000B0", 
+    "name": "ALCLOMETASONE DIPROPIONATE"
+  }, 
+  {
+    "code": "191300000", 
+    "name": "OTHER CORDIAL/SOFT DRINK PREPS"
+  }, 
+  {
+    "code": "0106020U0", 
+    "name": "PHENOLPHTHALEIN & RHUBARB"
+  }, 
+  {
+    "code": "0503030B0", 
+    "name": "ADEFOVIR DIPIVOXIL"
+  }, 
+  {
+    "code": "0504010Z0", 
+    "name": "CHLOROQUINE PHOSPHATE WITH PROGUANIL HCL"
+  }, 
+  {
+    "code": "1405020B0", 
+    "name": "HEPATITIS B IMMUNOGLOBULIN"
+  }, 
+  {
+    "code": "0803042B0", 
+    "name": "BUSERELIN"
+  }, 
+  {
+    "code": "2135", 
+    "name": "ACNE TREATMENT"
+  }, 
+  {
+    "code": "0104020N0", 
+    "name": "OPIUM & MORPHINE"
+  }, 
+  {
+    "code": "0205051F0", 
+    "name": "CAPTOPRIL"
+  }, 
+  {
+    "code": "0402030K0", 
+    "name": "LITHIUM CARBONATE"
+  }, 
+  {
+    "code": "0206020I0", 
+    "name": "ISRADIPINE"
+  }, 
+  {
+    "code": "0605010D0", 
+    "name": "CHORIONIC GONADOTROPHIN"
+  }, 
+  {
+    "code": "0904010G0", 
+    "name": "FRUCTOSE"
+  }, 
+  {
+    "code": "0501030V0", 
+    "name": "TETRACYCLINE"
+  }, 
+  {
+    "code": "0901020N0", 
+    "name": "HYDROXOCOBALAMIN"
+  }, 
+  {
+    "code": "0406000W0", 
+    "name": "KETAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0801000I0", 
+    "name": "CALC FOLINATE"
+  }, 
+  {
+    "code": "0208010P0", 
+    "name": "HEPARIN FLUSHES"
+  }, 
+  {
+    "code": "2002", 
+    "name": "ARM SLING/BANDAGES"
+  }, 
+  {
+    "code": "0503010E0", 
+    "name": "ABACAVIR"
+  }, 
+  {
+    "code": "0704050R0", 
+    "name": "TADALAFIL"
+  }, 
+  {
+    "code": "0501013C0", 
+    "name": "AMOXICILLIN SODIUM"
+  }, 
+  {
+    "code": "090401080", 
+    "name": "GLUTEN FREE/WHEAT FREE PASTA"
+  }, 
+  {
+    "code": "0206020K0", 
+    "name": "LACIDIPINE"
+  }, 
+  {
+    "code": "1307000Q0", 
+    "name": "SILVER NITRATE"
+  }, 
+  {
+    "code": "0902011L0", 
+    "name": "CALCIUM POLYSTYRENE SULPHONATE"
+  }, 
+  {
+    "code": "0205051J0", 
+    "name": "FOSINOPRIL SODIUM"
+  }, 
+  {
+    "code": "0501090I0", 
+    "name": "ETHIONAMIDE"
+  }, 
+  {
+    "code": "1203030J0", 
+    "name": "HEXYLRESORCINOL"
+  }, 
+  {
+    "code": "0403010L0", 
+    "name": "DOXEPIN"
+  }, 
+  {
+    "code": "0307000Q0", 
+    "name": "ERDOSTEINE"
+  }, 
+  {
+    "code": "0402010AC", 
+    "name": "ZOTEPINE"
+  }, 
+  {
+    "code": "0601023S0", 
+    "name": "ROSIGLITAZONE"
+  }, 
+  {
+    "code": "0504010P0", 
+    "name": "PYRIMETHAMINE WITH SULFADOXINE"
+  }, 
+  {
+    "code": "1404000AA", 
+    "name": "TICK-BORNE ENCEPHALITIS VACCINE"
+  }, 
+  {
+    "code": "2122", 
+    "name": "EMOLLIENTS"
+  }, 
+  {
+    "code": "0501080W0", 
+    "name": "TRIMETHOPRIM"
+  }, 
+  {
+    "code": "0906040K0", 
+    "name": "DIHYDROTACHYSTEROL"
+  }, 
+  {
+    "code": "040702040", 
+    "name": "TRAMADOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1309000I0", 
+    "name": "KETOCONAZOLE"
+  }, 
+  {
+    "code": "2129", 
+    "name": "PLANTAR PRESSURE OFFLOADING DEVICE"
+  }, 
+  {
+    "code": "0601012V0", 
+    "name": "INSULIN GLARGINE"
+  }, 
+  {
+    "code": "0401020R0", 
+    "name": "MEPROBAMATE"
+  }, 
+  {
+    "code": "0208010K0", 
+    "name": "HEPARIN SODIUM"
+  }, 
+  {
+    "code": "0212000D0", 
+    "name": "BEZAFIBRATE"
+  }, 
+  {
+    "code": "1302010H0", 
+    "name": "FULLER'S EARTH"
+  }, 
+  {
+    "code": "1914010A0", 
+    "name": "STERILE WATER"
+  }, 
+  {
+    "code": "0402010AD", 
+    "name": "ARIPIPRAZOLE"
+  }, 
+  {
+    "code": "0906060L0", 
+    "name": "MENADIOL SODIUM PHOSPHATE"
+  }, 
+  {
+    "code": "0908010AF", 
+    "name": "NITISINONE"
+  }, 
+  {
+    "code": "2345", 
+    "name": "DEODORANTS"
+  }, 
+  {
+    "code": "0408010AJ", 
+    "name": "RETIGABINE"
+  }, 
+  {
+    "code": "090601100", 
+    "name": "OTHER VITAMIN A PREPS 0906011"
+  }, 
+  {
+    "code": "0102000J0", 
+    "name": "DICYCLOVERINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1001030S0", 
+    "name": "ADALIMUMAB"
+  }, 
+  {
+    "code": "0212000Q0", 
+    "name": "GEMFIBROZIL"
+  }, 
+  {
+    "code": "0704010A0", 
+    "name": "ALFUZOSIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0601011N0", 
+    "name": "SOLUBLE INSULIN (NEUTRAL INSULIN)"
+  }, 
+  {
+    "code": "0205051I0", 
+    "name": "ENALAPRIL MALEATE"
+  }, 
+  {
+    "code": "2315", 
+    "name": "ADHESIVE REMOVERS (SPRAYS/LIQUIDS/WIPES)"
+  }, 
+  {
+    "code": "190205500", 
+    "name": "OTHER TOILETRY PREPS"
+  }, 
+  {
+    "code": "1308010Y0", 
+    "name": "FLUOROURACIL (SUNSCREEN)"
+  }, 
+  {
+    "code": "0501011J0", 
+    "name": "BENZYLPENICILLIN SODIUM (PENICILLIN G)"
+  }, 
+  {
+    "code": "1001010I0", 
+    "name": "FLURBIPROFEN"
+  }, 
+  {
+    "code": "1001010T0", 
+    "name": "TIAPROFENIC ACID"
+  }, 
+  {
+    "code": "0802040U0", 
+    "name": "GLATIRAMER ACETATE"
+  }, 
+  {
+    "code": "1404000AF", 
+    "name": "HAEMOPHILUS INFLUENZAE B/MENINGOCOCCAL C"
+  }, 
+  {
+    "code": "0205010N0", 
+    "name": "MINOXIDIL"
+  }, 
+  {
+    "code": "0402010J0", 
+    "name": "HALOPERIDOL"
+  }, 
+  {
+    "code": "0908010Y0", 
+    "name": "SACROSIDASE"
+  }, 
+  {
+    "code": "0604020K0", 
+    "name": "TESTOSTERONE"
+  }, 
+  {
+    "code": "0703010M0", 
+    "name": "COMBINED MESTRANOL"
+  }, 
+  {
+    "code": "0101012B0", 
+    "name": "SODIUM BICARBONATE"
+  }, 
+  {
+    "code": "0504010X0", 
+    "name": "QUININE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0802010N0", 
+    "name": "MYCOPHENOLATE SOD"
+  }, 
+  {
+    "code": "130801000", 
+    "name": "OTHER SUNSCREENING PREPS"
+  }, 
+  {
+    "code": "0504020G0", 
+    "name": "DILOXANIDE FUROATE"
+  }, 
+  {
+    "code": "0104020L0", 
+    "name": "LOPERAMIDE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0503010H0", 
+    "name": "TENOFOVIR DISOPROXIL"
+  }, 
+  {
+    "code": "0801030S0", 
+    "name": "TEGAFUR"
+  }, 
+  {
+    "code": "1103010H0", 
+    "name": "FUSIDIC ACID"
+  }, 
+  {
+    "code": "0401010T0", 
+    "name": "TEMAZEPAM"
+  }, 
+  {
+    "code": "0304010N0", 
+    "name": "DIPHENHYDRAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0906031C0", 
+    "name": "ASCORBIC ACID"
+  }, 
+  {
+    "code": "1105000H0", 
+    "name": "HOMATROPINE HYDROBROMIDE"
+  }, 
+  {
+    "code": "0911010T0", 
+    "name": "TAURINE"
+  }, 
+  {
+    "code": "0704050AA", 
+    "name": "VARDENAFIL"
+  }, 
+  {
+    "code": "0501050A0", 
+    "name": "AZITHROMYCIN"
+  }, 
+  {
+    "code": "1104020AC", 
+    "name": "EPINASTINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0401030H0", 
+    "name": "BUTOBARBITAL"
+  }, 
+  {
+    "code": "0501080V0", 
+    "name": "SULFAPYRIDINE"
+  }, 
+  {
+    "code": "0106040M0", 
+    "name": "MACROGOL 3350"
+  }, 
+  {
+    "code": "0803043N0", 
+    "name": "OCTREOTIDE ACETATE"
+  }, 
+  {
+    "code": "020400030", 
+    "name": "TIMOLOL WITH DIURETIC"
+  }, 
+  {
+    "code": "0407010Q0", 
+    "name": "CO-PROXAMOL (DEXTROPROP HCL/PARACET)"
+  }, 
+  {
+    "code": "0908010S0", 
+    "name": "TRIENTINE DIHYDROCHLORIDE"
+  }, 
+  {
+    "code": "1307000F0", 
+    "name": "GLUTARALDEHYDE"
+  }, 
+  {
+    "code": "0407042L0", 
+    "name": "METHYSERGIDE"
+  }, 
+  {
+    "code": "140400030", 
+    "name": "HEPATITIS A"
+  }, 
+  {
+    "code": "1404000G0", 
+    "name": "HEPATITIS B"
+  }, 
+  {
+    "code": "1203030D0", 
+    "name": "CETYLPYRIDINIUM CHLORIDE"
+  }, 
+  {
+    "code": "0407020AF", 
+    "name": "OXYCODONE HCL/NALOXONE HCL"
+  }, 
+  {
+    "code": "1310050S0", 
+    "name": "POVIDONE-IODINE"
+  }, 
+  {
+    "code": "0505030A0", 
+    "name": "ALBENDAZOLE"
+  }, 
+  {
+    "code": "1404000E0", 
+    "name": "CHOLERA"
+  }, 
+  {
+    "code": "1305020F0", 
+    "name": "DITHRANOL"
+  }, 
+  {
+    "code": "0604020M0", 
+    "name": "TESTOSTERONE ENANTATE"
+  }, 
+  {
+    "code": "0408010H0", 
+    "name": "LAMOTRIGINE"
+  }, 
+  {
+    "code": "0904010AD", 
+    "name": "GLUTEN FREE/WHEAT FREE CAKES/PASTRIES"
+  }, 
+  {
+    "code": "0106010H0", 
+    "name": "METHYLCELLULOSE"
+  }, 
+  {
+    "code": "120202000", 
+    "name": "OTHER TOPICAL NASAL DECONGESTANT PREPS"
+  }, 
+  {
+    "code": "0409010N0", 
+    "name": "CO-CARELDOPA (CARBIDOPA/LEVODOPA)"
+  }, 
+  {
+    "code": "0703010F0", 
+    "name": "COMBINED ETHINYLESTRADIOL 30MCG"
+  }, 
+  {
+    "code": "0604011G0", 
+    "name": "ESTRADIOL"
+  }, 
+  {
+    "code": "0906040N0", 
+    "name": "ERGOCALCIFEROL"
+  }, 
+  {
+    "code": "1003020L0", 
+    "name": "KAOLIN HEAVY"
+  }, 
+  {
+    "code": "2118", 
+    "name": "VACUUM PUMPS FOR ERECTILE DYSFUNCTION"
+  }, 
+  {
+    "code": "0501090R0", 
+    "name": "RIFAMPICIN"
+  }, 
+  {
+    "code": "0402010D0", 
+    "name": "CHLORPROMAZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1001010AH", 
+    "name": "CELECOXIB"
+  }, 
+  {
+    "code": "0904010AB", 
+    "name": "GLUTEN FREE/WHEAT FREE COOKING AIDS"
+  }, 
+  {
+    "code": "0407020P0", 
+    "name": "MORPHINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0603020M0", 
+    "name": "HYDROCORTISONE SODIUM SUCCINATE"
+  }, 
+  {
+    "code": "2136", 
+    "name": "ADHESIVE DRESSING REMOVER STER SILICONE"
+  }, 
+  {
+    "code": "0605010Y0", 
+    "name": "LUTROPIN ALFA"
+  }, 
+  {
+    "code": "0906040B0", 
+    "name": "ALFACALCIDOL"
+  }, 
+  {
+    "code": "1310020Y0", 
+    "name": "TOLNAFTATE"
+  }, 
+  {
+    "code": "020400080", 
+    "name": "CARVEDILOL"
+  }, 
+  {
+    "code": "0803041L0", 
+    "name": "LETROZOLE"
+  }, 
+  {
+    "code": "1202010A0", 
+    "name": "AZELASTINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0102000P0", 
+    "name": "MEBEVERINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0205053A0", 
+    "name": "ALISKIREN"
+  }, 
+  {
+    "code": "0603020B0", 
+    "name": "BETAMETHASONE"
+  }, 
+  {
+    "code": "0803041C0", 
+    "name": "EXEMESTANE"
+  }, 
+  {
+    "code": "0501070T0", 
+    "name": "TEICOPLANIN"
+  }, 
+  {
+    "code": "0504010N0", 
+    "name": "PYRIMETHAMINE"
+  }, 
+  {
+    "code": "090900000", 
+    "name": "OTHER FOOD PREPS"
+  }, 
+  {
+    "code": "0601060W0", 
+    "name": "KETONE BLOOD TESTING REAGENTS"
+  }, 
+  {
+    "code": "0901030D0", 
+    "name": "EPOETIN ALFA"
+  }, 
+  {
+    "code": "0408010A0", 
+    "name": "LEVETIRACETAM"
+  }, 
+  {
+    "code": "0402010U0", 
+    "name": "SULPIRIDE"
+  }, 
+  {
+    "code": "0304010E0", 
+    "name": "FEXOFENADINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "100302010", 
+    "name": "KETOPROFEN"
+  }, 
+  {
+    "code": "0403010V0", 
+    "name": "NORTRIPTYLINE"
+  }, 
+  {
+    "code": "1106000X0", 
+    "name": "PILOCARPINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1309000S0", 
+    "name": "SELENIUM SULPHIDE"
+  }, 
+  {
+    "code": "0601023AE", 
+    "name": "LINAGLIPTIN"
+  }, 
+  {
+    "code": "1305020P0", 
+    "name": "COAL TAR BATH PREPARATIONS"
+  }, 
+  {
+    "code": "0402020Z0", 
+    "name": "ZUCLOPENTHIXOL DECANOATE"
+  }, 
+  {
+    "code": "0904010AN", 
+    "name": "LOW PROTEIN MISCELLANEOUS"
+  }, 
+  {
+    "code": "0601023W0", 
+    "name": "METFORMIN HYDROCHLORIDE/PIOGLITAZONE"
+  }, 
+  {
+    "code": "0803042N0", 
+    "name": "LEUPRORELIN ACETATE"
+  }, 
+  {
+    "code": "1108010L0", 
+    "name": "LIQUID PARAFFIN"
+  }, 
+  {
+    "code": "0208010W0", 
+    "name": "TINZAPARIN SODIUM"
+  }, 
+  {
+    "code": "1108010Z0", 
+    "name": "CARBOMER 974P"
+  }, 
+  {
+    "code": "1108010D0", 
+    "name": "CARMELLOSE SODIUM"
+  }, 
+  {
+    "code": "0302000C0", 
+    "name": "BECLOMETASONE DIPROPIONATE"
+  }, 
+  {
+    "code": "0205052AB", 
+    "name": "OLMESARTAN MEDOXOMIL/AMLODIPINE"
+  }, 
+  {
+    "code": "0212000M0", 
+    "name": "FLUVASTATIN SODIUM"
+  }, 
+  {
+    "code": "1310011T0", 
+    "name": "POTASSIUM HYDROXYQUINOLINE SULPHATE"
+  }, 
+  {
+    "code": "0205040S0", 
+    "name": "PRAZOSIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0106040X0", 
+    "name": "MACROGOL 4000"
+  }, 
+  {
+    "code": "130501000", 
+    "name": "OTHER ECZEMA PREPS"
+  }, 
+  {
+    "code": "0501120N0", 
+    "name": "NALIDIXIC ACID"
+  }, 
+  {
+    "code": "0206040AH", 
+    "name": "RUTOSIDES"
+  }, 
+  {
+    "code": "0402010W0", 
+    "name": "THIORIDAZINE"
+  }, 
+  {
+    "code": "0904010AA", 
+    "name": "GLUTEN FREE/WHEAT FREE MIXES"
+  }, 
+  {
+    "code": "0403010X0", 
+    "name": "TRAZODONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0204000N0", 
+    "name": "OXPRENOLOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0904010Q0", 
+    "name": "GLUTEN FREE PASTA"
+  }, 
+  {
+    "code": "1305020A0", 
+    "name": "ACITRETIN"
+  }, 
+  {
+    "code": "0908010C0", 
+    "name": "CARNITINE"
+  }, 
+  {
+    "code": "0602020D0", 
+    "name": "CARBIMAZOLE"
+  }, 
+  {
+    "code": "0901011S0", 
+    "name": "POLYSACCHARIDE-IRON COMPLEX"
+  }, 
+  {
+    "code": "0501080T0", 
+    "name": "SULFAMETHOXYPYRIDAZINE"
+  }, 
+  {
+    "code": "1001010AG", 
+    "name": "DICLOFENAC POTASSIUM"
+  }, 
+  {
+    "code": "1001030C0", 
+    "name": "HYDROXYCHLOROQUINE SULPHATE"
+  }, 
+  {
+    "code": "0103010T0", 
+    "name": "RANITIDINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1303000D0", 
+    "name": "CALAMINE"
+  }, 
+  {
+    "code": "1301010I0", 
+    "name": "WOOL FAT HYDROUS"
+  }, 
+  {
+    "code": "040801060", 
+    "name": "CLOBAZAM"
+  }, 
+  {
+    "code": "1001010AP", 
+    "name": "IBUPROFEN SODIUM DIHYDRATE"
+  }, 
+  {
+    "code": "0205051C0", 
+    "name": "MOEXIPRIL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1305010I0", 
+    "name": "GAMOLENIC ACID"
+  }, 
+  {
+    "code": "1501043A0", 
+    "name": "ALFENTANIL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0703010G0", 
+    "name": "COMBINED ETHINYLESTRADIOL 35MCG"
+  }, 
+  {
+    "code": "0503010G0", 
+    "name": "LOPINAVIR & RITONAVIR"
+  }, 
+  {
+    "code": "1303000AB", 
+    "name": "ALUMINIUM SULPHATE"
+  }, 
+  {
+    "code": "1311010I0", 
+    "name": "ISOPROPYL ALCOHOL"
+  }, 
+  {
+    "code": "1310050P0", 
+    "name": "PHENOL"
+  }, 
+  {
+    "code": "0502010C0", 
+    "name": "ITRACONAZOLE"
+  }, 
+  {
+    "code": "2250", 
+    "name": "LEG BAGS"
+  }, 
+  {
+    "code": "0204000AB", 
+    "name": "NEBIVOLOL"
+  }, 
+  {
+    "code": "0703050B0", 
+    "name": "ULIPRISTAL ACETATE"
+  }, 
+  {
+    "code": "1202010U0", 
+    "name": "MOMETASONE FUROATE"
+  }, 
+  {
+    "code": "0104010H0", 
+    "name": "KAOLIN LIGHT"
+  }, 
+  {
+    "code": "0410010B0", 
+    "name": "DISULFIRAM"
+  }, 
+  {
+    "code": "1003020N0", 
+    "name": "METHYL SALICYLATE"
+  }, 
+  {
+    "code": "1106000AJ", 
+    "name": "BRINZOLAMIDE & TIMOLOL"
+  }, 
+  {
+    "code": "1107000M0", 
+    "name": "OXYBUPROCAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0905013A0", 
+    "name": "MAGNESIUM ASPARTATE"
+  }, 
+  {
+    "code": "0205040D0", 
+    "name": "DOXAZOSIN MESILATE"
+  }, 
+  {
+    "code": "1104010W0", 
+    "name": "LOTEPREDNOL ETABONATE"
+  }, 
+  {
+    "code": "0208020N0", 
+    "name": "PHENINDIONE"
+  }, 
+  {
+    "code": "0603020K0", 
+    "name": "METHYLPREDNISOLONE SODIUM SUCCINATE"
+  }, 
+  {
+    "code": "1002020Y0", 
+    "name": "CANNABIS"
+  }, 
+  {
+    "code": "0504080A0", 
+    "name": "ATOVAQUONE"
+  }, 
+  {
+    "code": "1502010I0", 
+    "name": "LIDOCAINE"
+  }, 
+  {
+    "code": "1307000V0", 
+    "name": "IMIQUIMOD"
+  }, 
+  {
+    "code": "0501013K0", 
+    "name": "CO-AMOXICLAV (AMOXICILLIN/CLAVUL ACID)"
+  }, 
+  {
+    "code": "0603020X0", 
+    "name": "PREDNISONE"
+  }, 
+  {
+    "code": "2009", 
+    "name": "STOCKINETTE"
+  }, 
+  {
+    "code": "1106000AH", 
+    "name": "TIMOLOL & TRAVOPROST"
+  }, 
+  {
+    "code": "0801030T0", 
+    "name": "TIOGUANINE"
+  }, 
+  {
+    "code": "0205052R0", 
+    "name": "TELMISARTAN WITH DIURETIC"
+  }, 
+  {
+    "code": "0904010U0", 
+    "name": "GLUTEN FREE/WHEAT FREE BREAD"
+  }, 
+  {
+    "code": "0606020X0", 
+    "name": "STRONTIUM RANELATE"
+  }, 
+  {
+    "code": "0403010F0", 
+    "name": "CLOMIPRAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0409020N0", 
+    "name": "ORPHENADRINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1202010W0", 
+    "name": "FLUTICASONE FUROATE"
+  }, 
+  {
+    "code": "1108020J0", 
+    "name": "APRACLONIDINE"
+  }, 
+  {
+    "code": "0411000D0", 
+    "name": "DONEPEZIL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0204000R0", 
+    "name": "PROPRANOLOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1306010H0", 
+    "name": "ADAPALENE"
+  }, 
+  {
+    "code": "0905011D0", 
+    "name": "CALCIUM CARBONATE"
+  }, 
+  {
+    "code": "131500000", 
+    "name": "OTHER MISCELLANEOUS TOPICAL PREPS"
+  }, 
+  {
+    "code": "1001010F0", 
+    "name": "FENBUFEN"
+  }, 
+  {
+    "code": "1502010S0", 
+    "name": "PRILOCAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0102000X0", 
+    "name": "MEBEVERINE HCL COMPOUND PREPARATIONS"
+  }, 
+  {
+    "code": "0902012H0", 
+    "name": "ORAL REHYDRATION SALTS"
+  }, 
+  {
+    "code": "0701010T0", 
+    "name": "OXYTOCIN"
+  }, 
+  {
+    "code": "0411000H0", 
+    "name": "IDEBENONE"
+  }, 
+  {
+    "code": "0604020U0", 
+    "name": "TESTOSTERONE ESTERS"
+  }, 
+  {
+    "code": "1001030A0", 
+    "name": "AURANOFIN"
+  }, 
+  {
+    "code": "020400040", 
+    "name": "CO-TENIDONE (ATENOLOL/CHLORTALIDONE)"
+  }, 
+  {
+    "code": "1108020AF", 
+    "name": "NEPAFENAC"
+  }, 
+  {
+    "code": "0502040B0", 
+    "name": "MICAFUNGIN"
+  }, 
+  {
+    "code": "1306010Y0", 
+    "name": "BENZOYL PEROXIDE & CLINDAMYCIN PHOSPHATE"
+  }, 
+  {
+    "code": "0802040A0", 
+    "name": "PEGINTERFERON ALPHA"
+  }, 
+  {
+    "code": "1203040G0", 
+    "name": "HEXETIDINE"
+  }, 
+  {
+    "code": "0501070U0", 
+    "name": "VANCOMYCIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1305010AC", 
+    "name": "ZINC PASTE & CALAMINE"
+  }, 
+  {
+    "code": "0205051Q0", 
+    "name": "QUINAPRIL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0803042H0", 
+    "name": "FLUTAMIDE"
+  }, 
+  {
+    "code": "0407041Z0", 
+    "name": "ZOLMITRIPTAN"
+  }, 
+  {
+    "code": "0601011A0", 
+    "name": "INSULIN ASPART"
+  }, 
+  {
+    "code": "0404000S0", 
+    "name": "ATOMOXETINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1302010F0", 
+    "name": "EMULSIFYING WAX"
+  }, 
+  {
+    "code": "100101040", 
+    "name": "TENOXICAM"
+  }, 
+  {
+    "code": "0409010W0", 
+    "name": "PRAMIPEXOLE"
+  }, 
+  {
+    "code": "0601021A0", 
+    "name": "GLIMEPIRIDE"
+  }, 
+  {
+    "code": "0703022P0", 
+    "name": "ETONOGESTREL"
+  }, 
+  {
+    "code": "2104", 
+    "name": "CONTRACEPTIVE DEVICES"
+  }, 
+  {
+    "code": "0212000A0", 
+    "name": "ACIPIMOX"
+  }, 
+  {
+    "code": "090401090", 
+    "name": "MALTODEXTRIN"
+  }, 
+  {
+    "code": "0212000X0", 
+    "name": "PRAVASTATIN SODIUM"
+  }, 
+  {
+    "code": "0601022B0", 
+    "name": "METFORMIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0601012X0", 
+    "name": "INSULIN DETEMIR"
+  }, 
+  {
+    "code": "0906060Q0", 
+    "name": "PHYTOMENADIONE"
+  }, 
+  {
+    "code": "0606020Y0", 
+    "name": "ALENDRONIC ACID & COLECALCIFEROL"
+  }, 
+  {
+    "code": "1104010R0", 
+    "name": "PREDNISOLONE ACETATE"
+  }, 
+  {
+    "code": "0409030P0", 
+    "name": "PIRACETAM"
+  }, 
+  {
+    "code": "0205052Q0", 
+    "name": "TELMISARTAN"
+  }, 
+  {
+    "code": "0904010AR", 
+    "name": "LOW PROTEIN COOKING AIDS"
+  }, 
+  {
+    "code": "1301010W0", 
+    "name": "WOOL FAT"
+  }, 
+  {
+    "code": "0309020R0", 
+    "name": "DEXTROMETHORPHAN HYDROBROM COMP PREP'S"
+  }, 
+  {
+    "code": "0904010AI", 
+    "name": "GLUTEN FREE/WHEAT FREE/LOW PROTEIN BISC"
+  }, 
+  {
+    "code": "0203020F0", 
+    "name": "DISOPYRAMIDE"
+  }, 
+  {
+    "code": "2010", 
+    "name": "SURGICAL ADHESIVE TAPE"
+  }, 
+  {
+    "code": "0908010E0", 
+    "name": "MERCAPTAMINE"
+  }, 
+  {
+    "code": "090504100", 
+    "name": "OTHER ZINC PREPS"
+  }, 
+  {
+    "code": "0501130R0", 
+    "name": "NITROFURANTOIN"
+  }, 
+  {
+    "code": "0212000Y0", 
+    "name": "SIMVASTATIN"
+  }, 
+  {
+    "code": "0504080P0", 
+    "name": "PENTAMIDINE ISETIONATE"
+  }, 
+  {
+    "code": "1106000L0", 
+    "name": "LATANOPROST"
+  }, 
+  {
+    "code": "1502010C0", 
+    "name": "BUPIVACAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1108010F0", 
+    "name": "HYPROMELLOSE"
+  }, 
+  {
+    "code": "0501021D0", 
+    "name": "CEFOTAXIME SODIUM"
+  }, 
+  {
+    "code": "0906012B0", 
+    "name": "BETACAROTENE"
+  }, 
+  {
+    "code": "0102000Y0", 
+    "name": "PROPANTHELINE BROMIDE"
+  }, 
+  {
+    "code": "0304010AC", 
+    "name": "LEVOCETIRIZINE"
+  }, 
+  {
+    "code": "0309020X0", 
+    "name": "TERPIN HYDRATE"
+  }, 
+  {
+    "code": "0401020E0", 
+    "name": "CHLORDIAZEPOXIDE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0204000Y0", 
+    "name": "CO-PRENOZIDE (OXPRENOLOL HCL/CYCLOPENTH)"
+  }, 
+  {
+    "code": "0205051L0", 
+    "name": "LISINOPRIL"
+  }, 
+  {
+    "code": "2128", 
+    "name": "ANAL IRRIGATION SYSTEM"
+  }, 
+  {
+    "code": "0212000L0", 
+    "name": "EZETIMIBE"
+  }, 
+  {
+    "code": "040702050", 
+    "name": "HYDROMORPHONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1203010E0", 
+    "name": "BENZYDAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1106000AB", 
+    "name": "DORZOLAMIDE & TIMOLOL"
+  }, 
+  {
+    "code": "0501120Q0", 
+    "name": "NORFLOXACIN"
+  }, 
+  {
+    "code": "1405010A0", 
+    "name": "NORMAL IMMUNOGLOBULIN (GAMMA GLOBULIN)"
+  }, 
+  {
+    "code": "0207020Y0", 
+    "name": "MIDODRINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0704020P0", 
+    "name": "PROPIVERINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "2220", 
+    "name": "INCONTINENCE BELTS"
+  }, 
+  {
+    "code": "0301012S0", 
+    "name": "ORCIPRENALINE SULPHATE"
+  }, 
+  {
+    "code": "0503010Q0", 
+    "name": "LAMIVUDINE"
+  }, 
+  {
+    "code": "0904010AS", 
+    "name": "LOW PROTEIN CAKES"
+  }, 
+  {
+    "code": "0410020A0", 
+    "name": "BUPROPION HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0205051P0", 
+    "name": "QUINAPRIL HYDROCHLORIDE WITH DIURETIC"
+  }, 
+  {
+    "code": "0604020B0", 
+    "name": "DUTASTERIDE"
+  }, 
+  {
+    "code": "1304000F0", 
+    "name": "BETAMETHASONE VALERATE"
+  }, 
+  {
+    "code": "2008", 
+    "name": "PLASTERS"
+  }, 
+  {
+    "code": "0403040Y0", 
+    "name": "DULOXETINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0504010L0", 
+    "name": "MEFLOQUINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "2140", 
+    "name": "BACTERIAL DECOLONISATION PRODUCTS"
+  }, 
+  {
+    "code": "0404000L0", 
+    "name": "DEXAMFETAMINE SULPHATE"
+  }, 
+  {
+    "code": "1203050M0", 
+    "name": "MALIC ACID"
+  }, 
+  {
+    "code": "0403030L0", 
+    "name": "FLUVOXAMINE MALEATE"
+  }, 
+  {
+    "code": "0206020R0", 
+    "name": "NIFEDIPINE"
+  }, 
+  {
+    "code": "0901030J0", 
+    "name": "DARBEPOETIN ALFA"
+  }, 
+  {
+    "code": "1108010Q0", 
+    "name": "POLYVINYL ALCOHOL"
+  }, 
+  {
+    "code": "1304000D0", 
+    "name": "BETAMETHASONE ESTERS"
+  }, 
+  {
+    "code": "0208010L0", 
+    "name": "DALTEPARIN SODIUM"
+  }, 
+  {
+    "code": "0401010F0", 
+    "name": "CLOMETHIAZOLE"
+  }, 
+  {
+    "code": "2285", 
+    "name": "URETHRAL INSERT FOR FEMALE STRESS INCONT"
+  }, 
+  {
+    "code": "0501090Q0", 
+    "name": "RIFABUTIN"
+  }, 
+  {
+    "code": "1202010M0", 
+    "name": "FLUTICASONE PROPIONATE (NSL)"
+  }, 
+  {
+    "code": "1002020T0", 
+    "name": "TIZANIDINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0501120L0", 
+    "name": "CIPROFLOXACIN"
+  }, 
+  {
+    "code": "0310000Q0", 
+    "name": "PHENYLEPHRINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1202020P0", 
+    "name": "XYLOMETAZOLINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "040801050", 
+    "name": "TOPIRAMATE"
+  }, 
+  {
+    "code": "0409030B0", 
+    "name": "BOTULINUM TOXIN TYPE A"
+  }, 
+  {
+    "code": "1305010AF", 
+    "name": "ALITRETINOIN"
+  }, 
+  {
+    "code": "0503050B0", 
+    "name": "RIBAVIRIN"
+  }, 
+  {
+    "code": "0403010T0", 
+    "name": "MIANSERIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1001010AE", 
+    "name": "DEXKETOPROFEN"
+  }, 
+  {
+    "code": "0801050AA", 
+    "name": "IMATINIB MESILATE"
+  }, 
+  {
+    "code": "0702020I0", 
+    "name": "FENTICONAZOLE NITRATE"
+  }, 
+  {
+    "code": "0309020AA", 
+    "name": "IBUPROFEN/PSEUDOEPHED HCL"
+  }, 
+  {
+    "code": "1106000AK", 
+    "name": "TAFLUPROST"
+  }, 
+  {
+    "code": "0601023AA", 
+    "name": "VILDAGLIPTIN"
+  }, 
+  {
+    "code": "1310050M0", 
+    "name": "MAGNESIUM SULPHATE"
+  }, 
+  {
+    "code": "030800000", 
+    "name": "OTHER AROMATIC INHALATION PREPS"
+  }, 
+  {
+    "code": "2270", 
+    "name": "SUSPENSORY SYSTEMS"
+  }, 
+  {
+    "code": "0901012K0", 
+    "name": "IRON DEXTRAN"
+  }, 
+  {
+    "code": "1001030U0", 
+    "name": "METHOTREXATE"
+  }, 
+  {
+    "code": "0213000T0", 
+    "name": "SODIUM TETRADECYL SULPHATE"
+  }, 
+  {
+    "code": "0304030F0", 
+    "name": "C1-ESTERASE INHIBITOR"
+  }, 
+  {
+    "code": "1003020H0", 
+    "name": "CAPSICUM"
+  }, 
+  {
+    "code": "0411000F0", 
+    "name": "GALANTAMINE"
+  }, 
+  {
+    "code": "0607020W0", 
+    "name": "GANIRELIX"
+  }, 
+  {
+    "code": "090603300", 
+    "name": "OTHER VITAMIN C PREPS"
+  }, 
+  {
+    "code": "130502000", 
+    "name": "OTHER PSORIASIS PREPS"
+  }, 
+  {
+    "code": "0211000D0", 
+    "name": "ETAMSYLATE"
+  }, 
+  {
+    "code": "0202040S0", 
+    "name": "SPIRONOLACTONE WITH THIAZIDES"
+  }, 
+  {
+    "code": "021200010", 
+    "name": "CIPROFIBRATE"
+  }, 
+  {
+    "code": "2134", 
+    "name": "VAGINAL PH CORRECTION GELS"
+  }, 
+  {
+    "code": "0601021H0", 
+    "name": "GLIBENCLAMIDE"
+  }, 
+  {
+    "code": "0408010F0", 
+    "name": "CLONAZEPAM"
+  }, 
+  {
+    "code": "0407041M0", 
+    "name": "NARATRIPTAN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "131001100", 
+    "name": "OTHER TOPICAL ONLY ANTIBACTERIAL PREPS"
+  }, 
+  {
+    "code": "0604012F0", 
+    "name": "DYDROGESTERONE"
+  }, 
+  {
+    "code": "190606000", 
+    "name": "OTHER TINCTURE PREPS"
+  }, 
+  {
+    "code": "0906011D0", 
+    "name": "VITAMIN A"
+  }, 
+  {
+    "code": "0407020D0", 
+    "name": "DEXTROMORAMIDE TARTRATE"
+  }, 
+  {
+    "code": "0404000M0", 
+    "name": "METHYLPHENIDATE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "090402000", 
+    "name": "ENTERAL NUTRITION"
+  }, 
+  {
+    "code": "0704030J0", 
+    "name": "SODIUM CITRATE"
+  }, 
+  {
+    "code": "0208010D0", 
+    "name": "ENOXAPARIN"
+  }, 
+  {
+    "code": "2119", 
+    "name": "ORAL FILM FORMING AGENTS"
+  }, 
+  {
+    "code": "2335", 
+    "name": "COLOSTOMY BAGS"
+  }, 
+  {
+    "code": "0409010U0", 
+    "name": "CABERGOLINE"
+  }, 
+  {
+    "code": "1310011Y0", 
+    "name": "SILVER SULFADIAZINE"
+  }, 
+  {
+    "code": "1002020C0", 
+    "name": "BACLOFEN"
+  }, 
+  {
+    "code": "0208010N0", 
+    "name": "HEPARIN CALCIUM"
+  }, 
+  {
+    "code": "0402010AF", 
+    "name": "MELPERONE"
+  }, 
+  {
+    "code": "0206040AE", 
+    "name": "NAFTIDROFURYL OXALATE"
+  }, 
+  {
+    "code": "1103020A0", 
+    "name": "AMPHOTERACIN"
+  }, 
+  {
+    "code": "0601012W0", 
+    "name": "BIPHASIC PROTAMINE INSULIN"
+  }, 
+  {
+    "code": "0105020D0", 
+    "name": "PREDNISOLONE SODIUM METASULPHOBENZOATE"
+  }, 
+  {
+    "code": "090602400", 
+    "name": "OTHER PYRIDOXINE HYDROCHLORIDE(B6)PREPS"
+  }, 
+  {
+    "code": "0401020T0", 
+    "name": "OXAZEPAM"
+  }, 
+  {
+    "code": "0501021A0", 
+    "name": "CEFACLOR"
+  }, 
+  {
+    "code": "0604011D0", 
+    "name": "ETHINYLESTRADIOL"
+  }, 
+  {
+    "code": "1302010J0", 
+    "name": "LIGHT LIQUID PARAFFIN"
+  }, 
+  {
+    "code": "0212000V0", 
+    "name": "OMEGA-3 MARINE TRIGLYCERIDES"
+  }, 
+  {
+    "code": "040201030", 
+    "name": "RISPERIDONE"
+  }, 
+  {
+    "code": "1302020G0", 
+    "name": "ZINC PASTE"
+  }, 
+  {
+    "code": "0403020Q0", 
+    "name": "TRANYLCYPROMINE SULPHATE"
+  }, 
+  {
+    "code": "1001030R0", 
+    "name": "ANAKINRA"
+  }, 
+  {
+    "code": "1405030A0", 
+    "name": "ANTI-D (RH-) IMMUNOGLOBULIN"
+  }, 
+  {
+    "code": "1309000G0", 
+    "name": "ARACHIS OIL"
+  }, 
+  {
+    "code": "0905041Q0", 
+    "name": "ZINC SULPHATE"
+  }, 
+  {
+    "code": "1310020N0", 
+    "name": "MICONAZOLE NITRATE"
+  }, 
+  {
+    "code": "190700000", 
+    "name": "OTHER BASE/DIL/SUSPAGENT/STABILISERPREPS"
+  }, 
+  {
+    "code": "0501080J0", 
+    "name": "SULFADIAZINE"
+  }, 
+  {
+    "code": "1306010A0", 
+    "name": "ALUMINIUM OXIDE"
+  }, 
+  {
+    "code": "090504700", 
+    "name": "OTHER SELENIUM PREPS"
+  }, 
+  {
+    "code": "1404000L0", 
+    "name": "PNEUMOCOCCAL"
+  }, 
+  {
+    "code": "0107010Z0", 
+    "name": "ZINC OXIDE"
+  }, 
+  {
+    "code": "0402010AB", 
+    "name": "QUETIAPINE"
+  }, 
+  {
+    "code": "0601040E0", 
+    "name": "DIAZOXIDE"
+  }, 
+  {
+    "code": "091103000", 
+    "name": "OTHER GLANDULAR PREPS"
+  }, 
+  {
+    "code": "1902070Q0", 
+    "name": "NALOXONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0401020K0", 
+    "name": "DIAZEPAM"
+  }, 
+  {
+    "code": "0304010Y0", 
+    "name": "ALIMEMAZINE TARTRATE"
+  }, 
+  {
+    "code": "1310011AA", 
+    "name": "RETAPAMULIN"
+  }, 
+  {
+    "code": "0901011Q0", 
+    "name": "IRON & FOLIC ACID"
+  }, 
+  {
+    "code": "0703021Q0", 
+    "name": "DESOGESTREL"
+  }, 
+  {
+    "code": "0802040AA", 
+    "name": "THALIDOMIDE (IMMUNOMODULATING)"
+  }, 
+  {
+    "code": "0501070Y0", 
+    "name": "DAPTOMYCIN"
+  }, 
+  {
+    "code": "0309010L0", 
+    "name": "DEXTROMETHORPHAN HYDROBROMIDE"
+  }, 
+  {
+    "code": "0501030T0", 
+    "name": "OXYTETRACYCLINE"
+  }, 
+  {
+    "code": "1001040P0", 
+    "name": "SULFINPYRAZONE"
+  }, 
+  {
+    "code": "1306010C0", 
+    "name": "BENZOYL PEROXIDE"
+  }, 
+  {
+    "code": "1404000AH", 
+    "name": "HUMAN PAPILLOMAVIRUS (TYPE 6 11 16 18)"
+  }, 
+  {
+    "code": "2112", 
+    "name": "PEAK FLOW METERS"
+  }, 
+  {
+    "code": "0401020P0", 
+    "name": "LORAZEPAM"
+  }, 
+  {
+    "code": "0410000AA", 
+    "name": "NICOTINE BITARTRATE"
+  }, 
+  {
+    "code": "130802000", 
+    "name": "OTHER CAMOUFLAGE PREPS"
+  }, 
+  {
+    "code": "0704050AB", 
+    "name": "DAPOXETINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0906022K0", 
+    "name": "NICOTINAMIDE"
+  }, 
+  {
+    "code": "1305020I0", 
+    "name": "COAL TAR & CORTICOSTEROID PREPARATIONS"
+  }, 
+  {
+    "code": "2007", 
+    "name": "LINTS"
+  }, 
+  {
+    "code": "0704020N0", 
+    "name": "TOLTERODINE"
+  }, 
+  {
+    "code": "0503010L0", 
+    "name": "ATAZANAVIR"
+  }, 
+  {
+    "code": "0606020P0", 
+    "name": "DISODIUM PAMIDRONATE"
+  }, 
+  {
+    "code": "1001010N0", 
+    "name": "MEFENAMIC ACID"
+  }, 
+  {
+    "code": "0601011R0", 
+    "name": "INSULIN HUMAN"
+  }, 
+  {
+    "code": "0205052C0", 
+    "name": "CANDESARTAN CILEXETIL"
+  }, 
+  {
+    "code": "0205051N0", 
+    "name": "PERINDOPRIL ERBUMINE WITH DIURETIC"
+  }, 
+  {
+    "code": "0304010AB", 
+    "name": "DESLORATADINE"
+  }, 
+  {
+    "code": "0202040B0", 
+    "name": "CO-AMILOFRUSE (AMILORIDE HCL/FRUSEMIDE)"
+  }, 
+  {
+    "code": "0407010F0", 
+    "name": "CO-CODAMOL (CODEINE PHOS/PARACETAMOL)"
+  }, 
+  {
+    "code": "0304010A0", 
+    "name": "ACRIVASTINE"
+  }, 
+  {
+    "code": "1313010S0", 
+    "name": "MEDICATED STOCKINGS"
+  }, 
+  {
+    "code": "0206040AI", 
+    "name": "MOXISYLYTE HYDORCHLORIDE"
+  }, 
+  {
+    "code": "0904010X0", 
+    "name": "LOW PROTEIN BREAD"
+  }, 
+  {
+    "code": "0409010H0", 
+    "name": "ROPINIROLE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1301010P0", 
+    "name": "PARAFFIN HARD"
+  }, 
+  {
+    "code": "0205051G0", 
+    "name": "CO-ZIDOCAPT (HYDCHLOROTH/CAPTOPRIL)"
+  }, 
+  {
+    "code": "0904010I0", 
+    "name": "GLUTEN FREE BISCUITS"
+  }, 
+  {
+    "code": "0403040T0", 
+    "name": "NEFAZODONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "060602000", 
+    "name": "OTHER BIPHOSPHONATE & OTHER PREPS"
+  }, 
+  {
+    "code": "1203030B0", 
+    "name": "BENZOCAINE"
+  }, 
+  {
+    "code": "1501043F0", 
+    "name": "FENTANYL CITRATE"
+  }, 
+  {
+    "code": "0304010I0", 
+    "name": "CETIRIZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0203020X0", 
+    "name": "DRONEDARONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "2108", 
+    "name": "OXYGEN MASKS"
+  }, 
+  {
+    "code": "0205052V0", 
+    "name": "VALSARTAN"
+  }, 
+  {
+    "code": "1001010Q0", 
+    "name": "PHENYLBUTAZONE"
+  }, 
+  {
+    "code": "0409010I0", 
+    "name": "LEVODOPA"
+  }, 
+  {
+    "code": "0501030I0", 
+    "name": "DOXYCYCLINE HYCLATE"
+  }, 
+  {
+    "code": "2355", 
+    "name": "FLANGES"
+  }, 
+  {
+    "code": "0904010A0", 
+    "name": "GLUTEN FREE/WHEAT FREE BISCUITS"
+  }, 
+  {
+    "code": "0606020C0", 
+    "name": "DISODIUM ETIDRONATE"
+  }, 
+  {
+    "code": "0409010X0", 
+    "name": "LEVODOPA/CARBIDOPA/ENTACAPONE"
+  }, 
+  {
+    "code": "1002020S0", 
+    "name": "METHOCARBAMOL"
+  }, 
+  {
+    "code": "0503010M0", 
+    "name": "FOSAMPRENAVIR CALCIUM"
+  }, 
+  {
+    "code": "0606020V0", 
+    "name": "ZOLEDRONIC ACID"
+  }, 
+  {
+    "code": "0601012D0", 
+    "name": "BIPHASIC ISOPHANE INSULIN"
+  }, 
+  {
+    "code": "0212000F0", 
+    "name": "COLESTYRAMINE"
+  }, 
+  {
+    "code": "0607010B0", 
+    "name": "BROMOCRIPTINE"
+  }, 
+  {
+    "code": "1104020R0", 
+    "name": "NAPHAZOLINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0402010R0", 
+    "name": "PIMOZIDE"
+  }, 
+  {
+    "code": "2385", 
+    "name": "SKIN PROTECTORS"
+  }, 
+  {
+    "code": "1305010J0", 
+    "name": "ICHTHAMMOL"
+  }, 
+  {
+    "code": "0202040V0", 
+    "name": "TRIAMTERENE WITH THIAZIDES"
+  }, 
+  {
+    "code": "0904010J0", 
+    "name": "GLUTEN FREE GRAINS/FLOURS"
+  }, 
+  {
+    "code": "0408010X0", 
+    "name": "VIGABATRIN"
+  }, 
+  {
+    "code": "0505050P0", 
+    "name": "PRAZIQUANTEL"
+  }, 
+  {
+    "code": "0402010Q0", 
+    "name": "PERPHENAZINE"
+  }, 
+  {
+    "code": "190500000", 
+    "name": "OTHER PREPARATIONS"
+  }, 
+  {
+    "code": "1201030H0", 
+    "name": "OILS FOR THE EAR"
+  }, 
+  {
+    "code": "0906040G0", 
+    "name": "COLECALCIFEROL"
+  }, 
+  {
+    "code": "0106040R0", 
+    "name": "SODIUM CITRATE (RECTAL)"
+  }, 
+  {
+    "code": "130202000", 
+    "name": "OTHER BARRIER PREPS"
+  }, 
+  {
+    "code": "040701000", 
+    "name": "OTHER NON-OPIOID ANALGESIC PREPS"
+  }, 
+  {
+    "code": "1303000F0", 
+    "name": "DOXEPIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1502010F0", 
+    "name": "COCAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1106000C0", 
+    "name": "ACETAZOLAMIDE SODIUM"
+  }, 
+  {
+    "code": "1103030T0", 
+    "name": "TRIFLURIDINE (ANTIVIRALS)"
+  }, 
+  {
+    "code": "0206010K0", 
+    "name": "ISOSORBIDE MONONITRATE"
+  }, 
+  {
+    "code": "0501110G0", 
+    "name": "TINIDAZOLE"
+  }, 
+  {
+    "code": "0407020A0", 
+    "name": "FENTANYL"
+  }, 
+  {
+    "code": "1305030C0", 
+    "name": "TACROLIMUS"
+  }, 
+  {
+    "code": "0403010J0", 
+    "name": "DOSULEPIN HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1001010J0", 
+    "name": "IBUPROFEN"
+  }, 
+  {
+    "code": "131400000", 
+    "name": "OTHER TOPICAL CIRCULATORY PREPS"
+  }, 
+  {
+    "code": "090602200", 
+    "name": "OTHER NICOTINAMIDE (B7) PREPS"
+  }, 
+  {
+    "code": "0405020S0", 
+    "name": "SIBUTRAMINE"
+  }, 
+  {
+    "code": "0301020Q0", 
+    "name": "TIOTROPIUM"
+  }, 
+  {
+    "code": "0105010E0", 
+    "name": "SULFASALAZINE"
+  }, 
+  {
+    "code": "0604011Y0", 
+    "name": "TIBOLONE"
+  }, 
+  {
+    "code": "0501021K0", 
+    "name": "CEFUROXIME AXETIL"
+  }, 
+  {
+    "code": "0802040J0", 
+    "name": "INTERFERON ALPHA"
+  }, 
+  {
+    "code": "1003010P0", 
+    "name": "HYALURONIDASE"
+  }, 
+  {
+    "code": "0902011U0", 
+    "name": "POTASSIUM CHLORIDE"
+  }, 
+  {
+    "code": "1201010C0", 
+    "name": "ALUMINIUM ACETATE"
+  }, 
+  {
+    "code": "0204000C0", 
+    "name": "ACEBUTOLOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0605020E0", 
+    "name": "DESMOPRESSIN ACETATE"
+  }, 
+  {
+    "code": "1311020G0", 
+    "name": "CHLORHEXIDINE ACETATE"
+  }, 
+  {
+    "code": "2310", 
+    "name": "ADHESIVE (PASTES/SPRAYS/SOLUTIONS)"
+  }, 
+  {
+    "code": "1404000X0", 
+    "name": "MENINGOCOCCAL A + C  + W135 + Y VACCINE"
+  }, 
+  {
+    "code": "1106000AI", 
+    "name": "TIMOLOL & BIMATOPROST"
+  }, 
+  {
+    "code": "0208020X0", 
+    "name": "DABIGATRAN ETEXILATE"
+  }, 
+  {
+    "code": "0408010AF", 
+    "name": "RUFINAMIDE"
+  }, 
+  {
+    "code": "0504040M0", 
+    "name": "MEPACRINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0307000K0", 
+    "name": "DORNASE ALFA"
+  }, 
+  {
+    "code": "0101021B0", 
+    "name": "ALGINIC ACID COMPOUND PREPARATIONS"
+  }, 
+  {
+    "code": "1308010P0", 
+    "name": "PADIMATE O"
+  }, 
+  {
+    "code": "0401020A0", 
+    "name": "ALPRAZOLAM"
+  }, 
+  {
+    "code": "2123", 
+    "name": "VAGINAL MOISTURISERS"
+  }, 
+  {
+    "code": "0407041R0", 
+    "name": "RIZATRIPTAN"
+  }, 
+  {
+    "code": "1302010K0", 
+    "name": "LACTIC ACID"
+  }, 
+  {
+    "code": "1306010M0", 
+    "name": "ISOTRETINOIN"
+  }, 
+  {
+    "code": "0905022S0", 
+    "name": "SEVELAMER"
+  }, 
+  {
+    "code": "0106070A0", 
+    "name": "PRUCALOPRIDE"
+  }, 
+  {
+    "code": "0106040G0", 
+    "name": "LACTULOSE"
+  }, 
+  {
+    "code": "0502030B0", 
+    "name": "NYSTATIN"
+  }, 
+  {
+    "code": "1301010D0", 
+    "name": "CETOMACROGOL"
+  }, 
+  {
+    "code": "0205010J0", 
+    "name": "HYDRALAZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1902070E0", 
+    "name": "CHARCOAL"
+  }, 
+  {
+    "code": "0502050B0", 
+    "name": "GRISEOFULVIN"
+  }, 
+  {
+    "code": "0601060U0", 
+    "name": "URINE TESTING REAGENTS"
+  }, 
+  {
+    "code": "0605010M0", 
+    "name": "UROFOLLITROPIN"
+  }, 
+  {
+    "code": "0202010D0", 
+    "name": "CHLOROTHIAZIDE"
+  }, 
+  {
+    "code": "0304010W0", 
+    "name": "PROMETHAZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "190603000", 
+    "name": "OTHER EXTRACT PREPS"
+  }, 
+  {
+    "code": "0401010C0", 
+    "name": "CLORAL BETAINE"
+  }, 
+  {
+    "code": "0704020AB", 
+    "name": "SOLIFENACIN"
+  }, 
+  {
+    "code": "2130", 
+    "name": "EYE PRODUCTS"
+  }, 
+  {
+    "code": "0306000P0", 
+    "name": "OXYGEN"
+  }, 
+  {
+    "code": "0202040A0", 
+    "name": "AMILORIDE HYDROCHLORIDE WITH THIAZIDES"
+  }, 
+  {
+    "code": "1105000S0", 
+    "name": "TROPICAMIDE"
+  }, 
+  {
+    "code": "0501021L0", 
+    "name": "CEFALEXIN"
+  }, 
+  {
+    "code": "0202030X0", 
+    "name": "EPLERENONE"
+  }, 
+  {
+    "code": "1302030T0", 
+    "name": "TALC PURIFIED"
+  }, 
+  {
+    "code": "2141", 
+    "name": "PHYSICAL DEBRIDEMENT PAD"
+  }, 
+  {
+    "code": "0102000T0", 
+    "name": "PEPPERMINT OIL"
+  }, 
+  {
+    "code": "0606020R0", 
+    "name": "RISEDRONATE SODIUM"
+  }, 
+  {
+    "code": "0901060K0", 
+    "name": "LENOGRASTIM"
+  }, 
+  {
+    "code": "0205051K0", 
+    "name": "LISINOPRIL WITH DIURETIC"
+  }, 
+  {
+    "code": "0202010Y0", 
+    "name": "XIPAMIDE"
+  }, 
+  {
+    "code": "0309020I0", 
+    "name": "SQUILL"
+  }, 
+  {
+    "code": "2260", 
+    "name": "NIGHT DRAINAGE BAGS"
+  }, 
+  {
+    "code": "0501021C0", 
+    "name": "CEFIXIME"
+  }, 
+  {
+    "code": "0704010C0", 
+    "name": "BETHANECHOL CHLORIDE"
+  }, 
+  {
+    "code": "0901020D0", 
+    "name": "CYANOCOBALAMIN"
+  }, 
+  {
+    "code": "191402000", 
+    "name": "OTHER PURIFIED WATER PREPS"
+  }, 
+  {
+    "code": "0302000N0", 
+    "name": "FLUTICASONE PROPIONATE (INH)"
+  }, 
+  {
+    "code": "0203020I0", 
+    "name": "FLECAINIDE ACETATE"
+  }, 
+  {
+    "code": "090501300", 
+    "name": "OTHER MAGNESIUM PREPS"
+  }, 
+  {
+    "code": "1302010N0", 
+    "name": "PARAFFIN SOFT WHITE"
+  }, 
+  {
+    "code": "0408010Z0", 
+    "name": "PHENYTOIN"
+  }, 
+  {
+    "code": "1106000I0", 
+    "name": "BETAXOLOL"
+  }, 
+  {
+    "code": "2113", 
+    "name": "CATHETER MAINTENANCE SOLUTIONS"
+  }, 
+  {
+    "code": "090603200", 
+    "name": "OTHER VITAMIN C & BIOFLAVONOID PREPS"
+  }, 
+  {
+    "code": "1312000C0", 
+    "name": "ALUMINIUM CHLORIDE"
+  }, 
+  {
+    "code": "0107020P0", 
+    "name": "PREDNISOLONE"
+  }, 
+  {
+    "code": "0204000M0", 
+    "name": "NADOLOL"
+  }, 
+  {
+    "code": "090401060", 
+    "name": "GLUTEN FREE/LOW PROTEIN MEALS"
+  }, 
+  {
+    "code": "0407041F0", 
+    "name": "ERGOTAMINE TARTRATE"
+  }, 
+  {
+    "code": "0505010H0", 
+    "name": "PIPERAZINE"
+  }, 
+  {
+    "code": "1404000H0", 
+    "name": "INFLUENZA"
+  }, 
+  {
+    "code": "0407041AB", 
+    "name": "FROVATRIPTAN"
+  }, 
+  {
+    "code": "1202030R0", 
+    "name": "MUPIROCIN"
+  }, 
+  {
+    "code": "0503010U0", 
+    "name": "RITONAVIR"
+  }, 
+  {
+    "code": "0704050Y0", 
+    "name": "YOHIMBINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0105010B0", 
+    "name": "MESALAZINE (SYSTEMIC)"
+  }, 
+  {
+    "code": "2142", 
+    "name": "JAW REHABILITATION DEVICE"
+  }, 
+  {
+    "code": "0408010D0", 
+    "name": "OXCARBAZEPINE"
+  }, 
+  {
+    "code": "0202040U0", 
+    "name": "TRIAMTERENE WITH LOOP DIURETICS"
+  }, 
+  {
+    "code": "0410030B0", 
+    "name": "BUPRENORPH HCL/NALOXONE HCL"
+  }, 
+  {
+    "code": "120305000", 
+    "name": "OTHER TREATMENT OF DRY MOUTH PREPS"
+  }, 
+  {
+    "code": "1502010A0", 
+    "name": "TETRACAINE"
+  }, 
+  {
+    "code": "0901011W0", 
+    "name": "SODIUM FEREDATE"
+  }, 
+  {
+    "code": "0605010S0", 
+    "name": "SOMATROPIN"
+  }, 
+  {
+    "code": "0501030Z0", 
+    "name": "DOXYCYCLINE MONOHYDRATE"
+  }, 
+  {
+    "code": "0501090S0", 
+    "name": "RIFAMPICIN COMBINED PREPARATIONS"
+  }, 
+  {
+    "code": "1309000X0", 
+    "name": "EFLORNITHINE MONOHYDRATE CHLORIDE"
+  }, 
+  {
+    "code": "0302000K0", 
+    "name": "BUDESONIDE"
+  }, 
+  {
+    "code": "0401010AC", 
+    "name": "SODIUM OXYBATE"
+  }, 
+  {
+    "code": "0605020T0", 
+    "name": "TERLIPRESSIN"
+  }, 
+  {
+    "code": "0105040A0", 
+    "name": "SODIUM CROMOGLICATE"
+  }, 
+  {
+    "code": "0501030P0", 
+    "name": "MINOCYCLINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0503030C0", 
+    "name": "ENTECAVIR"
+  }, 
+  {
+    "code": "0503010Y0", 
+    "name": "ZIDOVUDINE"
+  }, 
+  {
+    "code": "1306010G0", 
+    "name": "CORTICOSTEROIDS"
+  }, 
+  {
+    "code": "120303000", 
+    "name": "OTHER LOZENGE & SPRAY PREPS"
+  }, 
+  {
+    "code": "0205051H0", 
+    "name": "ENALAPRIL MALEATE WITH DIURETIC"
+  }, 
+  {
+    "code": "0503010AC", 
+    "name": "DARUNAVIR"
+  }, 
+  {
+    "code": "2133", 
+    "name": "INDWELLING PLEURAL CATH DRAIN SYSTEM"
+  }, 
+  {
+    "code": "0505010D0", 
+    "name": "MEBENDAZOLE"
+  }, 
+  {
+    "code": "0103010D0", 
+    "name": "CIMETIDINE"
+  }, 
+  {
+    "code": "0403040S0", 
+    "name": "TRYPTOPHAN"
+  }, 
+  {
+    "code": "130203000", 
+    "name": "OTHER DUSTING POWDER PREPS"
+  }, 
+  {
+    "code": "0601023R0", 
+    "name": "REPAGLINIDE"
+  }, 
+  {
+    "code": "0902022I0", 
+    "name": "GELATIN"
+  }, 
+  {
+    "code": "091102000", 
+    "name": "OTHER ENZYME PREPS 0911020"
+  }, 
+  {
+    "code": "0901011K0", 
+    "name": "FERROUS GLYCINE SULPHATE"
+  }, 
+  {
+    "code": "0904010V0", 
+    "name": "GLUTEN FREE/LOW PROTEIN GRAINS/FLOURS"
+  }, 
+  {
+    "code": "1311060H0", 
+    "name": "HAMAMELIS"
+  }, 
+  {
+    "code": "0208020Y0", 
+    "name": "RIVAROXABAN"
+  }, 
+  {
+    "code": "020400010", 
+    "name": "PINDOLOL WITH DIURETIC"
+  }, 
+  {
+    "code": "0407020L0", 
+    "name": "MEPTAZINOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0402010A0", 
+    "name": "AMISULPRIDE"
+  }, 
+  {
+    "code": "0601012F0", 
+    "name": "BIPHASIC INSULIN LISPRO"
+  }, 
+  {
+    "code": "1003020AA", 
+    "name": "CAPSAICIN"
+  }, 
+  {
+    "code": "0605020Y0", 
+    "name": "TOLVAPTAN"
+  }, 
+  {
+    "code": "090401020", 
+    "name": "LOW PROTEIN GRAINS/FLOURS"
+  }, 
+  {
+    "code": "040201010", 
+    "name": "ZUCLOPENTHIXOL ACETATE"
+  }, 
+  {
+    "code": "130201000", 
+    "name": "OTHER EMOLLIENT PREPS"
+  }, 
+  {
+    "code": "1104020Y0", 
+    "name": "KETOTIFEN FUMARATE"
+  }, 
+  {
+    "code": "0401010P0", 
+    "name": "LORMETAZEPAM"
+  }, 
+  {
+    "code": "110802070", 
+    "name": "KETOROLAC TROMETAMOL"
+  }, 
+  {
+    "code": "0403010N0", 
+    "name": "IMIPRAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1501070F0", 
+    "name": "FLUMAZENIL"
+  }, 
+  {
+    "code": "0504010G0", 
+    "name": "CHLOROQUINE SULPHATE"
+  }, 
+  {
+    "code": "2205", 
+    "name": "CATHETER VALVES"
+  }, 
+  {
+    "code": "0901011C0", 
+    "name": "COMPOUND IRON PREPARATIONS"
+  }, 
+  {
+    "code": "0704030G0", 
+    "name": "POTASSIUM CITRATE"
+  }, 
+  {
+    "code": "0209000A0", 
+    "name": "ASPIRIN"
+  }, 
+  {
+    "code": "0410030D0", 
+    "name": "LOFEXIDINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0304010H0", 
+    "name": "CLEMASTINE FUMARATE"
+  }, 
+  {
+    "code": "0205052Y0", 
+    "name": "OLMESARTAN MEDOXOMIL/HYDROCHLOROTHIAZIDE"
+  }, 
+  {
+    "code": "0905030G0", 
+    "name": "SODIUM FLUORIDE"
+  }, 
+  {
+    "code": "0503010A0", 
+    "name": "LAMIVUDINE & ZIDOVUDINE"
+  }, 
+  {
+    "code": "0406000D0", 
+    "name": "CINNARIZINE"
+  }, 
+  {
+    "code": "0206030N0", 
+    "name": "NICORANDIL"
+  }, 
+  {
+    "code": "1002010Q0", 
+    "name": "PYRIDOSTIGMINE BROMIDE"
+  }, 
+  {
+    "code": "0202010L0", 
+    "name": "HYDROCHLOROTHIAZIDE"
+  }, 
+  {
+    "code": "0106020P0", 
+    "name": "SODIUM PICOSULFATE"
+  }, 
+  {
+    "code": "1201010B0", 
+    "name": "ACETIC ACID"
+  }, 
+  {
+    "code": "0310000N0", 
+    "name": "PSEUDOEPHEDRINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0407010X0", 
+    "name": "PARACETAMOL COMBINED PREPARATIONS"
+  }, 
+  {
+    "code": "091000000", 
+    "name": "OTHER COMP VIT/MINERAL FORMULATION PREPS"
+  }, 
+  {
+    "code": "0503040A0", 
+    "name": "ZANAMIVIR"
+  }, 
+  {
+    "code": "1202010L0", 
+    "name": "FLUNISOLIDE"
+  }, 
+  {
+    "code": "2360", 
+    "name": "ILEOSTOMY BAGS"
+  }, 
+  {
+    "code": "0103040M0", 
+    "name": "MISOPROSTOL"
+  }, 
+  {
+    "code": "0301030B0", 
+    "name": "AMINOPHYLLINE"
+  }, 
+  {
+    "code": "0604030P0", 
+    "name": "OXANDROLONE"
+  }, 
+  {
+    "code": "2137", 
+    "name": "PELVIC TONING DEVICES"
+  }, 
+  {
+    "code": "0503010AE", 
+    "name": "RALTEGRAVIR"
+  }, 
+  {
+    "code": "0304010AE", 
+    "name": "RUPATADINE FUMARATE"
+  }, 
+  {
+    "code": "0801030H0", 
+    "name": "FLUOROURACIL (ANTIMETABOLITES)"
+  }, 
+  {
+    "code": "0901011F0", 
+    "name": "FERROUS FUMARATE"
+  }, 
+  {
+    "code": "0301011B0", 
+    "name": "BAMBUTEROL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "120101020", 
+    "name": "OTHER AURAL PREPARATIONS"
+  }, 
+  {
+    "code": "0205040M0", 
+    "name": "PHENOXYBENZAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0403030Z0", 
+    "name": "CITALOPRAM HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1108010A0", 
+    "name": "MERCAPTAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0101010J0", 
+    "name": "MAGNESIUM TRISILICATE"
+  }, 
+  {
+    "code": "0504010T0", 
+    "name": "QUININE BISULPHATE"
+  }, 
+  {
+    "code": "0408010P0", 
+    "name": "PHENOBARBITAL SOD"
+  }, 
+  {
+    "code": "040101000", 
+    "name": "OTHER HYPNOTIC PREPS"
+  }, 
+  {
+    "code": "0206030Z0", 
+    "name": "RANOLAZINE"
+  }, 
+  {
+    "code": "0409010Y0", 
+    "name": "RASAGILINE MESILATE"
+  }, 
+  {
+    "code": "190800000", 
+    "name": "OTHER COLOUR  FLAVOUR & SWEETENING PREPS"
+  }, 
+  {
+    "code": "0902012L0", 
+    "name": "SODIUM CHLORIDE"
+  }, 
+  {
+    "code": "0403020M0", 
+    "name": "PHENELZINE SULPHATE"
+  }, 
+  {
+    "code": "0803042R0", 
+    "name": "DEGARELIX"
+  }, 
+  {
+    "code": "1311050U0", 
+    "name": "TRICLOSAN"
+  }, 
+  {
+    "code": "0410030E0", 
+    "name": "NALTREXONE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0403010R0", 
+    "name": "LOFEPRAMINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0204000F0", 
+    "name": "ATENOLOL WITH DIURETIC"
+  }, 
+  {
+    "code": "0202040D0", 
+    "name": "AMILORIDE HCL WITH LOOP DIURETICS"
+  }, 
+  {
+    "code": "0209000Z0", 
+    "name": "TICAGRELOR"
+  }, 
+  {
+    "code": "0205052A0", 
+    "name": "IRBESARTAN WITH DIURETIC"
+  }, 
+  {
+    "code": "0103030W0", 
+    "name": "TRIPOTASSIUM DICITRATOBISMUTHATE"
+  }, 
+  {
+    "code": "0501070H0", 
+    "name": "COLISTIN SULPHATE"
+  }, 
+  {
+    "code": "0408010AB", 
+    "name": "TIAGABINE"
+  }, 
+  {
+    "code": "0205052X0", 
+    "name": "VALSARTAN WITH DIURETIC"
+  }, 
+  {
+    "code": "0202020U0", 
+    "name": "TORASEMIDE"
+  }, 
+  {
+    "code": "1003020Y0", 
+    "name": "FREEZE SPRAYS & GELS"
+  }, 
+  {
+    "code": "0206040AF", 
+    "name": "NICOTINIC ACID DERIVATIVES"
+  }, 
+  {
+    "code": "1104020AB", 
+    "name": "HAMAMALIS"
+  }, 
+  {
+    "code": "0501021F0", 
+    "name": "CEFPODOXIME"
+  }, 
+  {
+    "code": "0503010D0", 
+    "name": "EFAVIRENZ"
+  }, 
+  {
+    "code": "0607030T0", 
+    "name": "TRILOSTANE"
+  }, 
+  {
+    "code": "0202030C0", 
+    "name": "AMILORIDE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0802020G0", 
+    "name": "CICLOSPORIN"
+  }, 
+  {
+    "code": "1001010AA", 
+    "name": "MELOXICAM"
+  }, 
+  {
+    "code": "0403030E0", 
+    "name": "FLUOXETINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0407041AA", 
+    "name": "ELETRIPTAN"
+  }, 
+  {
+    "code": "010102100", 
+    "name": "COMPOUND ALGINATES&PROP INDIGESTION PREP"
+  }, 
+  {
+    "code": "0501050K0", 
+    "name": "ERYTHROMYCIN LACTOBIONATE"
+  }, 
+  {
+    "code": "1107000Q0", 
+    "name": "PROXYMETACAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0205052N0", 
+    "name": "LOSARTAN POTASSIUM"
+  }, 
+  {
+    "code": "2215", 
+    "name": "FAECAL COLLECTORS"
+  }, 
+  {
+    "code": "0803010K0", 
+    "name": "DIETHYLSTILBESTROL"
+  }, 
+  {
+    "code": "0607020C0", 
+    "name": "DANAZOL"
+  }, 
+  {
+    "code": "1311040T0", 
+    "name": "SODIUM HYPOCHLORITE"
+  }, 
+  {
+    "code": "0205051S0", 
+    "name": "RAMIPRIL WITH CALCIUM CHANNEL BLOCKER"
+  }, 
+  {
+    "code": "0601023AB", 
+    "name": "LIRAGLUTIDE"
+  }, 
+  {
+    "code": "0408010G0", 
+    "name": "GABAPENTIN"
+  }, 
+  {
+    "code": "1003020M0", 
+    "name": "FELBINAC"
+  }, 
+  {
+    "code": "0501030L0", 
+    "name": "LYMECYCLINE"
+  }, 
+  {
+    "code": "0601023U0", 
+    "name": "NATEGLINIDE"
+  }, 
+  {
+    "code": "0212000AA", 
+    "name": "ROSUVASTATIN CALCIUM"
+  }, 
+  {
+    "code": "1203050A0", 
+    "name": "ARTIFICIAL SALIVA"
+  }, 
+  {
+    "code": "2126", 
+    "name": "LEG ULCER WRAP"
+  }, 
+  {
+    "code": "0209000U0", 
+    "name": "TICLOPIDINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1106000Z0", 
+    "name": "TIMOLOL"
+  }, 
+  {
+    "code": "0801050R0", 
+    "name": "MITOTANE"
+  }, 
+  {
+    "code": "1305020D0", 
+    "name": "CALCIPOTRIOL"
+  }, 
+  {
+    "code": "0105010D0", 
+    "name": "BALSALAZIDE SODIUM"
+  }, 
+  {
+    "code": "0204000T0", 
+    "name": "SOTALOL HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0601040H0", 
+    "name": "GLUCAGON"
+  }, 
+  {
+    "code": "0408010Y0", 
+    "name": "SULTIAME"
+  }, 
+  {
+    "code": "1104020G0", 
+    "name": "FLURBIPROFEN SODIUM"
+  }, 
+  {
+    "code": "1305030B0", 
+    "name": "PIMECROLIMUS"
+  }, 
+  {
+    "code": "1203020H0", 
+    "name": "MICONAZOLE"
+  }, 
+  {
+    "code": "0102000N0", 
+    "name": "HYOSCINE BUTYLBROMIDE"
+  }, 
+  {
+    "code": "0501100J0", 
+    "name": "THALIDOMIDE (ANTILEPROTIC)"
+  }, 
+  {
+    "code": "0401010AD", 
+    "name": "MELATONIN"
+  }, 
+  {
+    "code": "0501021J0", 
+    "name": "CEFUROXIME SODIUM"
+  }, 
+  {
+    "code": "0401010Y0", 
+    "name": "ZOLPIDEM TARTRATE"
+  }, 
+  {
+    "code": "1001010G0", 
+    "name": "FENOPROFEN"
+  }, 
+  {
+    "code": "1501020R0", 
+    "name": "NITROUS OXIDE"
+  }, 
+  {
+    "code": "0606020A0", 
+    "name": "ALENDRONIC ACID"
+  }, 
+  {
+    "code": "1203030G0", 
+    "name": "TETRACAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0501100H0", 
+    "name": "DAPSONE"
+  }, 
+  {
+    "code": "0103010H0", 
+    "name": "FAMOTIDINE"
+  }, 
+  {
+    "code": "1003020W0", 
+    "name": "HEPARINOID"
+  }, 
+  {
+    "code": "0212000AE", 
+    "name": "NICOTINIC ACID/LAROPIPRANT"
+  }, 
+  {
+    "code": "0408020Q0", 
+    "name": "PARALDEHYDE"
+  }, 
+  {
+    "code": "0607010T0", 
+    "name": "QUINAGOLIDE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0905050A0", 
+    "name": "SELENIUM"
+  }, 
+  {
+    "code": "0402010L0", 
+    "name": "LEVOMEPROMAZINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "1310050D0", 
+    "name": "CETRIMIDE"
+  }, 
+  {
+    "code": "2131", 
+    "name": "CYCLOIDAL VIBRATION ACCESSORIES"
+  }, 
+  {
+    "code": "1315000G0", 
+    "name": "DEPIGMENTING AGENTS"
+  }, 
+  {
+    "code": "0101010C0", 
+    "name": "ALUMINIUM HYDROXIDE"
+  }, 
+  {
+    "code": "0603020H0", 
+    "name": "DEXAMETHASONE SODIUM PHOSPHATE"
+  }, 
+  {
+    "code": "0904010AK", 
+    "name": "G/F /W/F /L/P COOKING AIDS"
+  }, 
+  {
+    "code": "1104020N0", 
+    "name": "NEDOCROMIL SODIUM"
+  }, 
+  {
+    "code": "2106", 
+    "name": "TRUSSES"
+  }, 
+  {
+    "code": "0303020G0", 
+    "name": "MONTELUKAST"
+  }, 
+  {
+    "code": "0504010Y0", 
+    "name": "QUININE SULPHATE"
+  }, 
+  {
+    "code": "0206020Q0", 
+    "name": "NICARDIPINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0309010C0", 
+    "name": "CODEINE PHOSPHATE"
+  }, 
+  {
+    "code": "1103010C0", 
+    "name": "CHLORAMPHENICOL"
+  }, 
+  {
+    "code": "1203030X0", 
+    "name": "HEXYLRESORCINOL & BENZALKONIUM CHLORIDE"
+  }, 
+  {
+    "code": "0904010AE", 
+    "name": "GLUTEN FREE/LOW PROTEIN CEREALS"
+  }, 
+  {
+    "code": "0802040M0", 
+    "name": "INTERFERON BETA"
+  }, 
+  {
+    "code": "0403030D0", 
+    "name": "CITALOPRAM HYDROBROMIDE"
+  }, 
+  {
+    "code": "0104020P0", 
+    "name": "LOPERAMIDE HYDROCHLORIDE & SIMETICONE"
+  }, 
+  {
+    "code": "0107010G0", 
+    "name": "CINCHOCAINE HYDROCHLORIDE"
+  }, 
+  {
+    "code": "0301011E0", 
+    "name": "FORMOTEROL FUMARATE"
+  }, 
+  {
+    "code": "0902013P0", 
+    "name": "POTASSIUM BICARBONATE"
+  }, 
+  {
+    "code": "0409030R0", 
+    "name": "RILUZOLE"
+  }, 
+  {
+    "code": "0403020K0", 
+    "name": "MOCLOBEMIDE"
+  }, 
+  {
+    "code": "1307000M0", 
+    "name": "SALICYLIC ACID"
+  }, 
+  {
+    "code": "0105010C0", 
+    "name": "OLSALAZINE SODIUM"
+  }, 
+  {
+    "code": "0503021D0", 
+    "name": "INOSINE PRANOBEX"
+  }, 
+  {
+    "code": "0401030E0", 
+    "name": "AMOBARBITAL SODIUM"
+  }, 
+  {
+    "code": "2210", 
+    "name": "DRAINABLE DRIBBLING APPLIANCES"
+  }, 
+  {
+    "code": "2346", 
+    "name": "DISCHARGE SOLIDIFYING AGENTS"
+  }, 
+  {
+    "code": "0606010U0", 
+    "name": "TERIPARATIDE"
+  }, 
+  {
+    "code": "1311010U0", 
+    "name": "SOLVENT ETHER"
+  }, 
+  {
+    "code": "0407020B0", 
+    "name": "BUPRENORPHINE"
+  }, 
+  {
+    "code": "0901030I0", 
+    "name": "DEFERIPRONE"
+  }, 
+  {
+    "code": "0904010AH", 
+    "name": "GLUTEN FREE/WHEAT FREE/LOW PROTEIN PASTA"
+  }, 
+  {
+    "code": "0703010R0", 
+    "name": "ESTRADIOL VAL&ESTRADIOL VAL + DIENOGEST"
+  }, 
+  {
+    "code": "090502100", 
+    "name": "OTHER PHOSPHATE SUPPLEMENT PREPS"
+  }, 
+  {
+    "code": "190205000", 
+    "name": "OTHER HOUSEHOLD & OVER THE COUNTER PREPS"
+  }, 
+  {
+    "code": "0906026V0", 
+    "name": "VITAMIN B & C INJECTION"
+  }, 
+  {
+    "code": "0602010Z0", 
+    "name": "LEVOTHYROXINE SODIUM & LIOTHYRONINE"
+  }, 
+  {
+    "code": "0202010P0", 
+    "name": "INDAPAMIDE"
+  }, 
+  {
+    "code": "0904010L0", 
+    "name": "GLUTEN FREE CAKES/PASTRIES"
+  }, 
+  {
+    "code": "1306010V0", 
+    "name": "TRETINOIN"
+  }, 
+  {
+    "code": "0309020G0", 
+    "name": "GUAIFENESIN"
+  }, 
+  {
+    "code": "2121", 
+    "name": "DRY MOUTH PRODUCTS"
+  }, 
+  {
+    "code": "1304000H0", 
+    "name": "CLOBETASONE BUTYRATE"
+  }, 
+  {
+    "code": "0409030C0", 
+    "name": "TETRABENAZINE"
+  }, 
+  {
+    "code": "0403020H0", 
+    "name": "ISOCARBOXAZID"
+  }, 
+  {
+    "code": "0407041A0", 
+    "name": "ANALGESICS WITH ANTI-EMETICS"
+  }, 
+  {
+    "code": "0503010K0", 
+    "name": "EMTRICITABINE"
+  }, 
+  {
+    "code": "0109040N0", 
+    "name": "PANCREATIN"
+  }, 
+  {
+    "code": "0703022N0", 
+    "name": "NORETHISTERONE ENANTATE"
+  }, 
+  {
+    "code": "0101010E0", 
+    "name": "HYDROTALCITE"
+  }, 
+  {
+    "code": "0703010E0", 
+    "name": "COMBINED ETHINYLESTRADIOL 20MCG"
+  }, 
+  {
+    "code": "1003020V0", 
+    "name": "TURPENTINE OIL"
+  }, 
+  {
+    "code": "1202030S0", 
+    "name": "NEOMYCIN SULPHATE"
+  }, 
+  {
+    "code": "0204000H0", 
+    "name": "BISOPROLOL FUMARATE"
+  }, 
+  {
+    "code": "1001040G0", 
+    "name": "COLCHICINE"
+  }, 
+  {
+    "code": "190900000", 
+    "name": "OTHER DISINFECT PRESERV&STERILISINGPREPS"
+  }, 
+  {
+    "code": "0406000V0", 
+    "name": "PROMETHAZINE TEOCLATE"
+  }, 
+  {
+    "code": "131200000", 
+    "name": "OTHER ANTIPERSPIRANT PREPS"
+  }, 
+  {
+    "code": "0401010Z0", 
+    "name": "ZOPICLONE"
+  }, 
+  {
+    "code": "1108010B0", 
+    "name": "CARBOMER 940/980"
+  }, 
+  {
+    "code": "0108010S0", 
+    "name": "SKIN PROTECTIVES FILLERS & CLEANSERS"
+  }, 
+  {
+    "code": "0103020P0", 
+    "name": "PIRENZEPINE"
+  }, 
+  {
+    "code": "0106010E0", 
+    "name": "ISPAGHULA HUSK"
+  }, 
+  {
+    "code": "1001010AM", 
+    "name": "DEXIBUPROFEN"
+  }, 
+  {
+    "code": "0102000D0", 
+    "name": "COMPOUND ANTISPASMODIC PREPARATIONS"
+  }, 
+  {
+    "code": "2120", 
+    "name": "VENOUS ULCER COMPRESSION SYSTEM"
+  }, 
+  {
+    "code": "0103050E0", 
+    "name": "ESOMEPRAZOLE"
+  }, 
+  {
+    "code": "0408010K0", 
+    "name": "MESUXIMIDE"
+  }, 
+  {
+    "code": "0801000T0", 
+    "name": "MESNA"
+  }
+]

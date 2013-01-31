@@ -14,10 +14,17 @@ bnf =  json.loads(
         ), 'r').read()
     )
 
+bnfcodes = json.loads(
+    open('data/bnfcodes.json', 'r').read()
+    )
+
 def main():
     db.drugs.drop()
+    db.codes.drop()
     for drug in bnf.values():
         db.drugs.save(drug)
+    for codemap in bnfcodes:
+        db.codes.save(codemap)
     return 0
 
 if __name__ == '__main__':

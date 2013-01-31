@@ -5,7 +5,15 @@
     "apis": [
         {
             "path": "/drug",
-            "description": ""
+            "description": "Drug search and retrieval APIs"
+        },
+        {
+            "path": "/indication",
+            "description": "Indication search APIs"
+        },
+        {
+            "path": "/sideeffects",
+            "description": "Side effects search APIs"
         }
     ]
 }

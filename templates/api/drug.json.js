@@ -30,6 +30,35 @@
                     ]
                 }
             ]
+        },
+        {
+            "path": "/drug/{code}",
+            "description": "OpenBNF Drug entries",
+            "operations": [
+                {
+                    "httpMethod": "GET",
+                    "summary": "Retrieve a drug by BNF code",
+                    "responseClass": "string",
+                    "nickname": "drugCode",
+                    "parameters": [
+                        {
+                            "name": "code",
+                            "description": "The BNF Code of the drug",
+                            "paramType": "path",
+                            "required": true,
+                            "allowMultiple": false,
+                            "dataType": "string"
+                        }
+                    ],
+                    "errorResponses": [
+                        {
+                            "code": 404,
+                            "reason": "No matching drugs found"
+                        }
+                    ]
+                }
+            ]
         }
+
     ]
 }
