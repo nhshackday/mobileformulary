@@ -97,7 +97,11 @@ def drugs_quite_close(drug):
 
     Perform a fuzzy match and return that.
     """
-    return difflib.get_close_matches(drug.upper(), NAMES)
+    wholeterm = difflib.get_close_matches(drug.upper(), NAMES)
+    fristword = difflib.get_close_matches(drug.split()[0].upper(), NAMES)
+    print 'wholeterm', wholeterm
+    print 'fristword', fristword
+    return list(set(wholeterm + fristword))
 
 """
 Views
@@ -112,15 +116,21 @@ def about():
 
 @app.route("/search", methods = ['GET', 'POST'])
 def search():
-    drug = request.form['q']
+    if request.method == 'POST':
+        drug = request.form.get('q', '')
+    else:
+        drug = request.args.get('q', '')
+
+    print 'Query is ', drug
+
     results = drugs_like_me(drug)
 
-    if len(results) == 1 and results[0].lower() == drug.lower():
-        return redirect('/result/{0}'.format(results[0]))
+    if len(results) == 1 and results[0]['name'].lower() == drug.lower():
+        return redirect('/result/{0}'.format(results[0]['name']))
     suggestions = []
     if not results:
         suggestions = drugs_quite_close(drug)
-    return render_template('search.html', results=results, query=drug, suggestions=suggestions)
+    return render_template('search.jinja2', results=results, query=drug, suggestions=suggestions)
 
 @app.route("/result/<drug>")
 def result(drug):
@@ -144,8 +154,9 @@ def ajaxsearch():
     term = term.replace('+',  ' ')
     responses = drugs_like_me(term)[:10]
     responses = [n['name'] for n in responses]
-    print responses
-    return json.dumps(responses)
+    if len(responses) > 0:
+        return json.dumps(responses)
+    return json.dumps(drugs_quite_close(term))
 
 @app.route('/api/')
 def api_v1_drugs():

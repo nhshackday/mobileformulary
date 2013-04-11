@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Index{% endblock %}
+{% block content %}
+  <h2> Search Results</h2>
+
+{% include 'searchbox.html' %}
+{% if not results and not suggestions%}
+  <h2>Yikes!</h2>
+  <p>We don't really know what to do with that...</p>
+  <p>I guess you're looking in the wrong universe!</p>
+{% elif not results%}
+  <h2>Yikes!</h2>
+  <p>We couldn't find anything for that - did you mean one of these?</p>
+  <ul class="list">
+    {% for drug in suggestions %}
+    <li>
+        <h3><a href="/result/{{drug}}">{{ drug }}</a></h3>
+    </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <ul class="list">
+    {% for drug in results %}
+      {% include 'drugresult.html' %}
+  {% endfor %}
+  </ul>
+{% endif %}
+{% endblock %}
