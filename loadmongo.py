@@ -28,5 +28,5 @@ def main():
     return 0
 
 if __name__ == '__main__':
-    db.drus.drop()
+    db.drugs.drop()
     sys.exit(main())
