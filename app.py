@@ -191,16 +191,13 @@ def apidoc():
 @app.route('/api/v2/drug/<code>')
 @jsonp
 def api_v2_drug_bnf_code(code):
-    print code
     codemap = db.codes.find_one({'code': code})
     if not codemap:
         abort(404)
-    print codemap
     drug = db.drugs.find_one({'name': codemap['name']})
     if not drug:
         abort(404)
     del drug['_id']
-    print drug
     return drug
 
 @app.route('/api/v2/drug')
